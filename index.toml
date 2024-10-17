@@ -63534,7 +63534,7 @@ hash = "e27ad3870cf43365fa4ad578028f193f469484d32f2914d9c59a37eb0025e229"
 
 [[files]]
 file = "modlist.md"
-hash = "4aad411207787cccf6a6cb5110b8cd294ff13b01ea602a5a8f98b0cf496540f6"
+hash = "1e2896b45e1579a2ed8c5318730186da77862b177e4461bff1a4c2efa46cb96e"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
@@ -63999,11 +63999,6 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "72588c98e9b0bff32484ad8d08d3c7589bb77e63d4aedf5e4d8406e55e5e7c60"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "8285ee178c3adaa75741f28d9ee47f51ada26fa3e7de2fc755a9e7bd26739f2a"
 metafile = true
 
 [[files]]
