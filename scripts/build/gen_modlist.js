@@ -5,11 +5,12 @@ const modsDir = path.resolve(import.meta.dirname, "..", "..", "mods");
 const modlist = path.resolve(import.meta.dirname, "..", "..", "modlist.md");
 try {
     await fs.rm(modlist, { force: true });
+    await fs.appendFile(modlist, `| Mods |\n | --- |\n`);
     const files = (await fs.readdir(modsDir)).filter(e => e !== ".connector").map(e => path.resolve(modsDir, e));
-    for await (let file of files) {
+    for (const file of files) {
         const contents = await fs.readFile(file, "utf-8");
         const data = toml.parse(contents);
-        fs.appendFile(modlist, `${data.name}\n`);
+        await fs.appendFile(modlist, `| ${data.name} |\n`);
     }
 }
 catch (ex) {

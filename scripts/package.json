@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node build/gen_modlist.js"
+  },
   "type": "module",
   "dependencies": {
     "@types/node": "^22.7.6",
