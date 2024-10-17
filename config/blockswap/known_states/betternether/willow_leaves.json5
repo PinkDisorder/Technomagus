@@ -1,0 +1,3699 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "1"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "2"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "3"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "4"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "5"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "6"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "north",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "north",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "north",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "north",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "east",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "east",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "east",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "east",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "south",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "south",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "south",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "south",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "west",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "west",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "west",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "west",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "up",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "up",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "up",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "up",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "true",
+			"facing": "down",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "true",
+			"facing": "down",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "true",
+			"natural": "false",
+			"facing": "down",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"persistent": "false",
+			"natural": "false",
+			"facing": "down",
+			"distance": "7"
+		},
+		"Name": "betternether:willow_leaves"
+	}
+]

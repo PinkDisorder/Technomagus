@@ -1,0 +1,293 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "upper",
+			"edge": "north"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "upper",
+			"edge": "north"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "lower",
+			"edge": "north"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "upper",
+			"edge": "northeast"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "upper",
+			"edge": "northeast"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "lower",
+			"edge": "northeast"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "lower",
+			"edge": "northeast"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "upper",
+			"edge": "east"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "upper",
+			"edge": "east"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "lower",
+			"edge": "east"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "lower",
+			"edge": "east"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "upper",
+			"edge": "southeast"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "upper",
+			"edge": "southeast"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "lower",
+			"edge": "southeast"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "lower",
+			"edge": "southeast"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "upper",
+			"edge": "south"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "upper",
+			"edge": "south"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "lower",
+			"edge": "south"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "lower",
+			"edge": "south"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "upper",
+			"edge": "southwest"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "upper",
+			"edge": "southwest"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "lower",
+			"edge": "southwest"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "lower",
+			"edge": "southwest"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "upper",
+			"edge": "west"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "upper",
+			"edge": "west"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "lower",
+			"edge": "west"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "lower",
+			"edge": "west"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "upper",
+			"edge": "northwest"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "upper",
+			"edge": "northwest"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"half": "lower",
+			"edge": "northwest"
+		},
+		"Name": "embers:inferno_forge_edge"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"half": "lower",
+			"edge": "northwest"
+		},
+		"Name": "embers:inferno_forge_edge"
+	}
+]

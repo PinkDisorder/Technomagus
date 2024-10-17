@@ -1,0 +1,724 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "north"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "east"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "south"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "west"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "up"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "true",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "true",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "true",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"leaf": "false",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"leaf": "false",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"leaf": "false",
+			"facing": "down"
+		},
+		"Name": "betterend:end_lotus_stem"
+	}
+]

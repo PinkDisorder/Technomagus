@@ -1,0 +1,329 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "off",
+			"facing": "north"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "off",
+			"facing": "north"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "weak",
+			"facing": "north"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "weak",
+			"facing": "north"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "weak",
+			"facing": "north"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "lit",
+			"facing": "north"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "lit",
+			"facing": "north"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "lit",
+			"facing": "north"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "off",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "off",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "off",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "weak",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "weak",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "weak",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "lit",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "lit",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "lit",
+			"facing": "south"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "off",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "off",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "off",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "weak",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "weak",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "weak",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "lit",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "lit",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "lit",
+			"facing": "west"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "off",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "off",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "off",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "weak",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "weak",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "weak",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "wood",
+			"heat": "lit",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "copper",
+			"heat": "lit",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"material": "netherite",
+			"heat": "lit",
+			"facing": "east"
+		},
+		"Name": "brewery:brew_oven"
+	}
+]

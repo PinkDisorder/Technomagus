@@ -1,0 +1,550 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "0"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "0"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "0"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "1"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "1"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "1"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "1"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "2"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "2"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "2"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "2"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "3"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "3"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "3"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "3"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "4"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "4"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "4"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "4"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "5"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "5"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "5"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "5"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "6"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "6"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "6"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "6"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "7"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "7"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "7"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "7"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "8"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "8"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "8"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "8"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "9"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "9"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "9"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "9"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "10"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "10"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "10"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "10"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "11"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "11"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "11"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "11"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "12"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "12"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "12"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "12"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "13"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "13"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "13"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "13"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "14"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "14"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "14"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "14"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "15"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "15"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "15"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "15"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "16"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "16"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "16"
+		},
+		"Name": "cccbridge:redrouter_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "16"
+		},
+		"Name": "cccbridge:redrouter_block"
+	}
+]

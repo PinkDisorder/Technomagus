@@ -1,0 +1,324 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "true",
+			"facing": "north",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "true",
+			"facing": "north",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "false",
+			"facing": "north",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "false",
+			"facing": "north",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "true",
+			"facing": "south",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "true",
+			"facing": "south",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "false",
+			"facing": "south",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "false",
+			"facing": "south",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "true",
+			"facing": "west",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "true",
+			"facing": "west",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "false",
+			"facing": "west",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "false",
+			"facing": "west",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "true",
+			"facing": "east",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "true",
+			"facing": "east",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "false",
+			"facing": "east",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "false",
+			"facing": "east",
+			"cooking": "true"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "true",
+			"facing": "north",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "true",
+			"facing": "north",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "false",
+			"facing": "north",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "true",
+			"facing": "south",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "true",
+			"facing": "south",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "false",
+			"facing": "south",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "false",
+			"facing": "south",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "true",
+			"facing": "west",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "true",
+			"facing": "west",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "false",
+			"facing": "west",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "false",
+			"facing": "west",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "true",
+			"facing": "east",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "true",
+			"facing": "east",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "true",
+			"lit": "false",
+			"facing": "east",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"needs_support": "false",
+			"lit": "false",
+			"facing": "east",
+			"cooking": "false"
+		},
+		"Name": "farm_and_charm:cooking_pot"
+	}
+]

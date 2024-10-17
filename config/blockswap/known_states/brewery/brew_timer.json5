@@ -1,0 +1,1059 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "north",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "south",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "west",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "east",
+			"activated": "true"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "north",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "south",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "west",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "wood",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "wood",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "copper",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "copper",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "true",
+			"material": "netherite",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "true",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"time": "false",
+			"pressed": "false",
+			"material": "netherite",
+			"facing": "east",
+			"activated": "false"
+		},
+		"Name": "brewery:brew_timer"
+	}
+]

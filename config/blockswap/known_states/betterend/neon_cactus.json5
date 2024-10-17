@@ -1,0 +1,1084 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "north",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "north",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "north",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "north",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "north",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "north",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "east",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "east",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "east",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "east",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "east",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "east",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "south",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "south",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "south",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "south",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "south",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "south",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "west",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "west",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "west",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "west",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "west",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "west",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "up",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "up",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "up",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "up",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "up",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "down",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "down",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "down",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "down",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "down",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "down",
+			"bottom": "empty"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "north",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "north",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "north",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "north",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "north",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "north",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "east",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "east",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "east",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "east",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "east",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "east",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "south",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "south",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "south",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "south",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "south",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "south",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "west",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "west",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "west",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "west",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "west",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "west",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "up",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "up",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "up",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "up",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "up",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "up",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "down",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "down",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "down",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "down",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "down",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "down",
+			"bottom": "sand"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "north",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "north",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "north",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "north",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "north",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "north",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "east",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "east",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "east",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "east",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "east",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "east",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "south",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "south",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "south",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "south",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "south",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "south",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "west",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "west",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "west",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "west",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "west",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "west",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "up",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "up",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "up",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "up",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "up",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "up",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "top",
+			"facing": "down",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "top",
+			"facing": "down",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "middle",
+			"facing": "down",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "middle",
+			"facing": "down",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "bottom",
+			"facing": "down",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "bottom",
+			"facing": "down",
+			"bottom": "moss"
+		},
+		"Name": "betterend:neon_cactus"
+	}
+]

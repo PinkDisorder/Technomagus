@@ -1,0 +1,168 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "barrel_cactus"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "black_apple"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "black_bush"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "egg_plant"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "ink_bush"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "reeds"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "nether_cactus"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "nether_grass"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "orange_mushroom"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "red_mold"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "gray_mold"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "magma_flower"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "nether_wart"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "willow"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "smoker"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "wart"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "jungle_plant"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "jellyfish_mushroom"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "swamp_grass"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "soul_grass"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "bone_grass"
+		},
+		"Name": "betternether:potted_plant"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"plant": "bone_mushroom"
+		},
+		"Name": "betternether:potted_plant"
+	}
+]

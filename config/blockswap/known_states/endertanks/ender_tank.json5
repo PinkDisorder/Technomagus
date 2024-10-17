@@ -1,0 +1,329 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "true",
+			"facing": "down"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "true",
+			"facing": "down"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "true",
+			"facing": "down"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "false",
+			"facing": "down"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "false",
+			"facing": "down"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "true",
+			"facing": "up"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "true",
+			"facing": "up"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "true",
+			"facing": "up"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "false",
+			"facing": "up"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "false",
+			"facing": "up"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "false",
+			"facing": "up"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "true",
+			"facing": "north"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "false",
+			"facing": "north"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "true",
+			"facing": "south"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "false",
+			"facing": "south"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "true",
+			"facing": "west"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "false",
+			"facing": "west"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "true",
+			"facing": "east"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "public",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "private",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "endertanks:ender_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"variant": "team",
+			"powered": "false",
+			"facing": "east"
+		},
+		"Name": "endertanks:ender_tank"
+	}
+]

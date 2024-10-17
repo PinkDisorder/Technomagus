@@ -1,0 +1,91 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "top"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "side_big_n"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "side_big_s"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "side_big_e"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "side_big_w"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "side_small_n"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "side_small_s"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "side_small_e"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "side_small_w"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "end"
+		},
+		"Name": "betternether:mushroom_fir_trunk"
+	}
+]

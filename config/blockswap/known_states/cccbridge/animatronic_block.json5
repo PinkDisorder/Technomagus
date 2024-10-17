@@ -1,0 +1,5782 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "0",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "1",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "2",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "3",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "4",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "5",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "6",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "7",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "8",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "9",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "10",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "11",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "12",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "13",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "14",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "15",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "16",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "17",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "18",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "19",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "20",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "21",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "22",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "23",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "24",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "25",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "26",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "27",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "28",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "29",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "30",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "31",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "32",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "33",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "34",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "35",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "36",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "37",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "38",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "39",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "40",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "41",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "42",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "43",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "44",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "45",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "46",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "47",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "48",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "49",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "50",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "51",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "52",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "53",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "54",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "55",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "56",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "57",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "58",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "59",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "60",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "61",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "62",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "63",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "64",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "65",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "66",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "67",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "68",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "69",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "70",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "71",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "72",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "73",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "74",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "75",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "76",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "77",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "78",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "79",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "80",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "81",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "82",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "83",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "84",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "85",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "86",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "87",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "88",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "89",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "90",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "91",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "92",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "93",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "94",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "95",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "96",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "97",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "98",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "99",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "100",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "101",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "102",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "103",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "104",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "105",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "106",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "107",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "108",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "109",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "110",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "111",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "112",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "113",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "114",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "115",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "116",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "117",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "118",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "119",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "120",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "121",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "122",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "123",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "124",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "125",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "126",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "127",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "128",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "129",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "130",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "131",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "132",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "133",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "134",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "135",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "136",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "137",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "138",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "139",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "140",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "141",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "142",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "143",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "144",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "145",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "146",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "147",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "148",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "149",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "150",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "151",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "152",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "153",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "154",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "155",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "156",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "157",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "158",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "159",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "160",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "161",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "162",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "163",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "164",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "165",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "166",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "167",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "168",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "169",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "170",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "171",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "172",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "173",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "174",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "175",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "176",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "177",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "178",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "179",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "180",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "181",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "182",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "183",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "184",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "185",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "186",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "187",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "188",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "189",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "190",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "191",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "192",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "193",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "194",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "195",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "196",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "197",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "198",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "199",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "200",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "201",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "202",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "203",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "204",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "205",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "206",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "207",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "208",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "209",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "210",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "211",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "212",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "213",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "214",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "215",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "216",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "217",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "218",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "219",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "220",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "221",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "222",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "223",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "224",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "225",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "226",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "227",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "228",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "229",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "230",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "231",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "232",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "233",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "234",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "235",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "236",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "237",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "238",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "239",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "240",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "241",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "242",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "243",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "244",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "245",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "246",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "247",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "248",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "249",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "250",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "251",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "252",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "253",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "254",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "255",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "256",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "257",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "258",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "259",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "260",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "261",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "262",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "263",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "264",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "265",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "266",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "267",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "268",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "269",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "270",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "271",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "272",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "273",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "274",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "275",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "276",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "277",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "278",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "279",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "280",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "281",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "282",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "283",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "284",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "285",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "286",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "287",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "288",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "289",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "290",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "291",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "292",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "293",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "294",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "295",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "296",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "297",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "298",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "299",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "300",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "301",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "302",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "303",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "304",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "305",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "306",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "307",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "308",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "309",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "310",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "311",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "312",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "313",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "314",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "315",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "316",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "317",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "318",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "319",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "320",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "321",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "322",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "323",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "324",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "325",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "326",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "327",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "328",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "329",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "330",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "331",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "332",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "333",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "334",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "335",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "336",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "337",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "338",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "339",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "340",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "341",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "342",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "343",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "344",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "345",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "346",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "347",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "348",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "349",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "350",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "351",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "352",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "353",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "354",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "355",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "356",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "357",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "358",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "359",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "360",
+			"is_driver": "true"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "1",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "2",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "3",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "4",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "5",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "6",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "7",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "8",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "9",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "10",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "11",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "12",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "13",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "14",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "15",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "16",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "17",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "18",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "19",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "20",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "21",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "22",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "23",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "24",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "25",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "26",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "27",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "28",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "29",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "30",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "31",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "32",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "33",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "34",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "35",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "36",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "37",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "38",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "39",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "40",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "41",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "42",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "43",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "44",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "45",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "46",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "47",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "48",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "49",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "50",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "51",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "52",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "53",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "54",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "55",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "56",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "57",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "58",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "59",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "60",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "61",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "62",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "63",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "64",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "65",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "66",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "67",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "68",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "69",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "70",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "71",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "72",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "73",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "74",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "75",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "76",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "77",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "78",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "79",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "80",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "81",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "82",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "83",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "84",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "85",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "86",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "87",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "88",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "89",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "90",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "91",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "92",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "93",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "94",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "95",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "96",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "97",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "98",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "99",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "100",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "101",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "102",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "103",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "104",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "105",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "106",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "107",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "108",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "109",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "110",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "111",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "112",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "113",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "114",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "115",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "116",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "117",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "118",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "119",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "120",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "121",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "122",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "123",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "124",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "125",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "126",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "127",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "128",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "129",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "130",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "131",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "132",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "133",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "134",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "135",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "136",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "137",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "138",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "139",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "140",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "141",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "142",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "143",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "144",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "145",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "146",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "147",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "148",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "149",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "150",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "151",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "152",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "153",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "154",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "155",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "156",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "157",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "158",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "159",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "160",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "161",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "162",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "163",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "164",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "165",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "166",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "167",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "168",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "169",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "170",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "171",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "172",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "173",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "174",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "175",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "176",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "177",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "178",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "179",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "180",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "181",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "182",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "183",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "184",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "185",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "186",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "187",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "188",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "189",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "190",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "191",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "192",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "193",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "194",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "195",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "196",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "197",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "198",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "199",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "200",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "201",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "202",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "203",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "204",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "205",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "206",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "207",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "208",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "209",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "210",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "211",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "212",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "213",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "214",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "215",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "216",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "217",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "218",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "219",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "220",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "221",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "222",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "223",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "224",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "225",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "226",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "227",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "228",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "229",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "230",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "231",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "232",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "233",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "234",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "235",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "236",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "237",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "238",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "239",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "240",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "241",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "242",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "243",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "244",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "245",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "246",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "247",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "248",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "249",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "250",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "251",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "252",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "253",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "254",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "255",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "256",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "257",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "258",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "259",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "260",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "261",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "262",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "263",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "264",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "265",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "266",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "267",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "268",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "269",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "270",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "271",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "272",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "273",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "274",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "275",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "276",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "277",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "278",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "279",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "280",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "281",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "282",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "283",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "284",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "285",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "286",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "287",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "288",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "289",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "290",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "291",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "292",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "293",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "294",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "295",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "296",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "297",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "298",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "299",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "300",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "301",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "302",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "303",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "304",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "305",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "306",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "307",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "308",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "309",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "310",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "311",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "312",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "313",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "314",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "315",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "316",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "317",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "318",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "319",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "320",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "321",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "322",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "323",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "324",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "325",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "326",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "327",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "328",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "329",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "330",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "331",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "332",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "333",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "334",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "335",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "336",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "337",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "338",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "339",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "340",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "341",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "342",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "343",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "344",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "345",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "346",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "347",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "348",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "349",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "350",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "351",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "352",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "353",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "354",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "355",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "356",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "357",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "358",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "359",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"precise_facing": "360",
+			"is_driver": "false"
+		},
+		"Name": "cccbridge:animatronic_block"
+	}
+]

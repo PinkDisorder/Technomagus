@@ -1,0 +1,166 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pre_bottom",
+			"rotation": "0"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"rotation": "0"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pre_top",
+			"rotation": "0"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "top",
+			"rotation": "0"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "bottom",
+			"rotation": "1"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pre_bottom",
+			"rotation": "1"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"rotation": "1"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pre_top",
+			"rotation": "1"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "top",
+			"rotation": "1"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "bottom",
+			"rotation": "2"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pre_bottom",
+			"rotation": "2"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"rotation": "2"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pre_top",
+			"rotation": "2"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "top",
+			"rotation": "2"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "bottom",
+			"rotation": "3"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pre_bottom",
+			"rotation": "3"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle",
+			"rotation": "3"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "pre_top",
+			"rotation": "3"
+		},
+		"Name": "betterend:lanceleaf"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "top",
+			"rotation": "3"
+		},
+		"Name": "betterend:lanceleaf"
+	}
+]

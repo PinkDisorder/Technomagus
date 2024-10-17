@@ -1,0 +1,3171 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "true"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "north",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "south",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "west",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "true",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "none",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "none",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_east",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "south_west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "true",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"top": "false",
+			"shape": "north_west",
+			"open": "false",
+			"facing": "east",
+			"bottom": "false"
+		},
+		"Name": "farm_and_charm:silo_copper"
+	}
+]

@@ -1,0 +1,293 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "0",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "1",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "1",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "2",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "2",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "3",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "3",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "4",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "4",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "5",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "5",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "6",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "6",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "7",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "7",
+			"is_floor": "true"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "0",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "0",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "1",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "1",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "2",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "2",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "3",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "3",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "4",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "4",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "5",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "5",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "6",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "6",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"size": "7",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"size": "7",
+			"is_floor": "false"
+		},
+		"Name": "betterend:end_stone_stalactite"
+	}
+]

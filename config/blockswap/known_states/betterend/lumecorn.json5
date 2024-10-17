@@ -1,0 +1,56 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "betterend:lumecorn"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "light_top_middle"
+		},
+		"Name": "betterend:lumecorn"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "light_middle"
+		},
+		"Name": "betterend:lumecorn"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "light_bottom"
+		},
+		"Name": "betterend:lumecorn"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "middle"
+		},
+		"Name": "betterend:lumecorn"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "bottom_big"
+		},
+		"Name": "betterend:lumecorn"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shape": "bottom_small"
+		},
+		"Name": "betterend:lumecorn"
+	}
+]

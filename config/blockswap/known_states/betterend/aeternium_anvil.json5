@@ -1,0 +1,1409 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "0",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "0",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "0",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "1",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "1",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "1",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "1",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "2",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "2",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "2",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "2",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "3",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "3",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "3",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "3",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "4",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "4",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "4",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "4",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "5",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "5",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "5",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "5",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "6",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "6",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "6",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "6",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "7",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "7",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "7",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "7",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "8",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "8",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "8",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "8",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "9",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "9",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "9",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "9",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "10",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "10",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "10",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "10",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "11",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "11",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "11",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "11",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "12",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "12",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "12",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "12",
+			"destruction": "0"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "0",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "0",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "0",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "0",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "1",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "1",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "1",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "1",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "2",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "2",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "2",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "2",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "3",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "3",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "3",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "3",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "4",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "4",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "4",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "4",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "5",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "5",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "5",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "5",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "6",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "6",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "6",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "6",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "7",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "7",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "7",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "7",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "8",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "8",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "8",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "8",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "9",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "9",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "9",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "9",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "10",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "10",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "10",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "10",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "11",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "11",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "11",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "11",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "12",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "12",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "12",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "12",
+			"destruction": "1"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "0",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "0",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "0",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "0",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "1",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "1",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "1",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "1",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "2",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "2",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "2",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "2",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "3",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "3",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "3",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "3",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "4",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "4",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "4",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "4",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "5",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "5",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "5",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "5",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "6",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "6",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "6",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "6",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "7",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "7",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "7",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "7",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "8",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "8",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "8",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "8",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "9",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "9",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "9",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "9",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "10",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "10",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "10",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "10",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "11",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "11",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "11",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "11",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"durability": "12",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"durability": "12",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"durability": "12",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"durability": "12",
+			"destruction": "2"
+		},
+		"Name": "betterend:aeternium_anvil"
+	}
+]
