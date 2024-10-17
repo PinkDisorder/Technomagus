@@ -1,13 +1,13 @@
-name = "BetterEnd"
-filename = "better-end-4.0.11.jar"
-side = "both"
+filename = 'better-end-4.0.11.jar'
+name = 'BetterEnd'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "1e54364d63245a51e66e414ca73efbac9e05f11d"
-mode = "metadata:curseforge"
+hash = '1e54364d63245a51e66e414ca73efbac9e05f11d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 4971487
 project-id = 413596

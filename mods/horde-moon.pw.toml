@@ -1,13 +1,13 @@
-name = "Horde Moon"
-filename = "ZombieMoon-1.20.jar"
-side = "both"
+filename = 'ZombieMoon-1.20-1.0.1.jar'
+name = 'Horde Moon'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "4a9537ef0b02cf4fb4a504f2300aa1df8d261baa"
-mode = "metadata:curseforge"
+hash = '4a9537ef0b02cf4fb4a504f2300aa1df8d261baa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 5646122
 project-id = 1052221

@@ -1,13 +1,13 @@
-name = "Create: Food"
-filename = "create-food-1.20.1-1.1.4-forge.jar"
-side = "both"
+filename = 'create-food-1.20.1-1.1.4-forge.jar'
+name = 'Create: Food'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "484ea0bbef6d8eef2c1308d06544fc8dd750e5bd"
-mode = "metadata:curseforge"
+hash = '484ea0bbef6d8eef2c1308d06544fc8dd750e5bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 5804580
 project-id = 959439

@@ -1,0 +1,13 @@
+filename = 'dtvinery-1.20.1-forge-1.1.jar'
+name = 'Dynamic Trees for Vinery'
+side = 'both'
+
+[download]
+hash = '6b0d3bf403f9783ace8beb1b42a7539575248a50'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5472041
+project-id = 1038731

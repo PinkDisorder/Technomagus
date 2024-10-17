@@ -1,13 +1,13 @@
-name = "DnT Stronghold Overhaul"
-filename = "dungeons-and-taverns-stronghold-rework-1 [Forge].jar"
-side = "both"
+filename = 'dungeons-and-taverns-stronghold-rework-1.jar'
+name = 'DnT Stronghold Overhaul'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "177e6e6a872bafa93e2ea1e60c7512cc5249c373"
-mode = "metadata:curseforge"
+hash = '177e6e6a872bafa93e2ea1e60c7512cc5249c373'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 4785955
 project-id = 920416

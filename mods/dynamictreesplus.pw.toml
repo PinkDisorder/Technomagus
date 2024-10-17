@@ -1,0 +1,13 @@
+filename = 'DynamicTreesPlus-1.20.1-1.2.0-BETA3.jar'
+name = 'Dynamic Trees +'
+side = 'both'
+
+[download]
+hash = 'c1acdaf1975a77928736fbf8af5661c93a0c2202'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5536181
+project-id = 478155

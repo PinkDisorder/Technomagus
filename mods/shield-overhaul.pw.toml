@@ -1,13 +1,13 @@
-name = "Shield Overhaul [Fabric/Forge]"
-filename = "shield_overhaul-1.0.0.jar"
-side = "both"
+filename = 'shield_overhaul-1.0.0.jar'
+name = 'Shield Overhaul'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "5722dfe6d99f182caff66b67e0c6138838cf170f"
-mode = "metadata:curseforge"
+hash = '5722dfe6d99f182caff66b67e0c6138838cf170f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 5775194
 project-id = 637870

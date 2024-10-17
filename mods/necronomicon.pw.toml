@@ -1,13 +1,13 @@
-name = "Necronomicon API"
-filename = "Necronomicon-Forge-1.6.0+1.20.1.jar"
-side = "both"
+filename = 'Necronomicon-Forge-1.6.0+1.20.1.jar'
+name = 'Necronomicon API'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf"
-mode = "metadata:curseforge"
+hash = '2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 5772681
 project-id = 586157

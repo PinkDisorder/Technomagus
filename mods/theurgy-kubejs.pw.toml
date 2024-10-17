@@ -1,13 +1,13 @@
-name = "Theurgy KubeJS"
-filename = "theurgy_kubejs-1.20.1-1.1.0.jar"
-side = "both"
+filename = 'theurgy_kubejs-1.20.1-1.1.0.jar'
+name = 'Theurgy KubeJS'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "ea46158cdaec5c09cca6e7a269841cd3bd7ad489"
-mode = "metadata:curseforge"
+hash = 'ea46158cdaec5c09cca6e7a269841cd3bd7ad489'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 5399967
 project-id = 963206
