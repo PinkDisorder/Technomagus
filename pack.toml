@@ -1,0 +1,12 @@
+name = "Technomagus: The Quest for Power"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f63dd9fcc929db096f5fd36f1f3fb540b906045c435d7de440ef05e1a538fbd9"
+
+[versions]
+forge = "47.3.11"
+minecraft = "1.20.1"

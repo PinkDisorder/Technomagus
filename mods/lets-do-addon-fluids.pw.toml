@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Fluids"
+filename = "doaddonfluids-forge-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdcc3c1f696e7c5d4e2f09c4bc2714fd729e695a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5389201
+project-id = 1025920

@@ -1,0 +1,60 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a"
+	group: "5F32DAA6F6776534"
+	id: "7E61FB6B10D1FB63"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1CB102A6A9EDDC4A"
+			rewards: [{
+				id: "5E4CA1499C296C67"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "340EE257E11EE042"
+					item: "minecraft:spruce_door"
+					type: "item"
+				}
+				{
+					dimension: "minecraft:overworld"
+					id: "0BB6F0DFAD43C333"
+					type: "dimension"
+				}
+			]
+			title: "GASFASDFqwe"
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"{@pagebreak}"
+				"(new page placeholder text)"
+			]
+			id: "35F8A2DC616EA75F"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "13DED483BC291EA6"
+				ignore_dimension: false
+				position: [I;
+					0
+					0
+					0
+				]
+				size: [I;
+					1
+					1
+					1
+				]
+				type: "location"
+			}]
+			x: -8.0d
+			y: -5.0d
+		}
+	]
+	title: "a"
+}

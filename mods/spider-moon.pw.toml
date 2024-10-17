@@ -1,0 +1,13 @@
+name = "Spider Moon"
+filename = "SpiderMoon-1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8529fe825f12e9e407a70cb085e64539f55f1445"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5646096
+project-id = 1057511

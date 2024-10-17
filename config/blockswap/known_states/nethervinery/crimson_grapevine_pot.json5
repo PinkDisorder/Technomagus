@@ -1,0 +1,4856 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "0",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "1",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "2",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "3",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "4",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "5",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "6",
+			"stage": "0"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "0",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "1",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "2",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "3",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "4",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "5",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "6",
+			"stage": "1"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "0",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "1",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "2",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "3",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "4",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "5",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "6",
+			"stage": "2"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "0",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "1",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "2",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "3",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "4",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "5",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "6",
+			"stage": "3"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "0",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "1",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "2",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "3",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "4",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "5",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "6",
+			"stage": "4"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "0",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "1",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "2",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "3",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "4",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "5",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "6",
+			"stage": "5"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "0",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "1",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "2",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "3",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "4",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "5",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "red",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "crimson",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_red",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "white",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_white",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_white",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "savanna_red",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "warped",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "taiga_red",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "jungle_white",
+			"storage": "6",
+			"stage": "6"
+		},
+		"Name": "nethervinery:crimson_grapevine_pot"
+	}
+]

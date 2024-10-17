@@ -1,0 +1,9 @@
+{
+  "feature": "theurgy:sal_ammoniac_ore",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 0
+    }
+  ]
+}

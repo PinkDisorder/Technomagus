@@ -1,0 +1,113 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"snowy": "true"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"snowy": "true"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"snowy": "true"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "bottom",
+			"snowy": "true"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"snowy": "true"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"snowy": "true"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "top",
+			"snowy": "false"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "top",
+			"snowy": "false"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "bottom",
+			"snowy": "false"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "double",
+			"snowy": "false"
+		},
+		"Name": "vinery:grass_slab"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "double",
+			"snowy": "false"
+		},
+		"Name": "vinery:grass_slab"
+	}
+]

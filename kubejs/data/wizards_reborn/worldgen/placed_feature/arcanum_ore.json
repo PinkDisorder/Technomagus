@@ -1,0 +1,9 @@
+{
+  "feature": "wizards_reborn:arcanum_ore",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 0
+    }
+  ]
+}

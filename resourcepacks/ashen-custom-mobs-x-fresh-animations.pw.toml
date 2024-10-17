@@ -1,0 +1,13 @@
+name = "Ashen Custom Mobs x Fresh Animations"
+filename = "Ashen_Custom_Mobs_x_Fresh_Animations.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f6c9780caf6438b834987371322049ffd64212e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5529835
+project-id = 1028445

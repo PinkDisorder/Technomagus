@@ -1,0 +1,13 @@
+name = "Dynamic Trees - The Twilight Forest"
+filename = "DynamicTreesTheTwilightForest-1.20.1-2.2.0-BETA2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c8436b61fc307fcfdc5218351b70f822db7fb21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5554436
+project-id = 391986

@@ -1,0 +1,13 @@
+name = "TagTooltips"
+filename = "tagtooltips-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bae30c19202e3ecbb3fe7e73ed58529b60e44699"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4687165
+project-id = 899941

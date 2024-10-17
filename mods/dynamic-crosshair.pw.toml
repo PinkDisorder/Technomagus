@@ -1,0 +1,13 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-7.4.4+1.20-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efde4dd275ca90fdb53fc01b2e1ca445237de9b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5027231
+project-id = 623800

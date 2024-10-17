@@ -1,0 +1,13 @@
+name = "Dynamic Trees"
+filename = "DynamicTrees-1.20.1-1.4.0-ALPHA02.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49edef44ae304a68b31b0d51d59f5a14c806761f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5721153
+project-id = 252818

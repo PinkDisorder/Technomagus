@@ -1,0 +1,13 @@
+name = "CB: Compressed Blocks"
+filename = "Compressed Blocks-forge-1.20.2-1.6.1-1.20.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f1f86ad315807f7cb308f248a7c0fbd35ca2617"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5418236
+project-id = 361354

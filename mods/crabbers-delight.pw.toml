@@ -1,0 +1,13 @@
+name = "Crabber's Delight"
+filename = "CrabbersDelight-1.20.1-1.1.7c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "664c08f57659b6dad8918d3c4f7be3637252084f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5817671
+project-id = 892827

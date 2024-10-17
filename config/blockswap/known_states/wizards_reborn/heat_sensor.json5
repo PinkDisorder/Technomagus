@@ -1,0 +1,2306 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "floor"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "wall"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "north",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "south",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "west",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "true",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "compare",
+			"lit": "false",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"mode": "subtract",
+			"lit": "false",
+			"facing": "east",
+			"face": "ceiling"
+		},
+		"Name": "wizards_reborn:heat_sensor"
+	}
+]

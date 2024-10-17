@@ -1,0 +1,13 @@
+name = "Lithos:Font Add-On"
+filename = "Lithos-Font for 1.20x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c23e0e4d668dc520cc6788024dee5d378976988"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5010906
+project-id = 74539

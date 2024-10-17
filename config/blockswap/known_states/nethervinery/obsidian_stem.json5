@@ -1,0 +1,446 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "red",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "crimson",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_red",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "white",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_white",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_white",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_red",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "warped",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_red",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_white",
+			"age": "0"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "red",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "crimson",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "none",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_red",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "white",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_white",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_white",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_red",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "warped",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_red",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_white",
+			"age": "1"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "red",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "crimson",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "none",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_red",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "white",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_white",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_white",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_red",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "warped",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_red",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_white",
+			"age": "2"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "red",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "crimson",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "none",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_red",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "white",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_white",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_white",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_red",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "warped",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_red",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_white",
+			"age": "3"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "red",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "crimson",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "none",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_red",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "white",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_white",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_white",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "savanna_red",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "warped",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "taiga_red",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"grape": "jungle_white",
+			"age": "4"
+		},
+		"Name": "nethervinery:obsidian_stem"
+	}
+]

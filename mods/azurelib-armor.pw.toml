@@ -1,0 +1,13 @@
+name = "AzureLib Armor"
+filename = "azurelibarmor-neo-1.20.1-2.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8bda32621adfade0d6c4555343e6ec2ba669cb61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5782710
+project-id = 912767

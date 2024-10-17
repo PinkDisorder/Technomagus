@@ -1,0 +1,355 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"half": "upper",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"half": "upper",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"half": "upper",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"half": "upper",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"half": "upper",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"half": "upper",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"half": "upper",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"half": "upper",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"half": "lower",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"half": "lower",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"half": "lower",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"half": "lower",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"half": "lower",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"half": "lower",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"half": "lower",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"half": "lower",
+			"east": "true"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"half": "upper",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"half": "upper",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"half": "upper",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"half": "upper",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"half": "upper",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"half": "upper",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"half": "upper",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"half": "upper",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"half": "lower",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"half": "lower",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"half": "lower",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"half": "lower",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"half": "lower",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"half": "lower",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"half": "lower",
+			"east": "false"
+		},
+		"Name": "theurgy:incubator"
+	},
+	{
+		"Name": "theurgy:incubator"
+	}
+]
