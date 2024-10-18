@@ -10,7 +10,8 @@ try {
     for (const file of files) {
         const contents = await fs.readFile(file, "utf-8");
         const data = toml.parse(contents);
-        await fs.appendFile(modlist, `| ${data.name} |\n`);
+        const pid = data.update.curseforge["project-id"];
+        await fs.appendFile(modlist, `| [${data.name}](https://www.curseforge.com/projects/${pid}) |\n`);
     }
 }
 catch (ex) {

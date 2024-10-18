@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node build/gen_modlist.js"
+    "gen_modlist": "node build/gen_modlist.js"
   },
   "type": "module",
   "dependencies": {
