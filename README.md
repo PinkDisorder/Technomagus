@@ -4,7 +4,7 @@ A tech and magic modpack for 1.20.1
 
 Currently heavily WIP
 
-## TODO
+### TODO
 
 - [ ] Fix up Theurgy recipes to use tags instead of items
 - [ ] Fix up Wizards Reborn recipes to use tags instead of items
@@ -21,3 +21,11 @@ Currently heavily WIP
 - [ ] Possibly EU from Botania Mana via a Multiblock.
 - [ ] Write the quests up to IV for a start. A lot of the gregtech side of it can be based on the community pack.
 - [ ] Figure out how to integrate Better Nether and Better End both of which come with their own progression
+
+### Installation Instructions
+
+Create a new Prism instance with latest forge for 1.20.1
+Download packwiz-installer-bootstrap from https://github.com/packwiz/packwiz-installer-bootstrap/releases and place it in the instance Minecraft folder
+Go to Edit Instance -> Settings -> Custom commands, then check the Custom Commands box and paste the following command into the pre-launch command field:
+
+`"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://https://pinkdisorder.github.io/Vestiges-of-Tomorrow/pack.toml`
