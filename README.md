@@ -24,8 +24,4 @@ Currently heavily WIP
 
 ### Installation Instructions
 
-Create a new Prism instance with latest forge for 1.20.1
-Download packwiz-installer-bootstrap from https://github.com/packwiz/packwiz-installer-bootstrap/releases and place it in the instance Minecraft folder
-Go to Edit Instance -> Settings -> Custom commands, then check the Custom Commands box and paste the following command into the pre-launch command field:
-
-`"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://https://pinkdisorder.github.io/Vestiges-of-Tomorrow/pack.toml`
+Grab the latest Build Zip artifact from the Actions tab and import it into prism launcher.
