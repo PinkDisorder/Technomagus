@@ -39,8 +39,11 @@ jobs:
     - name: Include ~/.local/bin in path
       run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
 
-
-    - run: echo "MPVERSION=$(stoml pack.toml version)" >> $GITHUB_ENV
+    - name: Get modpack version
+      uses: mathiasvr/command-output@v2.0.0
+      id: version
+      with:
+        run: echo `stoml pack.toml version`
 
     - name: Remove unnecessary artifact
       run: rm "Linux 64-bit x86.zip"
@@ -56,6 +59,6 @@ jobs:
     - name: upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: "Vestiges_of_Tomorrow_v${{ env.MPVERSION }}.zip"
+        name: "Vestiges_of_Tomorrow_v${{ steps.version.outputs.stdout }}.zip"
         path: ~/dist
         retention-days: 90
