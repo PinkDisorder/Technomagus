@@ -22,17 +22,12 @@ jobs:
         name: Linux 64-bit x86
         skip_unpack: true
 
-    - run: ls -laR
-
     - name: Unzip packwiz
-      run: unzip "Linux 64-bit x86.zip" && ls -la .
-
-    - name: list files
-      run: ls ~/packwiz
+      run: unzip "Linux 64-bit x86.zip" -d /tmp
 
     - uses: actions/checkout@v4
     - name: Set up JDK 1121
-      run: ./~/packwiz/packwiz curseforge export
+      run: ./tmp/packwiz curseforge export
 
     - run: ls -la
 
