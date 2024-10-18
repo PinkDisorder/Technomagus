@@ -25,9 +25,11 @@ jobs:
     - name: Unzip packwiz
       run: unzip "Linux 64-bit x86.zip"
 
+    - run: pwd && ls -la
+
     - uses: actions/checkout@v4
     - name: build zip
-      run: ls -la && ./packwiz curseforge export
+      run: pwd && ls -la && ./packwiz curseforge export
 
     - run: ls -la
 
