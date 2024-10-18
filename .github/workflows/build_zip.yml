@@ -39,16 +39,16 @@ jobs:
     - name: Include ~/.local/bin in path
       run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
 
+    - name: Remove unnecessary artifact
+      run: rm "Linux 64-bit x86.zip"
+
+    - uses: actions/checkout@v4
+
     - name: Get modpack version
       uses: mathiasvr/command-output@v2.0.0
       id: version
       with:
         run: stoml pack.toml version
-
-    - name: Remove unnecessary artifact
-      run: rm "Linux 64-bit x86.zip"
-
-    - uses: actions/checkout@v4
 
     - name: build zip
       run: packwiz curseforge export
