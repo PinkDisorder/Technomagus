@@ -39,11 +39,14 @@ jobs:
     - name: build zip
       run: packwiz curseforge export
 
+    - name: Workaround for Github odd behavior
+      run: mkdir ~/dist && unzip Vestiges\ Of \ Tomorrow*.zip -d ~/dist
+
     - name: upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: Vestiges_of_Tomorrow.zip
-        path: Vestiges of Tomorrow*.zip
+        path: ~/dist
         retention-days: 90
     # - name: Release
     #   uses: softprops/action-gh-release@v2
