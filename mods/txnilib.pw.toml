@@ -1,13 +1,13 @@
-filename = 'txnilib-forge-1.0.19-1.20.1.jar'
-name = 'TxniLib'
-side = 'both'
+name = "TxniLib"
+filename = "txnilib-forge-1.0.19-1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'b0bfb3eceab9976a9181d1ed8f34832705a01311'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "b0bfb3eceab9976a9181d1ed8f34832705a01311"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5758763
 project-id = 1104882

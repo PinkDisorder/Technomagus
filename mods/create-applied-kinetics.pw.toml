@@ -1,13 +1,13 @@
-filename = 'createappliedkinetics-1.4.0-1.20.1.jar'
-name = 'Create: Applied Kinetics'
-side = 'both'
+name = "Create: Applied Kinetics"
+filename = "createappliedkinetics-1.4.0-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '336379b96d16df9ebd18a7beb69c3ec4d7dfbff2'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "336379b96d16df9ebd18a7beb69c3ec4d7dfbff2"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5686029
 project-id = 867328

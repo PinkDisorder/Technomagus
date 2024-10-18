@@ -7,6 +7,7 @@
 | Advanced Peripherals |
 | AE2 QoL Recipes |
 | AECapFix |
+| Alex's Mobs |
 | Almost Unified |
 | AmbientSounds 6 |
 | Animation Overhaul |
@@ -41,6 +42,7 @@
 | Chat Heads |
 | Chef's Delight [Forge] |
 | ChoiceTheorem's Overhauled Village |
+| Citadel |
 | Cloth Config API (Fabric/Forge/NeoForge) |
 | Clumps |
 | Cobweb |
@@ -67,9 +69,11 @@
 | Death Knights (RPG Series) |
 | DnT Stronghold Overhaul |
 | [Let's Do] API  |
+| Drippy Loading Screen |
 | Dungeons and Taverns |
 | Dynamic Crosshair |
 | Dynamic FPS |
+| Dynamic Trees - Alex's Mobs |
 | Dynamic Trees for BetterEnd |
 | Dynamic Trees for Vinery |
 | Dynamic Trees - Terralith |
@@ -93,6 +97,7 @@
 | Extreme sound muffler - (Neo)Forge |
 | Fabric API |
 | Falling Leaves (NeoForge/Forge) |
+| FancyMenu |
 | Farmer's Delight |
 | FerriteCore ((Neo)Forge) |
 | Flat Bedrock (Forge / Fabric) |
@@ -108,10 +113,10 @@
 | GeckoLib |
 | GlitchCore |
 | GraveStone Mod |
-| GregTech |
+| GregTechCEu Modern |
 | Guard Villagers |
 | Harvest with ease |
-| HopoBetterMineshaft |
+| Hopo Better Mineshaft (Fabric/Forge/NeoForge) |
 | Hopo Better Ruined Portals (Fabric/Forge/NeoForge) |
 | Horde Moon |
 | Illager Invasion [Forge & Fabric] |
@@ -123,6 +128,7 @@
 | Jade 🔍 |
 | Just Enough Items (JEI) |
 | Jewelry (RPG Series) |
+| Konkrete [Forge/NeoForge] |
 | KubeJS + CC: Tweaked |
 | KubeJS Create |
 | KubeJS |
@@ -139,14 +145,16 @@
 | [Let's Do] Vinery |
 | Lithostitched |
 | Load My F***ing Tags |
-| Lootr |
+| Lootr (Forge & NeoForge) |
+| Melody |
 | Miner's Delight + |
 | Modern AE2 Additions |
 | Modonomicon |
 | Mouse Tweaks |
+| Mowzie's Mobs |
 | Mutant Monsters [Forge & Fabric] |
 | Necronomicon API |
-| Neruina |
+| Neruina - Ticking Entity Fixer |
 | Nether's Delight |
 | No Chat Reports |
 | Not Enough Recipe Book [NERB] |
@@ -173,7 +181,7 @@
 | Searchables |
 | Serene Seasons |
 | ShetiPhianCore |
-| Shield Overhaul |
+| Shield Overhaul [Fabric/Forge] |
 | Sinytra Connector |
 | Skin Layers 3D (Fabric/Forge) |
 | Sophisticated Backpacks |

@@ -1,13 +1,13 @@
-filename = 'wizards_reborn-1.20.1-0.1.6.jar'
 name = "Wizard's Reborn"
-side = 'both'
+filename = "wizards_reborn-1.20.1-0.1.6.jar"
+side = "both"
 
 [download]
-hash = '34d72f906638211c7960695e8424923192df84e8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "34d72f906638211c7960695e8424923192df84e8"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5608669
 project-id = 913994

@@ -1,13 +1,13 @@
-filename = 'roughly-enough-config-screens-1.20.1-forge-1.5.4.jar'
-name = 'Roughly Enough Config Screens'
-side = 'both'
+name = "Roughly Enough Config Screens"
+filename = "roughly-enough-config-screens-1.20.1-forge-1.5.4.jar"
+side = "both"
 
 [download]
-hash = 'f8d381ccd75f7b7e199d1276f24e694ed8501928'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "f8d381ccd75f7b7e199d1276f24e694ed8501928"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5543145
 project-id = 962031

@@ -1,11 +1,11 @@
-name = "Technomagus: The Quest for Power"
-version = "1.0.0"
+name = "Technomagus"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4fc97f138fb19f6830593b8c2c0a8f3252cba9b06f23633e95ec7fba26519575"
+hash = "dc3147abf0e9b6d2e706ebf229bcb18cea1d999f7aad3e814f413a840ebffa31"
 
 [versions]
 forge = "47.3.11"
