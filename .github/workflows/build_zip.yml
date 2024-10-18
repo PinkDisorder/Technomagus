@@ -44,8 +44,6 @@ jobs:
 
     - uses: actions/checkout@v4
 
-    - run: export MPVERSION=`stoml pack.toml version`
-
     - name: build zip
       run: packwiz curseforge export
 
@@ -54,7 +52,9 @@ jobs:
 
     - name: upload artifact
       uses: actions/upload-artifact@v4
+      env:
+        MPVERSION: stoml pack.toml version
       with:
-        name: "Vestiges_of_Tomorrow_v${MPVERSION}.zip"
+        name: "Vestiges_of_Tomorrow_v${{ env.MPVERSION }}.zip"
         path: ~/dist
         retention-days: 90
