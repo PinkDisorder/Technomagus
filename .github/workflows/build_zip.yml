@@ -12,14 +12,13 @@ jobs:
 
     steps:
     - name: Install dependencies
-      run: sudo apt install zip && mkdir ~/packwiz
+      run: sudo apt-get install zip && mkdir ~/packwiz
 
     - name: Download packwiz artifact
-      uses: actions/download-artifact@v4
+      uses: dawidd6/action-download-artifact@v5
       with:
-        repository: packwiz/packwiz
-        run-id: 11331794723
-        pattern: Linux*x86
+        repo: packwiz/packwiz
+        run_id: 11331794723
 
     - name: list files
       run: ls -la
