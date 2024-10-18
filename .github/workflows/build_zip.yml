@@ -27,9 +27,8 @@ jobs:
     - name: Unzip packwiz
       run: unzip "Linux 64-bit x86.zip" -d ~/.local/bin
 
-      # im going insane
-    - run: ls -la ~/.local/bin
-    - run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
+    - name: Include packwiz in path
+      run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
 
     - name: Remove unnecessary artifact
       run: rm "Linux 64-bit x86.zip"
@@ -48,8 +47,3 @@ jobs:
         name: Vestiges_of_Tomorrow.zip
         path: ~/dist
         retention-days: 90
-    # - name: Release
-    #   uses: softprops/action-gh-release@v2
-    #   with:
-    #     files: Vestiges of Tomorrow*.zip
-
