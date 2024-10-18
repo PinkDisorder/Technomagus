@@ -19,9 +19,10 @@ jobs:
       with:
         repository: packwiz/packwiz
         run-id: 11331794723
+        pattern: Linux*x86
 
     - name: list files
-      run: ls -la
+      run: ls -la ~/packwiz
 
     # - uses: actions/checkout@v4
     # - name: Set up JDK 1121
