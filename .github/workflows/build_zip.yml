@@ -21,6 +21,7 @@ jobs:
         run_id: 11331794723
         name: Linux 64-bit x86
         path: ~/packwiz
+        skip_unpack: true
 
     - name: Unzip packwiz
       run: cd ~/packwiz && unzip "Linux 64-bit x86.zip" && ls -la .
