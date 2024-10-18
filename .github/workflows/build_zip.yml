@@ -43,7 +43,7 @@ jobs:
       uses: mathiasvr/command-output@v2.0.0
       id: version
       with:
-        run: echo `stoml pack.toml version`
+        run: stoml pack.toml version
 
     - name: Remove unnecessary artifact
       run: rm "Linux 64-bit x86.zip"
