@@ -23,7 +23,7 @@ jobs:
     - name: Ensure ~/.local/bin exists
       run: mkdir -p ~/.local/bin
 
-    - run: mv stoml_linux_amd64 ~/.local/bin/stoml
+    - run: mv stoml_linux_amd64 ~/.local/bin/stoml && chmod +x ~/.local/bin/stoml
 
     - name: Download packwiz artifact
       uses: dawidd6/action-download-artifact@v5

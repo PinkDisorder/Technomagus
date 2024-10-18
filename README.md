@@ -5,7 +5,7 @@ A tech and magic modpack for 1.20.1
 Currently heavily WIP
 
 ### TODO
-
+- [ ] Migrate from packwiz to [pakku](https://github.com/juraj-hrivnak/Pakku)
 - [ ] Fix up Theurgy recipes to use tags instead of items
 - [ ] Fix up Wizards Reborn recipes to use tags instead of items
 - [ ] Figure out how to completely remove the steam age from gregtech.
