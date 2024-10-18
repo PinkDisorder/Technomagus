@@ -22,7 +22,7 @@ jobs:
         pattern: Linux*x86
 
     - name: list files
-      run: ls -la ~/packwiz
+      run: ls -la
 
     # - uses: actions/checkout@v4
     # - name: Set up JDK 1121
