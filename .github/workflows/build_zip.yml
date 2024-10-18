@@ -15,15 +15,13 @@ jobs:
       run: sudo apt install zip && mkdir ~/packwiz
 
     - name: Download packwiz artifact
-      id: download-artifact
       uses: actions/download-artifact@v4
       with:
         repository: packwiz/packwiz
         run-id: 11331794723
-        path: ~/packwiz
 
     - name: list files
-      run: ls -la ~/packwiz
+      run: ls -la
 
     # - uses: actions/checkout@v4
     # - name: Set up JDK 1121
