@@ -20,11 +20,10 @@ jobs:
       with:
         repository: packwiz/packwiz
         run-id: 11331794723
-        name: "Linux 64-bit x86"
-        path: ~/packwiz.zip
+        path: ~/packwiz
 
     - name: list files
-      run: ls -la ~ ;; file ~/packwiz.zip
+      run: ls -la ~/packwiz
 
     # - uses: actions/checkout@v4
     # - name: Set up JDK 1121
