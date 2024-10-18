@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - name: Install dependencies
-      run: sudo apt-get install zip unzip && mkdir ~/packwiz
+      run: sudo apt-get install zip unzip
 
     - name: Download packwiz artifact
       uses: dawidd6/action-download-artifact@v5
@@ -25,11 +25,14 @@ jobs:
     - name: Unzip packwiz
       run: unzip "Linux 64-bit x86.zip"
 
-    - run: pwd && ls -la
+    - name: Remove unnecessary artifact
+      run: rm "Linux 64-bit x86.zip"
 
     - uses: actions/checkout@v4
+      with:
+        clean: false
     - name: build zip
-      run: pwd && ls -la && ./packwiz curseforge export
+      run: ./packwiz curseforge export
 
     - run: ls -la
 
