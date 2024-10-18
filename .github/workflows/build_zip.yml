@@ -20,11 +20,12 @@ jobs:
         repo: packwiz/packwiz
         run_id: 11331794723
         name: Linux 64-bit x86
-        path: ~/packwiz
         skip_unpack: true
 
+    - run: ls -laR
+
     - name: Unzip packwiz
-      run: cd ~/packwiz && unzip "Linux 64-bit x86.zip" && ls -la .
+      run: unzip "Linux 64-bit x86.zip" && ls -la .
 
     - name: list files
       run: ls ~/packwiz
