@@ -23,7 +23,7 @@ jobs:
         skip_unpack: true
 
     - name: Unzip packwiz
-      run: unzip "Linux 64-bit x86.zip" .
+      run: unzip "Linux 64-bit x86.zip"
 
     - uses: actions/checkout@v4
     - name: build zip
