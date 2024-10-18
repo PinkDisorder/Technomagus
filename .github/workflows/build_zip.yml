@@ -40,7 +40,7 @@ jobs:
       run: packwiz curseforge export
 
     - name: Workaround for Github odd behavior
-      run: mkdir ~/dist && unzip Vestiges\ Of \ Tomorrow*.zip -d ~/dist
+      run: mkdir ~/dist && unzip "*.zip" -d ~/dist
 
     - name: upload artifact
       uses: actions/upload-artifact@v4
