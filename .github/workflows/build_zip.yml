@@ -12,21 +12,22 @@ jobs:
 
     steps:
     - name: Install dependencies
-      run: sudo apt-get install zip && mkdir ~/packwiz
+      run: sudo apt-get install zip unzip && mkdir ~/packwiz
 
     - name: Download packwiz artifact
       uses: dawidd6/action-download-artifact@v5
       with:
         repo: packwiz/packwiz
         run_id: 11331794723
+        name: Linux 64-bit x86
+        path: ~/packwiz
 
     - name: list files
-      run: ls -la
+      run: ls ~/packwiz
 
-    # - uses: actions/checkout@v4
-    # - name: Set up JDK 1121
-    #   uses: actions/setup-java@v4
-    #   with:
-    #     java-version: '21'
-    #     distribution: 'adopt'
+    - uses: actions/checkout@v4
+    - name: Set up JDK 1121
+      run: ./~/packwiz/packwiz curseforge export
+
+    - run: ls -la
 
