@@ -5,9 +5,8 @@ A tech and magic modpack for 1.20.1
 Currently heavily WIP
 
 ### TODO
-- [ ] Migrate from packwiz to [pakku](https://github.com/juraj-hrivnak/Pakku)
 - [ ] Fix up Theurgy recipes to use tags instead of items
-- [ ] Fix up Wizards Reborn recipes to use tags instead of items
+- [x] Fix up Wizards Reborn recipes to use tags instead of items
 - [ ] Figure out how to completely remove the steam age from gregtech.
 - [ ] Setup Farmer's Delight and Let's Do as step 0
 - [ ] Setup Theurgy as the first step.
@@ -21,6 +20,7 @@ Currently heavily WIP
 - [ ] Possibly EU from Botania Mana via a Multiblock.
 - [ ] Write the quests up to IV for a start. A lot of the gregtech side of it can be based on the community pack.
 - [ ] Figure out how to integrate Better Nether and Better End both of which come with their own progression
+- [ ] Possibly migrate from packwiz to [pakku](https://github.com/juraj-hrivnak/Pakku)
 
 ### Installation Instructions
 

@@ -1,0 +1,30 @@
+{
+  "type": "wizards_reborn:arcane_workbench",
+  "pattern": [
+    "I_I",
+    "N#N",
+    "WWW",
+    "L___"
+  ],
+  "key": {
+    "#": {
+      "item": "wizards_reborn:wisestone_pedestal"
+    },
+    "I": {
+      "tag": "wizards_reborn:arcane_gold_ingot"
+    },
+    "N": {
+      "tag": "wizards_reborn:arcane_gold_nugget"
+    },
+    "W": {
+      "item": "wizards_reborn:polished_wisestone"
+    },
+    "L": {
+      "item": "wizards_reborn:arcanum_lens"
+    }
+  },
+  "output": {
+    "item": "wizards_reborn:light_emitter"
+  },
+  "wissen": 1000
+}

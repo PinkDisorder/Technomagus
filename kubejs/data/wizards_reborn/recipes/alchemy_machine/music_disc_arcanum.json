@@ -1,0 +1,23 @@
+{
+  "type": "wizards_reborn:alchemy_machine",
+  "outputItem": {
+    "item": "wizards_reborn:music_disc_arcanum",
+    "count": 1
+  },
+  "wissen": 1000,
+  "steam": 250,
+  "ingredients": [
+    {
+      "tag": "minecraft:music_discs"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    }
+  ],
+  "fluidIngredients": [
+    {
+      "name": "wizards_reborn:alchemy_oil",
+      "amount" : 1000
+    }
+  ]
+}

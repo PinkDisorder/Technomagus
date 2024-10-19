@@ -1,0 +1,7 @@
+{
+  "type": "wizards_reborn:wissen_altar",
+  "ingredient": {
+    "tag": "forge:dusts/arcanum"
+  },
+  "wissen": 200
+}

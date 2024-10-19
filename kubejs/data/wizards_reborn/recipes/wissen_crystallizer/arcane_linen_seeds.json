@@ -1,0 +1,34 @@
+{
+  "type": "wizards_reborn:wissen_crystallizer",
+  "output": {
+    "item": "wizards_reborn:arcane_linen_seeds",
+    "count": 1
+  },
+  "wissen": 750,
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "wizards_reborn:arcane_gold_nugget"
+    },
+    {
+      "tag": "wizards_reborn:arcane_gold_nugget"
+    },
+    {
+      "tag": "wizards_reborn:arcane_gold_nugget"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ]
+}

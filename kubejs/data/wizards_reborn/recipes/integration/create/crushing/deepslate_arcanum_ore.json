@@ -1,0 +1,40 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create"
+        }
+      ],
+      "recipe": {
+        "type": "create:crushing",
+        "ingredients": [
+          {
+            "tag": "forge:ores/arcanum"
+          }
+        ],
+        "results": [
+          {
+            "item": "wizards_reborn:arcanum",
+            "count": 3
+          },
+          {
+            "item": "wizards_reborn:arcanum",
+            "chance": 0.75
+          },
+          {
+            "item": "create:experience_nugget",
+            "chance": 0.75
+          },
+          {
+            "item": "minecraft:cobbled_deepslate",
+            "chance": 0.125
+          }
+        ],
+        "processingTime": 250
+      }
+    }
+  ]
+}

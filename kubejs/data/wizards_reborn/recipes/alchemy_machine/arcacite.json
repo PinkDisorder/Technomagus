@@ -1,0 +1,32 @@
+{
+  "type": "wizards_reborn:alchemy_machine",
+  "outputItem": {
+    "item": "wizards_reborn:arcacite",
+    "count": 1
+  },
+  "wissen": 200,
+  "steam": 200,
+  "ingredients": [
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "item": "wizards_reborn:scorched_calx"
+    }
+  ],
+  "fluidIngredients": [
+    {
+      "name": "wizards_reborn:alchemy_oil",
+      "amount" : 250
+    }
+  ]
+}

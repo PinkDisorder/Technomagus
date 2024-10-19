@@ -1,0 +1,37 @@
+{
+  "type": "wizards_reborn:crystal_infusion",
+  "output": {
+    "item": "wizards_reborn:arcanum_seed",
+    "count": 3
+  },
+  "light": 500,
+  "ingredients": [
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:dusts/arcanum"
+    },
+    {
+      "tag": "forge:dusts/arcanum"
+    },
+    {
+      "tag": "forge:dusts/arcanum"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ]
+}

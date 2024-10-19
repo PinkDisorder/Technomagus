@@ -11,6 +11,7 @@ jobs:
       packages: write
 
     steps:
+
     - name: Install dependencies
       run: sudo apt-get install zip unzip
 
@@ -42,7 +43,8 @@ jobs:
     - name: Remove unnecessary artifact
       run: rm "Linux 64-bit x86.zip"
 
-    - uses: actions/checkout@v4
+    - name: Checkout the repo.
+      uses: actions/checkout@v4
 
     - name: Get modpack version
       uses: mathiasvr/command-output@v2.0.0

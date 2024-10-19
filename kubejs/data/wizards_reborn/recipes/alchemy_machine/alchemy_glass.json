@@ -1,0 +1,35 @@
+{
+  "type": "wizards_reborn:alchemy_machine",
+  "outputItem": {
+    "item": "wizards_reborn:alchemy_glass",
+    "count": 4
+  },
+  "wissen": 100,
+  "steam": 150,
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "tag": "forge:dusts/arcanum"
+    },
+    {
+      "item": "wizards_reborn:alchemy_calx"
+    }
+  ],
+  "fluidIngredients": [
+    {
+      "name": "wizards_reborn:alchemy_oil",
+      "amount" : 500
+    }
+  ]
+}

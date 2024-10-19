@@ -64309,6 +64309,338 @@ file = "kubejs/data/theurgy/worldgen/placed_feature/sal_ammoniac_ore.json"
 hash = "070a8fbc98276b53cadb606a3e8f73cec251cfa907555ec6aa1b1d4b4a9e6e2b"
 
 [[files]]
+file = "kubejs/data/wizards_reborn/recipes/alchemy_machine/alchemy_glass.json"
+hash = "30ffb7502b20aaba926df92fa88010faa3c80f9219bac1fa9dae8e4512109b4b"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/alchemy_machine/arcacite.json"
+hash = "8370687a6b5e9281792c2a72c7ad883a3c3b23eb6b45f49feb5769d6bfa289c1"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/alchemy_machine/arcacite_polishing_mixture.json"
+hash = "5c7e1ff5162edfeb5a4199547932184607f0acf7e4a55f1eedb174b3c04756a9"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/alchemy_machine/fluids/wissen_tea.json"
+hash = "b094b96e1eca91a8f28ecdb8459f3f84090b88250f77a0f953d84824ba03d913"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/alchemy_machine/music_disc_arcanum.json"
+hash = "b2085f28715e57d322126bdb6ccc237838c4c7cdcfb110d51248d4371401a689"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/alchemy_machine/potions/magical_attunement.json"
+hash = "90a254d13281a085dba2f2fcca13f887464c47793ceca62f27dd451bf3ea6a11"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/alchemy_machine/potions/wissen_tea.json"
+hash = "ff3cddc8afd89554e97c5c044364289abed2f99be8d7baf227097ae634677dca"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/alchemy_machine/raw_arcane_gold.json"
+hash = "66c49c222e1f96cbab57b71612cfff6367d34410ad3bf77d4fe929adf27a907f"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcane_enchantments/eagle_shot.json"
+hash = "a2129320475907b91e0e4ad2ea5c450590b473fadeacbb8131d5f1faf64a3acd"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcane_enchantments/life_roots.json"
+hash = "52bfe58ef0c7e3a1b122a58a49660311ddfa5d9ca8b7180868278fd9b9869f89"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcane_enchantments/magic_blade.json"
+hash = "38688d486942275484f2c192d49236802850cef712c214a11ae8542096d9fcc7"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcane_enchantments/sonar.json"
+hash = "379a9871dc8fd06074678bd938c0a253868cc7cc5ef15b08e6e098d58f782e0d"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcane_enchantments/split.json"
+hash = "1359259e0758a33118920446c6930dd619ca1e166c780d09e0d654abe2a36250"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcane_enchantments/throw.json"
+hash = "d0da2c2cbd2b9fab001545c2c1774b92fa09a5e5a9ff4eb24224da2ac7008463"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcane_enchantments/wissen_charge.json"
+hash = "bc086255459a4e6262a6156c77019051715473240aa21f6439f89a683ec325b2"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcane_enchantments/wissen_mending.json"
+hash = "b73d344fb0d893a44044ac0e96e7a2d928748bf7cba382f44dc6dc5558e155b6"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/arcanum_lens.json"
+hash = "cef5bb5b9d77a68da549d12449b917e750efa4b57120af6439a2a46c8e60cf82"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/crystal_ritual/crystal_growth_acceleration.json"
+hash = "572b2df05320abb1e8ccec561b8e624edd5da917cb374a3a6270170f0063b5f7"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/crystal_ritual/crystal_infusion.json"
+hash = "c8babaf9271bbdca5eac6723648ec52d9370a52f590a4b0cbf48b776a0e0d01c"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/enchantments/fortune.json"
+hash = "c2584724172da4719d85529a0b08af596cffd03f453a966746ca8b67c13feb8f"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/enchantments/infinity.json"
+hash = "a121e91b2cc69ca7ab0f92149a71f446d766eafcac1c60320126fe0f40110265"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/enchantments/looting.json"
+hash = "158db9b5b8f9c5ea4736244f7f5bf4b222027b421ec39154e051e0a3af4c58e1"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/enchantments/luck_of_the_sea.json"
+hash = "c49ec823587f97aeaa897879db0dd08efd2d7b623ed9ac74164b0cb683a45309"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/enchantments/projectile_protection.json"
+hash = "cb03309a11a5eef41938f78e42b69a6f8ad2f7f27e28d611bab9de332c742c1a"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/enchantments/protection.json"
+hash = "baefd75cd22822963b55e7217a77c472a20676534443e0901551686c113e4408"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/knowledge_scroll.json"
+hash = "944f29f82966b436c2f0bcb100d624e7edea9e04e11c28b6e188b3ad855ffdf9"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/magnificent_maid_trim.json"
+hash = "dbdd964e733a4fed714eacc67db5e86c9dd4db1cc8b1c1e39bc6080f04d812c4"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/wisestone_plate.json"
+hash = "da1d2379084eae4e3fedba1b3f3f1dea748a28a28162ce69eb493f10e08d6670"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/wissen_keychain.json"
+hash = "c6fd981de0ef1357db955ffea6de2aa841c69ff1a35164ce541104c42cf543de"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/wissen_ring.json"
+hash = "e2b609ed5ac8e284cc11ebf62d5ff62a34f6061bb1a85ef18ce40a6a3d7e8586"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/arcane_wand.json"
+hash = "a65cbdce3648ea06b13b20708720ea65898a405425b2c29a9f1fb642bdf70a0c"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/inventor_wizard_belt.json"
+hash = "6592bc62f705177a53609508bf772cccfe254932ce487c2d63f1ebd4dc37e626"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/jeweler_table.json"
+hash = "159cd8a8f0bcd735ff7e68b5699287ad907336b4be5a4c8579d535216dbf2ce0"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/light_emitter.json"
+hash = "c9b0a33a82d7faae5f8db4ccbfb2f477ef53f3409d0caea001747aee6b00c221"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/light_transfer_lens.json"
+hash = "f0bbfcc33878225c5de9a94d6dc89a34556e7a73204cdc74896311666a278026"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/orbital_fluid_retainer.json"
+hash = "9dc65617d90551763c596d6b53f73e8f6f6470fab77980416290ffe46f7f0ae6"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/runic_pedestal.json"
+hash = "0374821f6754628698a85728b866f8367f906b7df703ffcd7899e77e18e30f85"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/wisestone.json"
+hash = "a4201f241910c68031491d5086cb3d62092d51124a12be168094f04014e40a18"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/wissen_activator.json"
+hash = "cdb6aa28282313f5aa7460662ea4e5f4701e4881197251fb8d8536b97451394b"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/wissen_cell.json"
+hash = "7a7a9f24272a1f884b792b856cc8172512de5cc4834bc041eeb7f479b14ee689"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcane_workbench/wissen_sensor.json"
+hash = "e24232d71559e70eeffe690f581fe1e3e9aff6fb671d58e0f3bf13faa5aa1d6b"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/arcanum_dust_transmutation/arcanum_growth.json"
+hash = "e433107129899e6878678a702c7321ff13f7dd0dfd9749c4f29ce8cddf3db4d3"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/blasting/arcanum.json"
+hash = "aba606429fa677d4bdf01c8a45c474ff8fb10947d47c576bfd5c78c41f31be72"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/censer/arcanum_dust.json"
+hash = "ce5d3439b62c4355ed83cf76269af494a5bdc25c20f479b7fe1fe29ad7fc9f0d"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/crystal_infusion/arcanum_seed.json"
+hash = "2fa1c19085d5e5d52bb5dde7b0b2c6a75d44daf8d01a531c938d3db1a8f05b14"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/crystal_infusion/innocent_wood_sapling.json"
+hash = "a8ec6c8515fd5e33b2571236529c9e9d9ec64754f6cdbf59bf872cce8c9c28f2"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/crystal_infusion/petals_of_innocence.json"
+hash = "83ef1e67f9c5c3bbd813d12f5d9a48c73e557bdf53c7cec1b1072dcac76baad4"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/crystal_infusion/phantom_ink_trim.json"
+hash = "eca6b64ed49b84dd95fc04e452a4323639232121b6899c80df68e27dbbfb67cd"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/integration/create/alchemy_machine/crushed_raw_arcane_gold.json"
+hash = "c7a644cec3a7b623f443b307ed0dd7534991042a996994b2fa967fc0512b3361"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/integration/create/crushing/arcanum.json"
+hash = "b16d4ba18cf97171684da1e5ed6942a9734c3f746ccdeb831c9f81d7487be3d3"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/integration/create/crushing/arcanum_ore.json"
+hash = "2c52a6f8481a033c5d0a1dc1571dd7fc5bee61d12e08324d240fc82080dc6669"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/integration/create/crushing/deepslate_arcanum_ore.json"
+hash = "79c38991a9ff5b120b3ba80f5a969c3def81e605985def640dabb6c8f73b2595"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shaped/arcane_workbench.json"
+hash = "3407c306ab28281a8fee27131258320ceeb9538f22cc76399cf3bca800d2f77c"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shaped/arcanum_amulet.json"
+hash = "7be511ef021b7fd24dba0ba185be2912e581547089447120b837a1e1cfe7af6e"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shaped/arcanum_block.json"
+hash = "5cbcaa1787dc37718ef3bf9ea18551cc6d97dc403a5d416059d8e522444ca569"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shaped/arcanum_dust_block.json"
+hash = "2a5a6df516cbdd54c0b7441ca4591030674e5c67fe57edaf5a0c6c32927b80e1"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shaped/arcanum_ring.json"
+hash = "c7b1885c057117fc3916889b70eb52d617a8583e723bd1965aab51a16d27adcd"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shaped/wissen_wand.json"
+hash = "bd2d730263247791e9d32a62bd8813716cd22e5266d029e9de162fc61e15646e"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/arcanemicon.json"
+hash = "dfd774e9518e5ec585b52c8aa262da4f499099973ef5c854c2c64b07fbe928a5"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/arcanum_dust.json"
+hash = "9ec0656b59cfdcfeb99f027b566a7c2952ecba60a40e5342fb2fbc6611132046"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/arcanum_dust_from_block.json"
+hash = "8ffd439f24fd89dfaaaf33dd78aaeb8bb61e497e8d237eae471dc80cbaf907c7"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/arcanum_dust_with_redstone.json"
+hash = "916c24d6f53ed9aae2b3d134b19ae1925f7903eda557fae903c2c6434dc92290"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/arcanum_from_block.json"
+hash = "88fa7401156ef47eddea5e6bc3603047dc2d7b64606e6bdb37c1177afee29847"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/cooperation_banner_pattern.json"
+hash = "fb9d1e702ca04e7a6137aaf8f8385eeae5ca0c8ef5c71e42d1ada9d39af59873"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/hunger_banner_pattern.json"
+hash = "49a3e1a8c0e42ffebc8d2140004caefbbad0e98ab769d3e636ea85bebfd2a32c"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/reproduction_banner_pattern.json"
+hash = "4cd17ce67def54ed1533c7a0dff9156ad9a3b888e8eafa43a4803181b4d661ea"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/survival_banner_pattern.json"
+hash = "f3f25f12a04b5f179c17f2eb86caaed2419bfd39e04a4f38d684b7ebfdf84517"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/shapeless/violence_banner_pattern.json"
+hash = "54be39f219c08d2ecbfd779490ec75b4c14cb25ebd9d51f2bc743449d48a0dd9"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/smelting/arcanum.json"
+hash = "132d6943e1934464213faf41fbba01d106f6c6675bda6085e335818ccb26b38b"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_altar/arcanum.json"
+hash = "51af4d6a34652916ae19c76a70edfaafe17ec2aed46e481373b1ad439810a9b4"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_altar/arcanum_dust.json"
+hash = "1d817d05e7a019cb557e4aee1aebd4e2bd58cb74d789777fab7e5bec62ca8317"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/air_crystal_from_fractured.json"
+hash = "e3be1f59309f89944dab2349d6a9319aa6ea896a1e9c32c14c7fe95e62cc2032"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/air_crystal_seed.json"
+hash = "70df7593c613ee953885ba59ea1fd9d1d5778f2b0320422a2576df878c341525"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/arcane_linen_seeds.json"
+hash = "41c02e49d1aaf7a71add945f9695d600539c2dd9f8da9b4fdc0ba25bbea009ff"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/earth_crystal_from_fractured.json"
+hash = "0b4b94a8bcf9f74bc95aaeab6582d7d22e84449367d8a17c062f9ce7a6e25e0d"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/earth_crystal_seed.json"
+hash = "f9abf4ee5a01c0cc8e11eb664adbc317056789813164d08f6cb60303adc3870a"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/fire_crystal_from_fractured.json"
+hash = "0832c8cb1e67ca2211f2e3313d242c8b7f24bf4cc5ab70e3682943a7f84de747"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/fire_crystal_seed.json"
+hash = "3cae4daa94c5db71e3e6f791f3fdd8131e4e68ed283c36fb165bdd7225a08647"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/music_disc_shimmer.json"
+hash = "05e9717e95a4717b157ef4c43c7a7b6650811aabed9e1c10d069c1e00d83e11a"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/void_crystal_from_fractured.json"
+hash = "e394e21f24c66f277e8916661b3b349d9eea58884f8bf989fa40d214c860f4be"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/water_crystal_from_fractured.json"
+hash = "ca323478777eb19362ad686298ff6f5dd32ee112e32fa1905ed3cf37b637cfe6"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/water_crystal_seed.json"
+hash = "7fa509d918a1993e208258b26f323babb2ffe41535bc5912332fc5e7077dc150"
+
+[[files]]
+file = "kubejs/data/wizards_reborn/recipes/wissen_crystallizer/white_arcane_lumos.json"
+hash = "242cef1fa9cb1bf29a41f5378f6aed1579d2dc435edb8721f3d478ff94c6dd2c"
+
+[[files]]
 file = "kubejs/data/wizards_reborn/worldgen/placed_feature/arcanum_ore.json"
 hash = "165c054809344b0c5fe55d50f15b7e09a523368cbc6e7948f3a2732a0ed56f0a"
 

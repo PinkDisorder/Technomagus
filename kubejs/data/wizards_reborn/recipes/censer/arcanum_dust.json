@@ -1,0 +1,13 @@
+{
+  "type": "wizards_reborn:censer",
+  "ingredient": {
+    "tag": "forge:dusts/arcanum"
+  },
+  "effects": [
+    {
+      "effect": "wizards_reborn:wissen_aura",
+      "duration": 3000,
+      "amplifier": 0
+    }
+  ]
+}

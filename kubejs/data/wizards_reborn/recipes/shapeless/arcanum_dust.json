@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:gems/arcanum"
+    }
+  ],
+  "result": {
+    "item": "wizards_reborn:arcanum_dust",
+    "count": 2
+  }
+}

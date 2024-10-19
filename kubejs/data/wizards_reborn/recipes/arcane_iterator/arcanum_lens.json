@@ -1,0 +1,31 @@
+{
+  "type": "wizards_reborn:arcane_iterator",
+  "output": {
+    "item": "wizards_reborn:arcanum_lens",
+    "count": 1
+  },
+  "wissen": 500,
+  "ingredients": [
+    {
+      "item": "wizards_reborn:alchemy_glass"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:gems/arcanum"
+    },
+    {
+      "tag": "forge:dusts/arcanum"
+    },
+    {
+      "item": "wizards_reborn:alchemy_calx"
+    },
+    {
+      "item": "wizards_reborn:alchemy_calx"
+    }
+  ]
+}
