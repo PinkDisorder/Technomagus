@@ -65589,6 +65589,11 @@ hash = "0aa2743126e1be844e11963c7dd3b3d245d1b0949c3c0a6a7d100798a228ab35"
 metafile = true
 
 [[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "18b9e02c366d8fab343c779d180fd690f144a3add530e1119571a14f4bfd313b"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "4d0b892ca8d67cb233f3d3be816553da4ecfa820519a1c55ce5efa9061fcf662"
 metafile = true
@@ -65626,6 +65631,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
 metafile = true
 
 [[files]]
