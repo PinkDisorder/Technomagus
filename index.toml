@@ -64704,6 +64704,11 @@ hash = "62d256f3cd5e8677572923e001ca63e134c4b7aebd0c24f7ce004a75851ac73e"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "7b0ac8148583c55f639e89619a09def260a19ee481b6c06a73d5d0d6f35b988d"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
