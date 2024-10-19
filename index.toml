@@ -64709,6 +64709,11 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
 metafile = true
@@ -65330,12 +65335,12 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "432ce4cff190bf04d59b378da777216324dab0de3a898886d699e87cc315ba84"
+hash = "54231936cc0f5ffad6e126a96563445d1f4c9fd9806ebf9699fef22d5a8801fc"
 metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "abd38b12752436258db8ffec7d4bee971812f75cdf5d8ce0b6d705948d12f859"
+hash = "f1aa1a1b3746f0bad932aa0e3a95ee987b96efadf1107431c735923f3ae00890"
 metafile = true
 
 [[files]]
@@ -65410,7 +65415,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ae2-additions.pw.toml"
-hash = "7864f0dda9fa1ca7b0c22ab276ff18a3c1434ae369e5e9b0cf797cc085138bda"
+hash = "c6b6251dcd9f357f739ad8ccfed0e6e97b6e39f4f5b706863f239d912eeb0cb3"
 metafile = true
 
 [[files]]
@@ -65561,11 +65566,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "8582e34cc518e4528a95352d852cf323901a9a8818e3a9fa05ac2ce825039fe7"
 metafile = true
 
 [[files]]
@@ -65735,37 +65735,27 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ashen-16x.pw.toml"
-hash = "f6169e1a0be70158c9cdc35727cb9d4dc52c8833f8300335d059e48f60a8b393"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ashen-appleskin-support.pw.toml"
-hash = "ad161d0528839826eee152ea87cccdd45d96bc48fc62b59c46fc0586e8d50fd2"
+hash = "9fa843360d3389d3ef772641fc7756f8923fae3ea4ea55f5c8ace6d9532634ee"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ashen-better-end-support.pw.toml"
-hash = "ffc02e485b9323cf1adc4323e1473c85086868e84de5992de28b2e7541ee90cd"
+hash = "c2d648774622741448ef34b3936e4ce2f6f76f23f939bc0b43bc5f112409b433"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ashen-custom-mobs-x-fresh-animations.pw.toml"
-hash = "7496418c9a7521d9e2b1f8120cece97794bd0e0cf23981ff8762ac24bca24508"
+hash = "1fd12a5cc0ebf16265320d2a9546aac142e854625cc833dbc71915748cdbb938"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ashen-falling-leaves-support.pw.toml"
-hash = "f095bda4644ad5adac6ed59b1aa4f3c697ade961ee1cad82de3eaf0b4eef3539"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ashen-just-enough-items-support.pw.toml"
-hash = "1740241eae35cf0b5bada1c6c8a294aba19e489b24c0d98628702873a99351aa"
+hash = "791716fe16e9efd34c3910963ee516ad5b9e4f6a1bf1133c291fc99333e8d187"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ashen-simple-glass.pw.toml"
-hash = "1dd499b3e242fbf832ad21a0c7ed9f0ef6e0eca9e73463a7cbab8e2d8555ba82"
+hash = "5813b13ca2d3088d892cd3ced92bbf57c9c8eb86c524dde4e43f209a15de03e4"
 metafile = true
 
 [[files]]
@@ -65775,7 +65765,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+hash = "da8854dec3941519a196de24933f8494bbce4dd682e05cbc60949057aa758b50"
 metafile = true
 
 [[files]]
@@ -65790,7 +65780,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/twilight-forest-jappa-pack.pw.toml"
-hash = "ee98054ae477b70fef695925bdda115634d256153aa852a1b972f4ec417973da"
+hash = "3572f51ed92adde48d6fc6046d8e6394c8640020e516cc3b4f86d575bfd1801d"
 metafile = true
 
 [[files]]
