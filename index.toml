@@ -65714,6 +65714,11 @@ hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
 metafile = true
 
 [[files]]
+file = "mods/wfs-cave-overhaul.pw.toml"
+hash = "90e79a811c084c0b08a3874399cf22fb9c28bb383adde1eabfbf2e1d62027c3f"
+metafile = true
+
+[[files]]
 file = "mods/wizards-reborn.pw.toml"
 hash = "90283ad52f142441745385feb16d07a2b9651bdfc11d6602a4f61ec9644cefee"
 metafile = true
