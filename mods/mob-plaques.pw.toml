@@ -1,0 +1,13 @@
+name = "Mob Plaques"
+filename = "MobPlaques-v8.0.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72a7476c49cf1a4d66f133d100faac2b40097170"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5108545
+project-id = 686434

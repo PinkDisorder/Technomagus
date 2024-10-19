@@ -65004,6 +65004,11 @@ hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "e1eb9c8386bc3ec75f1dcc14ff420b1a2e64aa2553678cb5ccfa945966280c82"
+metafile = true
+
+[[files]]
 file = "mods/death-knights.pw.toml"
 hash = "a2c9307315f2bb7da1489621ae672166738b738febb6edc515c979c821ae9d1b"
 metafile = true
@@ -65249,8 +65254,18 @@ hash = "1d77aca40b37d5a4a4b98318a700a8bbab4123e3fa51c0c07ad7693145ac80d4"
 metafile = true
 
 [[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "39d13de3388a0546d3116bb4ae1f6c86f068d051688cb0c3505ba1c4eb0e05e4"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "c0414ed1c3ecf552f43da6ce8e7bf36c694768c89bec91c10186e57d0fe6e857"
+metafile = true
+
+[[files]]
+file = "mods/held-item-tooltips.pw.toml"
+hash = "aa0da0a91a670024529a4c78f264a214576b0a994d1a50d89a219987d8025490"
 metafile = true
 
 [[files]]
@@ -65414,6 +65429,11 @@ hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
 metafile = true
 
 [[files]]
+file = "mods/mob-plaques.pw.toml"
+hash = "b649de8b5b82992aa2e6a1412bef7fcc2b016714f3ab815761f881dc9ad134a4"
+metafile = true
+
+[[files]]
 file = "mods/modern-ae2-additions.pw.toml"
 hash = "c6b6251dcd9f357f739ad8ccfed0e6e97b6e39f4f5b706863f239d912eeb0cb3"
 metafile = true
@@ -65431,11 +65451,6 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
-metafile = true
-
-[[files]]
-file = "mods/mutant-monsters.pw.toml"
-hash = "f2f6c7c9ea66bb64185588832ee707d3d08d62f66755f67f1a1c43bb780b2085"
 metafile = true
 
 [[files]]
@@ -65496,6 +65511,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
 metafile = true
 
 [[files]]
