@@ -1,6 +1,7 @@
 name = "Ashen + Better End Support"
 filename = "Ashen_Better_End_Support_1.1.zip"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

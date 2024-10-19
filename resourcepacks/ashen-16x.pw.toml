@@ -1,6 +1,7 @@
 name = "Ashen 16x"
 filename = "Ashen_1.8.2.zip"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

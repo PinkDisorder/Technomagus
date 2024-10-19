@@ -1,6 +1,7 @@
 name = "Fresh Animations"
 filename = "FreshAnimations_v1.9.2.zip"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

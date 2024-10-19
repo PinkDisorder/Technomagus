@@ -1,6 +1,7 @@
 name = "Ashen Simple Glass"
 filename = "Ashen_Simple_Glass.zip"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

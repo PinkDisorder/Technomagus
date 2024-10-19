@@ -1,6 +1,7 @@
 name = "Twilight Forest: JAPPA Pack (official addon)"
 filename = "TwilightJAPPAPack-1.20.3-1.1.0.zip"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
