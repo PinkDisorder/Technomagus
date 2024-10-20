@@ -64261,14 +64261,6 @@ file = "datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip"
 hash = "c6f074b5d97c359692964d140b900726349059129fc2f7225fd317a3cbc1e394"
 
 [[files]]
-file = "datapacks/ctov-gazebos-add-on-v1-0.zip"
-hash = "943ec15ac386a2bcf07514d0ce14c89b9321981e0a70ae8b16ce572763ba6b61"
-
-[[files]]
-file = "datapacks/ctov-paladins-add-on-v1-0.zip"
-hash = "ff6eda41ef60be02f8e91349157bb16fe17de014da7042cb546e5451e6445d1a"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -64749,6 +64741,11 @@ hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "0c0c79a36142cca5fcd53cd9a76b9076cbd8746ef368ecc0a3e1f61643639490"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
@@ -64981,6 +64978,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
@@ -65266,11 +65268,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "891d9f74c6b4efb41a0f0d0d5a97e881ca24ba275627a9f9bb165fb61a729017"
-metafile = true
-
-[[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "016649da1c77f506dafb7432991a03e0f2284f322232c853310583750847f0f9"
 metafile = true
 
 [[files]]
