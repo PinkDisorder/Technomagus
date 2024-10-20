@@ -64669,26 +64669,6 @@ file = "kubejs/startup_scripts/world_gen_layers.js"
 hash = "46bd306633fb127583a79543d20726dea58f916edc71708443298c213d111c6b"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "d84961fe65fcb7f4da1689bdc7a1f1b8ce751a2b1eff2b18fb1f5c8027d22042"
-metafile = true
-
-[[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "d089bd1afa7fad1d3c8414b3f1765cdca030b20d974bdd1f8e232069286c26d0"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "cf42bc14a3826c47ba30ffa95cf133b1905b0c810218655741331b893d4e3d3a"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-tooltips.pw.toml"
-hash = "e13decd7dfb68cd726f14550d9e970e93b14ffd280eca11c9e9b175b2511814c"
-metafile = true
-
-[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "008f4b4782a92c6a8995f26159433659d9b5bdfc5a736614a142666c4d235b3c"
 metafile = true
@@ -64754,11 +64734,6 @@ hash = "9bd97f776c321a330b117f83f3632c867dd60c61cffabe51ce18c2dd19e24458"
 metafile = true
 
 [[files]]
-file = "mods/archers.pw.toml"
-hash = "a366ee5f635f8b57b639bcebf356c7fbaa0505f1b74040c75e9d018f5523d26e"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
@@ -64771,11 +64746,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
-metafile = true
-
-[[files]]
-file = "mods/bclib.pw.toml"
-hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
 
 [[files]]
@@ -65019,11 +64989,6 @@ hash = "e1eb9c8386bc3ec75f1dcc14ff420b1a2e64aa2553678cb5ccfa945966280c82"
 metafile = true
 
 [[files]]
-file = "mods/death-knights.pw.toml"
-hash = "a2c9307315f2bb7da1489621ae672166738b738febb6edc515c979c821ae9d1b"
-metafile = true
-
-[[files]]
 file = "mods/dnt-stronghold-overhaul.pw.toml"
 hash = "ae80266a71e177f1ed0bc73f4d8c7895ee9f43ba0072683c4ff48c098b48dec4"
 metafile = true
@@ -65229,11 +65194,6 @@ hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
 metafile = true
 
 [[files]]
-file = "mods/gazebos.pw.toml"
-hash = "85c8213957f8b1144f565d7fd5f508fe075ede0ed3510143a766d8930aa0735e"
-metafile = true
-
-[[files]]
 file = "mods/geckoanimfix.pw.toml"
 hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
 metafile = true
@@ -65331,11 +65291,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "0968cf761fc4608f1d756da1b693314f23148dd8d9a4b8d1c1d046ed7d8f6f39"
-metafile = true
-
-[[files]]
-file = "mods/jewelry.pw.toml"
-hash = "f1de7e0580ac0d7a3defd87cb8bb4a5597c4e0fd7b903227efc12678bc0dc5d4"
 metafile = true
 
 [[files]]
@@ -65514,11 +65469,6 @@ hash = "f1a2d3a570a6ce0722f0136b4b57371fc067ad7f329e1df9cd3cd765619ac759"
 metafile = true
 
 [[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "491c14d1ca9f0db748604d16b6bec77177672e8acfad2329b1c3cd2d454fbd90"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
@@ -65574,11 +65524,6 @@ hash = "d218175a2fc0fd2fdb907ed55a214f0163d9bcabb75b47ccdb6f4704c3bd5dd0"
 metafile = true
 
 [[files]]
-file = "mods/rogues-and-warriors.pw.toml"
-hash = "5d47427d2d8e13164af132620ff91bbcc1c3dd4460b9bf91affb2a9bd6496bce"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-config-screens.pw.toml"
 hash = "9a2c9f71c9fe1f927ca837bcd4acc8c5d46dab00dcd6c5aeae37c41ab8644b97"
 metafile = true
@@ -65586,11 +65531,6 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "baa3801c6db3a574401e1a80477f79ad59c99015e7d8b7bed4ee476c0340145b"
-metafile = true
-
-[[files]]
-file = "mods/rune-crafting.pw.toml"
-hash = "20921407c1c4c2b8627ebc84950ff412f1c8265f578595d10b8e5b1dea4c6d70"
 metafile = true
 
 [[files]]
@@ -65636,16 +65576,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "c7303b109577a683aef185c43912e4e9194397ddd40c562880468937136af0af"
-metafile = true
-
-[[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "1ac7dcff580a64c64c667c0ddf1a8eb1bf9009feb3981161d14c80ede9eea344"
-metafile = true
-
-[[files]]
-file = "mods/spell-power.pw.toml"
-hash = "7f7cd8af29430b1d5d597aae8682fa87e673f2b359bf57164a9b96762ab8b331"
 metafile = true
 
 [[files]]
@@ -65731,11 +65661,6 @@ metafile = true
 [[files]]
 file = "mods/wizards-reborn.pw.toml"
 hash = "90283ad52f142441745385feb16d07a2b9651bdfc11d6602a4f61ec9644cefee"
-metafile = true
-
-[[files]]
-file = "mods/wizards.pw.toml"
-hash = "b41106b7632569e92faf1f79e8665704f05f43eb0f1743f667b156745e923e96"
 metafile = true
 
 [[files]]
