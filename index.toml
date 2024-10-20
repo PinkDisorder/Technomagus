@@ -65529,6 +65529,11 @@ hash = "9a2c9f71c9fe1f927ca837bcd4acc8c5d46dab00dcd6c5aeae37c41ab8644b97"
 metafile = true
 
 [[files]]
+file = "mods/rpg-style-more-weapons.pw.toml"
+hash = "d59b5287a2df3b65b9ef5c63eaa1484adac4620176873b9f98dffc3fd7b33d57"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "baa3801c6db3a574401e1a80477f79ad59c99015e7d8b7bed4ee476c0340145b"
 metafile = true

@@ -1,0 +1,13 @@
+name = "⚔️ RPG style More Weapons!"
+filename = "RPG_Style_more_Weapons_9.0_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b4403a3ca6b36da0a80fb20d8c688f04d442cb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5770381
+project-id = 630254
