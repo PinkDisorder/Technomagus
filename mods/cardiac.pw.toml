@@ -1,0 +1,13 @@
+name = "Cardiac"
+filename = "Cardiac-FORGE-0.5.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f232ef17a254c16408207e3c2f5e9e01dd85edc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5738873
+project-id = 968266

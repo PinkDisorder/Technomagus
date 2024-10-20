@@ -64824,6 +64824,11 @@ hash = "12973b4e03545996c2acc148be491e7e20d246c6e4dcb3e43a023de0fa5a253d"
 metafile = true
 
 [[files]]
+file = "mods/cardiac.pw.toml"
+hash = "1caa8d138fa8218295bbe69528cc8910ed4a262aa9d210fcca3a44eebd89764e"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "1b72c550b3ad291ba15cc550d5ae3287f7a94b53c6e29fc3d31b438f8437bce9"
 metafile = true
