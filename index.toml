@@ -65251,6 +65251,11 @@ hash = "891d9f74c6b4efb41a0f0d0d5a97e881ca24ba275627a9f9bb165fb61a729017"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "fd0787257d819af194fc1ef52c17d72b1d9e20d5102c5b7d151fd52a1459365d"
 metafile = true
