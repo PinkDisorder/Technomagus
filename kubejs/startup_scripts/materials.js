@@ -15,51 +15,6 @@ const arcanumColors = {
   primary: 0x577fb8,
   secondary: 0xcdedfe
 }
-// iconSets
-// DULL
-// METALLIC
-// MAGNETIC
-// SHINY
-// BRIGHT
-// DIAMOND
-// EMERALD
-// GEM_HORIZONTAL
-// GEM_VERTICAL
-// RUBY
-// OPAL
-// GLASS
-// NETHERSTAR
-// FINE
-// SAND
-// WOOD
-// ROUGH
-// FLINT
-// LIGNITE
-// QUARTZ
-// CERTUS
-// LAPIS
-// FLUID
-// RADIOACTIVE
-
-/**
- * Arcanum Alloy Composition
-
-    Cobalt (Co) – Forms the base metal, giving the alloy a bluish hue. Cobalt is already associated with strength and magnetic properties, which could tie into the magical aspects of the element.
-        Role in magic system: Acts as a conduit for arcane energy, amplifying magic.
-
-    Iridium (Ir) – This is an extremely rare and expensive metal with high corrosion resistance. Iridium is often used in platinum alloys and has no widespread applications due to its rarity.
-        Role in magic system: Could make Arcanum magically stable under extreme conditions, enhancing its durability.
-
-    Rhodium (Rh) – Another rare and expensive metal with brilliant reflectivity and chemical inertness. Adding this gives the alloy an almost otherworldly sheen, making it desirable and rare.
-        Role in magic system: Rhodium’s reflective qualities could be tied to illusion-based magic, making Arcanum essential for spells that require deception or invisibility.
-
-    Lanthanum (La) – Part of the rare earth metals, lanthanum is used in optics and some specialized materials. It's not super rare in a strict sense but has niche applications.
-        Role in magic system: Lanthanum could enhance magical vision, acting as a focus for sight-based spells or augmenting a magician’s ability to "see" magic.
-
-    Osmium (Os) – The densest naturally occurring element, osmium is very rare and expensive, with little practical use. It adds a sense of weight and density to the alloy.
-        Role in magic system: Osmium’s extreme density could give Arcanum the property of absorbing and containing vast amounts of magical energy, which could be stored or released at will.
- */
-
 
 GTCEuStartupEvents.registry('gtceu:material', event => {
 
