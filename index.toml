@@ -64676,11 +64676,6 @@ hash = "62d256f3cd5e8677572923e001ca63e134c4b7aebd0c24f7ce004a75851ac73e"
 metafile = true
 
 [[files]]
-file = "mods/alexs-caves.pw.toml"
-hash = "7b0ac8148583c55f639e89619a09def260a19ee481b6c06a73d5d0d6f35b988d"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
@@ -65396,11 +65391,6 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
-file = "mods/mowzies-mobs.pw.toml"
-hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
-metafile = true
-
-[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
@@ -65448,6 +65438,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "f1a2d3a570a6ce0722f0136b4b57371fc067ad7f329e1df9cd3cd765619ac759"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "9789c8c768a69d21a6655501bc64572befc811d6a24a29ea2f7e5bc7f38e7efd"
 metafile = true
 
 [[files]]
@@ -65663,6 +65658,16 @@ metafile = true
 [[files]]
 file = "mods/wizards-reborn.pw.toml"
 hash = "90283ad52f142441745385feb16d07a2b9651bdfc11d6602a4f61ec9644cefee"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "2d8caf83668f6d80ddac661636b44f9bcb74cb0e7ca18d62937172e0769ebc2f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
 metafile = true
 
 [[files]]
