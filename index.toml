@@ -64941,11 +64941,6 @@ hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
 
 [[files]]
-file = "mods/create-food.pw.toml"
-hash = "0f1aed690018994d65c3abe59d2e709d9668caa25ee9baa42f98589141d536ee"
-metafile = true
-
-[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "ca274f1a31ba6fdf3ce7fc4a14e5d6ffcaa19c711595d98d87deb1d9fe365727"
 metafile = true
@@ -65393,11 +65388,6 @@ metafile = true
 [[files]]
 file = "mods/miners-delight-plus.pw.toml"
 hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
-metafile = true
-
-[[files]]
-file = "mods/mob-plaques.pw.toml"
-hash = "b649de8b5b82992aa2e6a1412bef7fcc2b016714f3ab815761f881dc9ad134a4"
 metafile = true
 
 [[files]]
