@@ -64662,7 +64662,7 @@ hash = "46bd306633fb127583a79543d20726dea58f916edc71708443298c213d111c6b"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "008f4b4782a92c6a8995f26159433659d9b5bdfc5a736614a142666c4d235b3c"
+hash = "b0c61413cc2dd7fca52014fa070c40aa478dc9007dc7a94330b97f1be7827bd5"
 metafile = true
 
 [[files]]
@@ -65132,7 +65132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "acaeacb04ab55cd75b77611614265faf3b80c5f10d38d4ac363d2708fe8a92b5"
+hash = "bfde417f768e5517c25fa35f4640073c7cbee0097833ae19be149b903daaf39c"
 metafile = true
 
 [[files]]
@@ -65282,7 +65282,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "54231936cc0f5ffad6e126a96563445d1f4c9fd9806ebf9699fef22d5a8801fc"
+hash = "ba37eb5276dbba04050402c27f1b7a5f436b1096c174bbeb6c197e2023de0751"
 metafile = true
 
 [[files]]
@@ -65302,7 +65302,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
-hash = "c7082fea908ac0a5dd7e23051524659a9ce7d7dde053ed16745b565ab9ccf68b"
+hash = "d1c60695339f86aad464e9ea6605b94fc379e7d8599bec49011bf8d149230b16"
 metafile = true
 
 [[files]]
@@ -65317,7 +65317,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "97da99d2cf7cff45d7da03e40ed3431fdd14059cf98fece6bb56ac06d5290244"
+hash = "95c327240db19808c1c7c8dd5190ce245b34b614ceed65c944a574d94141dd63"
 metafile = true
 
 [[files]]
@@ -65362,7 +65362,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ae2-additions.pw.toml"
-hash = "c6b6251dcd9f357f739ad8ccfed0e6e97b6e39f4f5b706863f239d912eeb0cb3"
+hash = "f865b45e10b01b334cd5a358b8eeb3827fb05b8d32607547e510dfe7760624dd"
 metafile = true
 
 [[files]]
