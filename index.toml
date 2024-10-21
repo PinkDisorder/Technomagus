@@ -64654,7 +64654,7 @@ hash = "983d98e164253359b24bc1b6c0ca98bb80ec335d4a039cd36bd61069736453f4"
 
 [[files]]
 file = "kubejs/startup_scripts/materials.js"
-hash = "319ed3fce8e1bdc57d0b0417a696db12242dd4edf89e15cd61a767873976d18f"
+hash = "b9c6993768a89e5d7bf58533ded2824f6c1ac7a1532e49346f046351214df65d"
 
 [[files]]
 file = "kubejs/startup_scripts/world_gen_layers.js"
@@ -64758,11 +64758,6 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "765acecdfc93df9607dd3f25084587f0114acabebe68568aeb269c019811099c"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
@@ -65158,6 +65153,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
 
 [[files]]
