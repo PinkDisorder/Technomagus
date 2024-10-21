@@ -65161,26 +65161,6 @@ hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
 
 [[files]]
-file = "mods/ftb-essentials.pw.toml"
-hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
-metafile = true
-
-[[files]]
-file = "mods/ftb-filter-system.pw.toml"
-hash = "861fbd37ddfb6fbc634b339e3b9aeef435c6a04f8c18e949bf0784ff0a6bf9d4"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "a4a0adb85269712ade2399503b6365b87847cac8f34f674c535564bda184bcce"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "f40a0b281164f4d406e19ff256d88e1a96f9c380f47699ad6cea30926699dc5a"
-metafile = true
-
-[[files]]
 file = "mods/geckoanimfix.pw.toml"
 hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
 metafile = true
