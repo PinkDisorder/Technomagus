@@ -64394,11 +64394,11 @@ hash = "c49ec823587f97aeaa897879db0dd08efd2d7b623ed9ac74164b0cb683a45309"
 
 [[files]]
 file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/enchantments/projectile_protection.json"
-hash = "cb03309a11a5eef41938f78e42b69a6f8ad2f7f27e28d611bab9de332c742c1a"
+hash = "6c0e8e610e87a6f6fd2eca774f5448909457bdb95747ed653a47fd7790b2421c"
 
 [[files]]
 file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/enchantments/protection.json"
-hash = "baefd75cd22822963b55e7217a77c472a20676534443e0901551686c113e4408"
+hash = "26ecefa895bd18b670f8963cd9816995a24cf7bdf2b28ead444b175dfa2aae64"
 
 [[files]]
 file = "kubejs/data/wizards_reborn/recipes/arcane_iterator/knowledge_scroll.json"
@@ -64638,7 +64638,7 @@ hash = "165c054809344b0c5fe55d50f15b7e09a523368cbc6e7948f3a2732a0ed56f0a"
 
 [[files]]
 file = "kubejs/server_scripts/corrections.js"
-hash = "3d0268a0c9bcb17da533ec5ca589c809d00b79a51a7651eee65a9f6e819ae9f9"
+hash = "d2310494c8c82d987ab6a7a2deb4f30c37ad7b3e430f6d770086b7a4db5e7fb7"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgreg.js"
@@ -65166,11 +65166,6 @@ hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "3e6cd0338e376c0b84fbdbc7fed1b97637782087721c694a0bd6092694331c51"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
@@ -65188,11 +65183,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "f40a0b281164f4d406e19ff256d88e1a96f9c380f47699ad6cea30926699dc5a"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
 metafile = true
 
 [[files]]
