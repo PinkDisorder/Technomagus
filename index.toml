@@ -64736,11 +64736,6 @@ hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "0c0c79a36142cca5fcd53cd9a76b9076cbd8746ef368ecc0a3e1f61643639490"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
@@ -64748,11 +64743,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
 
 [[files]]
