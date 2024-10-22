@@ -65461,11 +65461,6 @@ hash = "df91958db1f1c82ea5d4fe933a4893cdefe6861e3aa2f25d4c4a39a062bddd15"
 metafile = true
 
 [[files]]
-file = "mods/rac-compat.pw.toml"
-hash = "2ede7f8e9ed0c1f77cd2c4cc777733f2687fb2af310b34ae477887d19ef791fa"
-metafile = true
-
-[[files]]
 file = "mods/ram-compat.pw.toml"
 hash = "690f9afcc1b47f193a8b0f6389e7f71c6ea41e8df6873d6a8bb690bba3749054"
 metafile = true
