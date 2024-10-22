@@ -65737,11 +65737,3 @@ metafile = true
 file = "resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "3572f51ed92adde48d6fc6046d8e6394c8640020e516cc3b4f86d575bfd1801d"
 metafile = true
-
-[[files]]
-file = "shaderpacks/photon_v1.0a.zip"
-hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"
-
-[[files]]
-file = "shaderpacks/photon_v1.0a.zip.txt"
-hash = "394c1d5983dd95403a4b901a75e63dff81f608e7644a8bcca6878872ed0a25d6"
