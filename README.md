@@ -21,8 +21,7 @@ Currently heavily WIP
 - [ ] Possibly EU from Botania Mana via a Multiblock.
 - [ ] Possibly mana-wissen interop.
 - [ ] Write the quests up to and including IV for a start.
-- > A lot of the gregtech side of it can be based on the community pack.
-- [ ] Figure out how to integrate Better Nether and Better End
+- > A lot of the gregtech side of it can be based on the community pack.pa
 
 ### Installation Instructions
 

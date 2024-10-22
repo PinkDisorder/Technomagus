@@ -64253,6 +64253,30 @@ file = "config/wizards_reborn-common.toml"
 hash = "96d6c5e91b2522f0017b75b94459ae73ef1febbe70e753fe232ac78f7568e998"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "e977867f2c037cccd5f9f2265c95b12da62abb94dd74eeb14f4d0c3924da168e"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "ac5b7076c17542be38e84c7058e52525b0cf8d9f0f79c96a31589a326bd6f8aa"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "0cbc2d408a95a715ed2524ba6e8c45600b7f350a021524bee28c22687319e470"
+
+[[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
@@ -65006,11 +65030,6 @@ hash = "4a831ac28ef58cbaa173fdbcd002364b2b08dfb57b9dec5ca0289c5745608647"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-for-better-end.pw.toml"
-hash = "2f479253d1d63978c83c9a0a804cde01e63a17c41ab9530a177891842b868675"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-for-vinery.pw.toml"
 hash = "929a47ddf7dd08764519aa3309e7e3a8ba2d38dda8d523b19bf2ae5968b9fee4"
 metafile = true
@@ -65108,11 +65127,6 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "4e904404198dc983a2ba370f7c5ddb1427ded89a8f2676165f305cdfbdadfecc"
 metafile = true
 
 [[files]]
@@ -65431,11 +65445,6 @@ hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
 metafile = true
 
 [[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
@@ -65681,13 +65690,12 @@ hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ashen-16x.pw.toml"
-hash = "9fa843360d3389d3ef772641fc7756f8923fae3ea4ea55f5c8ace6d9532634ee"
-metafile = true
+file = "options.txt"
+hash = "d2b525517693ef766633920712a8da459b3f659d5e6f24ab07a1e96508c10884"
 
 [[files]]
-file = "resourcepacks/ashen-better-end-support.pw.toml"
-hash = "c2d648774622741448ef34b3936e4ce2f6f76f23f939bc0b43bc5f112409b433"
+file = "resourcepacks/ashen-16x.pw.toml"
+hash = "9fa843360d3389d3ef772641fc7756f8923fae3ea4ea55f5c8ace6d9532634ee"
 metafile = true
 
 [[files]]
