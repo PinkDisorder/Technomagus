@@ -65035,6 +65035,11 @@ hash = "929a47ddf7dd08764519aa3309e7e3a8ba2d38dda8d523b19bf2ae5968b9fee4"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "0dcda06d4bddbd8c19e894f92d9c90529a35979a4c19062dc9fa02166c223177"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-terralith.pw.toml"
 hash = "91be9094f145c6ca62ea9f2776818fcbd45ce9eac4b9e04e40823753ac9ec392"
 metafile = true
@@ -65245,11 +65250,6 @@ hash = "fd0787257d819af194fc1ef52c17d72b1d9e20d5102c5b7d151fd52a1459365d"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "d4e22caa10decf47b90d6d5c6319515231c5c3e7056fdd0bff72131739761fbf"
-metafile = true
-
-[[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "5b48372860758d2397c7decafaba7a318661726b3af02279d41db55cabefb07a"
 metafile = true
@@ -65457,6 +65457,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "df91958db1f1c82ea5d4fe933a4893cdefe6861e3aa2f25d4c4a39a062bddd15"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
 metafile = true
 
 [[files]]
@@ -65687,6 +65697,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
 
 [[files]]
