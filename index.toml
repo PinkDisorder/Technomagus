@@ -64085,6 +64085,10 @@ file = "config/polymorph-integrations.toml"
 hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "775b683ec96ba6f0997316c4634aa5ed1ce2dd6607c8cfc29e4c907d1fdff13f"
+
+[[files]]
 file = "config/recs.json"
 hash = "7d29829a5daabb466f6a58c0ec072137e2b5092e1efc2b17d9bb803a3cfd8e5c"
 
@@ -64279,6 +64283,10 @@ hash = "0cbc2d408a95a715ed2524ba6e8c45600b7f350a021524bee28c22687319e470"
 [[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
 file = "datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip"
@@ -64716,7 +64724,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "952db69be50249056deb50578455cc8502c201cefcd21f776851fd021c98fa02"
+hash = "8ebe59bb131a92d154997d3780ea60403552da8845c1756fc5f5fc4e87d3d251"
 metafile = true
 
 [[files]]
@@ -64771,7 +64779,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "765acecdfc93df9607dd3f25084587f0114acabebe68568aeb269c019811099c"
+hash = "c7998821e7abf3b9f0f8ab5481500141f628fca32448f55e80097bb500eabc7c"
 metafile = true
 
 [[files]]
@@ -64851,7 +64859,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6cdcac93da1c3df037f033dc0e12d5ccda990addcef48347f3f1a298188664f3"
+hash = "c4a57725f998e11fab3968e1c5ff73d03e7a4dc8dab8ab3cf03d9fd8a054f8ab"
 metafile = true
 
 [[files]]
@@ -64966,12 +64974,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "0bd6cd5b2f5075f7dcbbcc6f7d2fb2ec0ef7f8b52c46d7a644f0abd84e03872e"
+hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "3221907b82661c050ae871126b3bc927579475eb7f2ea632fb100128a2c58102"
+hash = "e297fdb97adb71f0b3afe7ce9731f3aead0f25fb7cef81a034c762092a576dd1"
 metafile = true
 
 [[files]]
@@ -64986,7 +64994,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
+hash = "750841548ae0990fca6a11691760b394623d3316bc1eaad47ad7ee0ec5a906c9"
 metafile = true
 
 [[files]]
@@ -65021,7 +65029,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2517a20ed69efca449f23a448af7cd8079bf68e47f22fe95cc58cb88a2722d1d"
+hash = "94601b2cc508bf600466e17345b7ff081d32bdedb725ded69a1f925433b64cc7"
 metafile = true
 
 [[files]]
@@ -65056,7 +65064,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "be042bcca8bf4d3a2ca3ba04c4eb0a5a0abfb8b4e7d397514c8ffb4420aa3985"
+hash = "1825d2503c5c8f28f6c49bb1ae5c0821a4a64f6e907bfe0369e01588b8235dc6"
 metafile = true
 
 [[files]]
@@ -65091,7 +65099,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "b8cccf49530803953b340152f8114c2565020824f6a00c3777634e51185ca8d9"
+hash = "2f30de9a0d70d37a56c283c98c69e0d264515d5876b7e2a9d78d1f1941692a3f"
 metafile = true
 
 [[files]]
@@ -65236,7 +65244,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "891d9f74c6b4efb41a0f0d0d5a97e881ca24ba275627a9f9bb165fb61a729017"
+hash = "5d0ec5db5cb41b7cac21abd00d0cbc27f920d4ceaf980ade402d89cbeb0fe182"
 metafile = true
 
 [[files]]
@@ -65261,7 +65269,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0968cf761fc4608f1d756da1b693314f23148dd8d9a4b8d1c1d046ed7d8f6f39"
+hash = "60813bd83b6042f9c218e718a990e81757681f19d6a4b9b3860f529c8b651960"
 metafile = true
 
 [[files]]
@@ -65281,12 +65289,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "ba37eb5276dbba04050402c27f1b7a5f436b1096c174bbeb6c197e2023de0751"
+hash = "f1e52a379ad4e3d7b9e67f788932477bbfd7332ca816cdcf7ce4e2ae8eaaafbe"
 metafile = true
 
 [[files]]
@@ -65341,7 +65349,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "56363234b357f17d4adb5cae1d2cfd7876d22306f6fd638819f930c0d9a45b8d"
+hash = "5077353cec9e3cef8ba198d55fc346d4323ba58b52a497ef713505fe42b78e08"
 metafile = true
 
 [[files]]
@@ -65511,7 +65519,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-style-more-weapons.pw.toml"
-hash = "d59b5287a2df3b65b9ef5c63eaa1484adac4620176873b9f98dffc3fd7b33d57"
+hash = "282aa5e7f535d9a88964a9986d924a8004b747fe790da3959481b78906f02811"
 metafile = true
 
 [[files]]
@@ -65546,7 +65554,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "18b9e02c366d8fab343c779d180fd690f144a3add530e1119571a14f4bfd313b"
+hash = "fde43d61512e9fac9cbbe8fe4393cfff5445579ba692221dcf4d5baf6c158ee7"
 metafile = true
 
 [[files]]
@@ -65606,7 +65614,7 @@ metafile = true
 
 [[files]]
 file = "mods/theurgy.pw.toml"
-hash = "62caa28b852ff52af7918c3a612e3c9e6a2ad0b4daccf06948ec136687e9d7af"
+hash = "7498077a55406b70cfcb7fa321019f3720da5f7f83820d099d3e004c441a3a07"
 metafile = true
 
 [[files]]
@@ -65636,7 +65644,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
+hash = "82ef1258b8647dd8ce061f25f35e8913fa3e98fe291157ef4a13eac42fa7f2b8"
 metafile = true
 
 [[files]]
@@ -65651,7 +65659,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2d8caf83668f6d80ddac661636b44f9bcb74cb0e7ca18d62937172e0769ebc2f"
+hash = "fc87d67d950a471f25000ca5a5c0cc80eee30d6ab79e3a998bc7ac8a862ab3b7"
 metafile = true
 
 [[files]]
@@ -65661,7 +65669,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1893dc59ea16fa8f670f2aaba63663b3b6ca26092cacbcca9c608556f6c59f79"
+hash = "c01af28960df240b10bd22d8d7b21d608ce27c2561bdd3d1fdf23e3bc43b12d3"
 metafile = true
 
 [[files]]
