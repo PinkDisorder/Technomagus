@@ -1,0 +1,13 @@
+name = "Village Nullifier"
+filename = "village-nullifier-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d99887a3cc733f1b2b292fca35ba12f242fad4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5616214
+project-id = 902233
