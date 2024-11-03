@@ -1,0 +1,13 @@
+name = "Xenon"
+filename = "xenon-0.3.31+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93e7c3938f88dbd24591412033572f42f90d3cb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5752040
+project-id = 564239
