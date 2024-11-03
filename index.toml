@@ -63794,7 +63794,19 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "a83e520716f7d5fa43025d5991acd6e2160fc43ba604bd4c258b9f5c0812830f"
+hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "f7ff774a6b7acbcdc0367e5b0b9a66020a69fbc1b1af37bc9585e0120f3994b4"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "c95dcfafdf9ab48a7d64d12d2fde8a1ab82ecc1884d3c733ac09788e06eef3b0"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -63802,7 +63814,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "cacbebe50b059f3e4833aadfe20a6a2a0d405e320c1cdd99357ad4f71270ce33"
+hash = "d61cd734339b0f94fa5809ef7523a53b2c353edce139f75f96218753cad71f36"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
