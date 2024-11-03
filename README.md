@@ -26,3 +26,18 @@ Currently heavily WIP
 ### Installation Instructions
 
 Grab the latest Build Zip artifact from the Actions tab and import it into prism launcher.
+
+#### To add neoforge-only mods:
+in pack.toml replace
+```toml
+[versions]
+forge = "47.3.11"
+minecraft = "1.20.1"
+```
+with
+```toml
+[versions]
+neoforge = "47.1.106"
+minecraft = "1.20.1"
+```
+then revert this change
