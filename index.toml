@@ -63794,11 +63794,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
+hash = "f2874636c89aeb8c1942a4b5b3b6dde515e88cd37862f0a0a463ac06ea0db505"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "f7ff774a6b7acbcdc0367e5b0b9a66020a69fbc1b1af37bc9585e0120f3994b4"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "6cc97c5d01451d4ac772513a7fa6e4e8a2ec3bc4077300d7829ab7523b95fbb5"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
