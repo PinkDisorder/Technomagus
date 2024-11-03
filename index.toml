@@ -64788,6 +64788,11 @@ hash = "580cb408b6fb46812dba8a9441752a6fa95ca336c2f1537f31e14767757a879d"
 metafile = true
 
 [[files]]
+file = "mods/blasma-tech.pw.toml"
+hash = "e435c8eea807d1e342ebf24b88694c00b5bec7e9fd8fb6cacc39b201344b77cf"
+metafile = true
+
+[[files]]
 file = "mods/block-runner-forge.pw.toml"
 hash = "e9edfb229a6899e1c2864d54fd6dd5286d1bb936393c2e1f48f4b63f1b4af23c"
 metafile = true
@@ -65300,51 +65305,6 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "f1aa1a1b3746f0bad932aa0e3a95ee987b96efadf1107431c735923f3ae00890"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-addon-compat.pw.toml"
-hash = "deee0d40d690129080fcca7d2c8eb01a4626d6bd7854e7fb7ac8936b0c1bc9d6"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-addon-fluids.pw.toml"
-hash = "09ac75800abc8ebb2ca899c79ae891efbcf3a64d330638980d15239b94b80046"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
-hash = "d1c60695339f86aad464e9ea6605b94fc379e7d8599bec49011bf8d149230b16"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
-hash = "bf481905c6c7c3c8c79e98af9b18057d78e6077575eb3d525c45a03b0090b2a7"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-emi-compat.pw.toml"
-hash = "0f43001442e409dfd849650e03c296c23fdc6d49cff013b2a0ed8309b43a5b2e"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-farm-charm.pw.toml"
-hash = "95c327240db19808c1c7c8dd5190ce245b34b614ceed65c944a574d94141dd63"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-herbal-brews.pw.toml"
-hash = "a09ade76b915c330f6f6de541b6ad038a1b66ef3f69e19395ceabdc5c87d573e"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-nethervinery.pw.toml"
-hash = "dcf5763010a5442d62d1a61fdcec326594f788b237db3ecc53f0502ca1f737f8"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-vinery.pw.toml"
-hash = "3f7ac811c4894608f72b5e12c81b13fc0d3b55ace7b9c7902e132550895584fc"
 metafile = true
 
 [[files]]
