@@ -61,6 +61,6 @@ jobs:
     - name: upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: "Vestiges_of_Tomorrow_v${{ steps.version.outputs.stdout }}.zip"
+        name: "Vestiges_of_Tomorrow_v${{ steps.version.outputs.stdout }}"
         path: ~/dist
         retention-days: 90
