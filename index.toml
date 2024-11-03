@@ -65535,17 +65535,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "4d0b892ca8d67cb233f3d3be816553da4ecfa820519a1c55ce5efa9061fcf662"
+hash = "1de243a6e4dec10176f442122666952e0ecb69ee23218503b19d1516be7084c2"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "bfee6ab75acfd74486b2ce24d3c99bd7519599edd553b4464140ae18b75f8c53"
+hash = "595623491c3ce806497c0a4d202a3ff2aba201d1990e5a2552cb9a8183eedc29"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "c7303b109577a683aef185c43912e4e9194397ddd40c562880468937136af0af"
+hash = "7befaf00d6f1608ea32272748d5a0666811af48b4a55b9281b21fbc7f0e45c56"
 metafile = true
 
 [[files]]
@@ -65630,7 +65630,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards-reborn.pw.toml"
-hash = "90283ad52f142441745385feb16d07a2b9651bdfc11d6602a4f61ec9644cefee"
+hash = "f484341f4b19b3e81ef6d278c25fdff09f000306f95bdb65a17ad7fa665699aa"
 metafile = true
 
 [[files]]
