@@ -65179,6 +65179,11 @@ hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
 metafile = true
 
 [[files]]
+file = "mods/forgeskyboxes.pw.toml"
+hash = "046b541720154e5671132a310a1df94a7893b96d623f10ee006969191ca07878"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
@@ -65451,6 +65456,11 @@ metafile = true
 [[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
 hash = "5603458dcbcecd596fe4520f19bb6d9ec6b47be8d04db03caa16dbdb5bdd707d"
+metafile = true
+
+[[files]]
+file = "mods/reactive-music.pw.toml"
+hash = "497ee5ba2a65a02d175a1c8d6688c1582b441238e009eb339c692f0cc779fd03"
 metafile = true
 
 [[files]]

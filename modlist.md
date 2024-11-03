@@ -3,7 +3,6 @@
 | [Advanced Peripherals](https://www.curseforge.com/projects/431725) |
 | [AE2 QoL Recipes](https://www.curseforge.com/projects/907026) |
 | [AECapFix](https://www.curseforge.com/projects/914685) |
-| [Alex's Caves](https://www.curseforge.com/projects/924854) |
 | [Alex's Mobs](https://www.curseforge.com/projects/426558) |
 | [Almanac Lib](https://www.curseforge.com/projects/1115285) |
 | [Almost Unified](https://www.curseforge.com/projects/633823) |
@@ -18,10 +17,9 @@
 | [Balm (Forge Edition)](https://www.curseforge.com/projects/531761) |
 | [Better Advancements](https://www.curseforge.com/projects/272515) |
 | [Better Combat [Fabric & Forge]](https://www.curseforge.com/projects/639842) |
-| [BetterEnd](https://www.curseforge.com/projects/413596) |
 | [BetterGrassify](https://www.curseforge.com/projects/1026394) |
-| [BetterNether](https://www.curseforge.com/projects/311377) |
 | [Bigger AE2](https://www.curseforge.com/projects/1013772) |
+| [Blasma Tech](https://www.curseforge.com/projects/976257) |
 | [Block Runner [Forge & Fabric]](https://www.curseforge.com/projects/442842) |
 | [Block Swap](https://www.curseforge.com/projects/468893) |
 | [Bookshelf](https://www.curseforge.com/projects/228525) |
@@ -38,7 +36,6 @@
 | [CC:C Bridge](https://www.curseforge.com/projects/656214) |
 | [Chat Heads](https://www.curseforge.com/projects/407206) |
 | [Chef's Delight [Forge]](https://www.curseforge.com/projects/832983) |
-| [ChoiceTheorem's Overhauled Village](https://www.curseforge.com/projects/623908) |
 | [Citadel](https://www.curseforge.com/projects/331936) |
 | [Cloth Config API (Fabric/Forge/NeoForge)](https://www.curseforge.com/projects/348521) |
 | [Clumps](https://www.curseforge.com/projects/256717) |
@@ -55,7 +52,6 @@
 | [Create Central Kitchen](https://www.curseforge.com/projects/820977) |
 | [Create: Crystal Clear](https://www.curseforge.com/projects/669724) |
 | [Create Deco](https://www.curseforge.com/projects/509285) |
-| [Create: Food](https://www.curseforge.com/projects/959439) |
 | [Create: Liquid Fuel](https://www.curseforge.com/projects/840734) |
 | [Create: Metallurgy](https://www.curseforge.com/projects/1007404) |
 | [Create: Molten Vents](https://www.curseforge.com/projects/824654) |
@@ -63,6 +59,7 @@
 | [Create](https://www.curseforge.com/projects/328085) |
 | [CreativeCore](https://www.curseforge.com/projects/257814) |
 | [Creeper Overhaul](https://www.curseforge.com/projects/561625) |
+| [Cupboard](https://www.curseforge.com/projects/326652) |
 | [Curios API (Forge/NeoForge)](https://www.curseforge.com/projects/309927) |
 | [Cut Through](https://www.curseforge.com/projects/969423) |
 | [DnT Stronghold Overhaul](https://www.curseforge.com/projects/920416) |
@@ -72,16 +69,13 @@
 | [Dynamic Crosshair](https://www.curseforge.com/projects/623800) |
 | [Dynamic FPS](https://www.curseforge.com/projects/335493) |
 | [Dynamic Trees - Alex's Mobs](https://www.curseforge.com/projects/1091039) |
-| [Dynamic Trees for BetterEnd](https://www.curseforge.com/projects/1036193) |
-| [Dynamic Trees for Vinery](https://www.curseforge.com/projects/1038731) |
+| [Dynamic Trees - Quark](https://www.curseforge.com/projects/386753) |
 | [Dynamic Trees - Terralith](https://www.curseforge.com/projects/852886) |
 | [Dynamic Trees - The Twilight Forest](https://www.curseforge.com/projects/391986) |
 | [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/projects/551736) |
 | [Dynamic Trees](https://www.curseforge.com/projects/252818) |
 | [Dynamic Trees +](https://www.curseforge.com/projects/478155) |
 | [Effortless Building](https://www.curseforge.com/projects/302113) |
-| [Embeddium](https://www.curseforge.com/projects/908741) |
-| [Embeddium++](https://www.curseforge.com/projects/931925) |
 | [Embers Rekindled](https://www.curseforge.com/projects/300777) |
 | [EMI](https://www.curseforge.com/projects/580555) |
 | [Enchantment Descriptions](https://www.curseforge.com/projects/250419) |
@@ -93,19 +87,16 @@
 | [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/projects/568563) |
 | [Entity Culling Fabric/Forge](https://www.curseforge.com/projects/448233) |
 | [Extreme sound muffler - (Neo)Forge](https://www.curseforge.com/projects/363363) |
-| [Fabric API](https://www.curseforge.com/projects/306612) |
 | [Falling Leaves (NeoForge/Forge)](https://www.curseforge.com/projects/463155) |
 | [FancyMenu](https://www.curseforge.com/projects/367706) |
 | [Farmer's Delight](https://www.curseforge.com/projects/398521) |
 | [FerriteCore ((Neo)Forge)](https://www.curseforge.com/projects/429235) |
 | [Flat Bedrock (Forge / Fabric)](https://www.curseforge.com/projects/398623) |
+| [Fluffy Fur](https://www.curseforge.com/projects/1097456) |
+| [Flux Networks](https://www.curseforge.com/projects/248020) |
+| [ForgeSkyboxes](https://www.curseforge.com/projects/918052) |
 | [Forgified Fabric API](https://www.curseforge.com/projects/889079) |
-| [FTB Chunks (Forge)](https://www.curseforge.com/projects/314906) |
-| [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/projects/410811) |
-| [FTB Filter System](https://www.curseforge.com/projects/943925) |
-| [FTB Library (Forge)](https://www.curseforge.com/projects/404465) |
-| [FTB Quests (Forge)](https://www.curseforge.com/projects/289412) |
-| [FTB Teams (Forge)](https://www.curseforge.com/projects/404468) |
+| [FramedBlocks](https://www.curseforge.com/projects/441647) |
 | [Iris/Oculus & GeckoLib Compat](https://www.curseforge.com/projects/959388) |
 | [GeckoLib](https://www.curseforge.com/projects/388172) |
 | [GlitchCore](https://www.curseforge.com/projects/955399) |
@@ -120,65 +111,54 @@
 | [Horde Moon](https://www.curseforge.com/projects/1052221) |
 | [Illager Invasion [Forge & Fabric]](https://www.curseforge.com/projects/891324) |
 | [ImmediatelyFast](https://www.curseforge.com/projects/686911) |
-| [Toni's Immersive Lanterns](https://www.curseforge.com/projects/1116812) |
+| [Immersive Engineering](https://www.curseforge.com/projects/231951) |
+| [Incendium](https://www.curseforge.com/projects/591388) |
 | [Inventory Essentials](https://www.curseforge.com/projects/368825) |
-| [Inventory Tweaks - ReFoxed](https://www.curseforge.com/projects/976858) |
 | [Iris & Oculus Flywheel Compat](https://www.curseforge.com/projects/659897) |
 | [Jade 🔍](https://www.curseforge.com/projects/324717) |
 | [Just Enough Items (JEI)](https://www.curseforge.com/projects/238222) |
+| [Just Enough Immersive Multiblocks](https://www.curseforge.com/projects/634571) |
 | [Konkrete [Forge/NeoForge]](https://www.curseforge.com/projects/410295) |
 | [KubeJS + CC: Tweaked](https://www.curseforge.com/projects/1000850) |
 | [KubeJS Create](https://www.curseforge.com/projects/429371) |
 | [KubeJS](https://www.curseforge.com/projects/238086) |
 | [LDLib](https://www.curseforge.com/projects/626676) |
 | [Let Me Despawn](https://www.curseforge.com/projects/663477) |
-| [[Let's Do Addon] Compat](https://www.curseforge.com/projects/992333) |
-| [[Let's Do Addon] Fluids](https://www.curseforge.com/projects/1025920) |
-| [[Let's Do] Bakery - Farm&Charm Compat](https://www.curseforge.com/projects/1038130) |
-| [[Let's Do] Brewery - Farm&Charm Compat](https://www.curseforge.com/projects/1038106) |
-| [[Let's Do Addon] EMI Compat](https://www.curseforge.com/projects/1063821) |
-| [[Let's Do] Farm & Charm](https://www.curseforge.com/projects/1038103) |
-| [[Let's Do] HerbalBrews](https://www.curseforge.com/projects/951221) |
-| [[Let's Do] NetherVinery](https://www.curseforge.com/projects/930072) |
-| [[Let's Do] Vinery](https://www.curseforge.com/projects/704465) |
-| [Lithostitched](https://www.curseforge.com/projects/936015) |
 | [Load My F***ing Tags](https://www.curseforge.com/projects/656346) |
 | [Lootr (Forge & NeoForge)](https://www.curseforge.com/projects/361276) |
 | [Melody](https://www.curseforge.com/projects/938643) |
 | [Miner's Delight +](https://www.curseforge.com/projects/689630) |
-| [Mob Plaques](https://www.curseforge.com/projects/686434) |
 | [Modern AE2 Additions](https://www.curseforge.com/projects/1028068) |
+| [ModernFix](https://www.curseforge.com/projects/790626) |
 | [Modonomicon](https://www.curseforge.com/projects/538392) |
 | [Mouse Tweaks](https://www.curseforge.com/projects/60089) |
-| [Mowzie's Mobs](https://www.curseforge.com/projects/250498) |
 | [Necronomicon API](https://www.curseforge.com/projects/586157) |
 | [Neruina - Ticking Entity Fixer](https://www.curseforge.com/projects/851046) |
 | [Nether's Delight](https://www.curseforge.com/projects/496394) |
 | [No Chat Reports](https://www.curseforge.com/projects/634062) |
-| [Not Enough Recipe Book [NERB]](https://www.curseforge.com/projects/738663) |
 | [Nyf's Spiders](https://www.curseforge.com/projects/686058) |
 | [Ocean's Delight](https://www.curseforge.com/projects/841262) |
 | [OctoLib](https://www.curseforge.com/projects/916747) |
 | [Oculus](https://www.curseforge.com/projects/581495) |
 | [Open Loader](https://www.curseforge.com/projects/354339) |
+| [Open Parties and Claims](https://www.curseforge.com/projects/636608) |
 | [Patchouli](https://www.curseforge.com/projects/306770) |
 | [Pick Up Notifier [Forge & Fabric]](https://www.curseforge.com/projects/351441) |
-| [playerAnimator](https://www.curseforge.com/projects/658587) |
 | [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/projects/388800) |
 | [Polymorphic Energistics](https://www.curseforge.com/projects/941096) |
 | [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/projects/495476) |
-| [Relics: Alex's Caves Compat](https://www.curseforge.com/projects/985226) |
-| [Relics: Alex's Mobs Compat](https://www.curseforge.com/projects/944203) |
+| [Quark Oddities](https://www.curseforge.com/projects/301051) |
+| [Quark](https://www.curseforge.com/projects/243121) |
 | [Rapid Leaf Decay](https://www.curseforge.com/projects/396847) |
-| [Relics](https://www.curseforge.com/projects/445274) |
+| [Reactive Music](https://www.curseforge.com/projects/960382) |
 | [Resourceful Config](https://www.curseforge.com/projects/714059) |
 | [Resourceful Lib](https://www.curseforge.com/projects/570073) |
 | [Respawning Animals [Forge & Fabric]](https://www.curseforge.com/projects/322765) |
 | [Rhino](https://www.curseforge.com/projects/416294) |
 | [Roughly Enough Config Screens](https://www.curseforge.com/projects/962031) |
 | [⚔️ RPG style More Weapons!](https://www.curseforge.com/projects/630254) |
-| [Embeddium (Rubidium) Extra](https://www.curseforge.com/projects/654373) |
 | [Searchables](https://www.curseforge.com/projects/858542) |
+| [Serene Seasons](https://www.curseforge.com/projects/291874) |
 | [ShetiPhianCore](https://www.curseforge.com/projects/71738) |
 | [Shield Overhaul [Fabric/Forge]](https://www.curseforge.com/projects/637870) |
 | [Sinytra Connector](https://www.curseforge.com/projects/890127) |
@@ -200,10 +180,14 @@
 | [TxniLib](https://www.curseforge.com/projects/1104882) |
 | [Underground Bunkers](https://www.curseforge.com/projects/961418) |
 | [Vegan Delight](https://www.curseforge.com/projects/928290) |
+| [Village Nullifier](https://www.curseforge.com/projects/902233) |
 | [Warrior Rage (Forge/Fabric)](https://www.curseforge.com/projects/631764) |
 | [Waystones](https://www.curseforge.com/projects/245755) |
 | [WF's Cave Overhaul](https://www.curseforge.com/projects/946171) |
 | [Wizard's Reborn](https://www.curseforge.com/projects/913994) |
+| [Xaero's Minimap](https://www.curseforge.com/projects/263420) |
+| [Xaero's World Map](https://www.curseforge.com/projects/317780) |
+| [Xenon](https://www.curseforge.com/projects/564239) |
 | [YetAnotherConfigLib](https://www.curseforge.com/projects/667299) |
 | [Yeetus Experimentus](https://www.curseforge.com/projects/635427) |
 | [YUNG's API (Forge)](https://www.curseforge.com/projects/421850) |
@@ -212,3 +196,4 @@
 | [YUNG's Better Mineshafts (Forge)](https://www.curseforge.com/projects/389665) |
 | [YUNG's Bridges (Forge)](https://www.curseforge.com/projects/536660) |
 | [YUNG's Extras (Forge)](https://www.curseforge.com/projects/480006) |
+| [Zeta](https://www.curseforge.com/projects/968868) |

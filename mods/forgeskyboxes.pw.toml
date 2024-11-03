@@ -1,0 +1,13 @@
+name = "ForgeSkyboxes"
+filename = "forgeskyboxes-0.0.2-1.20.2-new.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db9a4c85219382655a713e8d6db8a8c27a8d1b3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4775791
+project-id = 918052

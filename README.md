@@ -40,4 +40,10 @@ with
 neoforge = "47.1.106"
 minecraft = "1.20.1"
 ```
+or for fabric-only mods:
+```toml
+[versions]
+fabric = "0.92.2"
+minecraft = "1.20.1"
+```
 then revert this change
