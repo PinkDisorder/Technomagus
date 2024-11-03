@@ -65169,6 +65169,11 @@ hash = "ab3457be92e9835f4063fe5ad75bb49658680702f3d47278cdeb43e16a1ca800"
 metafile = true
 
 [[files]]
+file = "mods/fluffy-fur.pw.toml"
+hash = "2887aa0eb836e8a307f9314816c7498657abb10e4d993e70444a795dad6425a0"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
 metafile = true
