@@ -65285,6 +65285,11 @@ hash = "60813bd83b6042f9c218e718a990e81757681f19d6a4b9b3860f529c8b651960"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "6a94b2711d7acada72d617ebdd27e61835c7b1097c865a08f920beac28286392"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "ba6600d024f257ff40d4fca84e87fc553d5853b6c71f666d8597891d611b62f0"
 metafile = true
@@ -65342,6 +65347,11 @@ metafile = true
 [[files]]
 file = "mods/modern-ae2-additions.pw.toml"
 hash = "f865b45e10b01b334cd5a358b8eeb3827fb05b8d32607547e510dfe7760624dd"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
 metafile = true
 
 [[files]]
