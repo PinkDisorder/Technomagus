@@ -65124,6 +65124,11 @@ hash = "c5bd72b074124418a99ca9f5a6de12f074d2429410b964c6db90196cc5b70856"
 metafile = true
 
 [[files]]
+file = "mods/energymeter.pw.toml"
+hash = "96c83f92d038524c36df54aadad8a3d8ba4a3f3643b998a1a5a228a9f35e2abc"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "7da34e928c36859509aee8e84d083f6936d92cefd44ab30ecc3abcb8b5da0018"
 metafile = true
