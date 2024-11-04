@@ -1,0 +1,13 @@
+name = "Zigy's Player Animator API"
+filename = "playeranimatorapi-forge-1.20.1-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de0c0acab1d63f687186cb89673934e980255ed8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5723353
+project-id = 958083

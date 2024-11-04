@@ -65479,6 +65479,16 @@ hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/playeranimatorapi.pw.toml"
+hash = "d0c47f69949eba72839b75e1732295aee2cadd16c9a63cfbcda370b3f2d66107"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
