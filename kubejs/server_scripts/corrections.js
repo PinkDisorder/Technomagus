@@ -36,18 +36,18 @@ ServerEvents.tags("item", event => {
   // Ingredient.of("#forge:stone").itemIds.forEach(item => event.add(item, "minecraft:stone"));
 })
 
-ServerEvents.tags('fluid', event => {
-  const fluids = [
-    "iron", "gold", "copper", "lead", "silver", "nickel", "tin", "zinc",
-    "platinum", "bronze", "electrum", "brass", "invar", "steel"
-  ]
+// ServerEvents.tags('fluid', event => {
+//   const fluids = [
+//     "iron", "gold", "copper", "lead", "silver", "nickel", "tin", "zinc",
+//     "platinum", "bronze", "electrum", "brass", "invar", "steel"
+//   ]
 
-  event.add("gtceu:aluminium", "#forge:molten_aluminum");
-  event.add("forge:molten_aluminum", "gtceu:aluminium");
+//   event.add("gtceu:aluminium", "#forge:molten_aluminum");
+//   event.add("forge:molten_aluminum", "gtceu:aluminium");
 
-  fluids.forEach(f => {
-    event.add(`gtceu:${f}`, `#forge:molten_${f}`);
-    event.add(`forge:molten_${f}`, `#gtceu:${f}`);
-  });
+//   fluids.forEach(f => {
+//     event.add(`gtceu:${f}`, `#forge:molten_${f}`);
+//     event.add(`forge:molten_${f}`, `#gtceu:${f}`);
+//   });
 
-});
+// });
