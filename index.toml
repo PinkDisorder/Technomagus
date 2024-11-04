@@ -65139,6 +65139,11 @@ hash = "7adcc1b24ce5ee8b14899b9eccc97e81f066d0fbcc9bb832444f1015f1c3947a"
 metafile = true
 
 [[files]]
+file = "mods/excavein.pw.toml"
+hash = "144d1d70f69e0f3c5b19034c4dd2485fc2cc115b13e47157d835b6740c95c1f7"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
 metafile = true
