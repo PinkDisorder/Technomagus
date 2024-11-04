@@ -65219,11 +65219,6 @@ hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
 metafile = true
 
 [[files]]
-file = "mods/gregtechceu-modern.pw.toml"
-hash = "53ab5d47da156ab7e4dbb86e85de92741357e2932104b2fd1f23af0711c1c706"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "1d77aca40b37d5a4a4b98318a700a8bbab4123e3fa51c0c07ad7693145ac80d4"
 metafile = true
@@ -65321,11 +65316,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
-metafile = true
-
-[[files]]
-file = "mods/ldlib.pw.toml"
-hash = "45d17e1ee1b01b861a700d74c329956b3e8536bbb76cb0f0e74ab468601c1114"
 metafile = true
 
 [[files]]
