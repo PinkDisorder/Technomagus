@@ -1,7 +1,0 @@
-{
-  "type": "wizards_reborn:wissen_altar",
-  "ingredient": {
-    "tag": "forge:gems/arcanum"
-  },
-  "wissen": 1000
-}
