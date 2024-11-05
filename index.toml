@@ -64500,6 +64500,11 @@ hash = "750841548ae0990fca6a11691760b394623d3316bc1eaad47ad7ee0ec5a906c9"
 metafile = true
 
 [[files]]
+file = "mods/custom-starter-gear.pw.toml"
+hash = "0769f6c97785ad495c2b0e88b1d50060d1ff635b5648f3bb915eb46977591208"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "e1eb9c8386bc3ec75f1dcc14ff420b1a2e64aa2553678cb5ccfa945966280c82"
 metafile = true

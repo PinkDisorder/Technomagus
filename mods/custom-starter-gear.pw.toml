@@ -1,0 +1,13 @@
+name = "Custom Starter Gear"
+filename = "CustomStartingGear-1.20-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30b8b2bff57d04498c730aa5a42ed804f3ea32f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4683468
+project-id = 253735
