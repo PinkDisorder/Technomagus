@@ -65374,11 +65374,6 @@ hash = "6c4d310b63681f924e4d81c77bb7d56655fe5b4082aca3caf361e142d5d72bfd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "4c813430faa94b732ddd596dfcbc0aabee47a4e4d0904ffad26e88c5efcd1416"
-metafile = true
-
-[[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
 hash = "865f6a441ecc6d625cf36ae37f0239e0a6eace89451748847ce7c1a6847782b5"
 metafile = true
