@@ -64439,6 +64439,11 @@ hash = "23e8c7e184ffe881bbe08afb51f0d86e27644232eca37219e08684885be85852"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "df7d19f604ff0661692e1dd14ea4d70d534bd960e536acb9a693b1ec7792433b"
 metafile = true
