@@ -63610,7 +63610,7 @@ hash = "427aadd29aea1256db321fcac7f33d3fd3e858324d85269a77deee7a0614c701"
 
 [[files]]
 file = "config/dynamictrees-common.toml"
-hash = "ce088cd6190815bf4695722fceb897f257714a21c6c67ebaa129d7e63e7bd798"
+hash = "24ad0a99664536f870d53f5f091d2b8180e1358d6c1aa4afc7701fe4a415bf4d"
 
 [[files]]
 file = "config/effortlessbuilding-client.toml"
@@ -63714,11 +63714,11 @@ hash = "f7ff774a6b7acbcdc0367e5b0b9a66020a69fbc1b1af37bc9585e0120f3994b4"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "6cc97c5d01451d4ac772513a7fa6e4e8a2ec3bc4077300d7829ab7523b95fbb5"
+hash = "ff5c64eb00ba0f02a19567b185fc81e841240a827eb70c23be484a6f1d3a3b83"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "c95dcfafdf9ab48a7d64d12d2fde8a1ab82ecc1884d3c733ac09788e06eef3b0"
+hash = "adbd55aeb6bff43238631fc59146301f5179187db2a1c0cb074fe9d30067f10c"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -63730,7 +63730,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "d61cd734339b0f94fa5809ef7523a53b2c353edce139f75f96218753cad71f36"
+hash = "1b49fe97be1cb7622e2f750e8100b54e31f476e43e32a295ee49f988c25e0d0c"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -63767,10 +63767,6 @@ hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
 [[files]]
 file = "config/forge-client.toml"
 hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
-
-[[files]]
-file = "config/gazebo/villages.json"
-hash = "4e5e312a436b94bb9b6e117cc18dd2e9785bddb8e5cbe66d33abe6eebf2d9309"
 
 [[files]]
 file = "config/gravestone-client.toml"
@@ -64379,6 +64375,11 @@ hash = "ee520bf93f6ee23f24ccf53eb1afb8673944147d7c122bb520c28c4cbc59c931"
 metafile = true
 
 [[files]]
+file = "mods/collectors-reap.pw.toml"
+hash = "007025f7acc11592e2bd6a9cd1a0cc41eba4ec55aaaa32ac865f19b275f8b513"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
@@ -64496,6 +64497,11 @@ metafile = true
 [[files]]
 file = "mods/deep-dark-regrowth.pw.toml"
 hash = "cb7cf046cc3edf51b45a40f38a4fd3fd6897b66b768eac8cb279580ddb7bd236"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+hash = "904a4f1032e8d88814b1061fd1e9bbea5bb804b8f0be21717c5f9885245b8705"
 metafile = true
 
 [[files]]
@@ -64775,7 +64781,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "82a4731b5389478bf8e775ba898012644a2a4c02982424a78241a38ec1c58911"
+hash = "de3310ed1f65e3efa94a7112501307d6439822c7b080c472363e4a3b7eb2e94c"
 metafile = true
 
 [[files]]
@@ -64905,7 +64911,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
+hash = "a2aa83a2702bf9d02a5b6f48ccabb1cbce2708c7e9de40e75a06b673494d8f46"
 metafile = true
 
 [[files]]
