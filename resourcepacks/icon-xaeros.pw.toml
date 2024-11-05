@@ -1,0 +1,13 @@
+name = "Icon Xaero's"
+filename = "Icon Xaero's 1.2 HF.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4dcd92caf3c1a02ae2658c2483e37f71d88391c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5693210
+project-id = 888795

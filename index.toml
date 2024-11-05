@@ -65298,6 +65298,11 @@ hash = "4c813430faa94b732ddd596dfcbc0aabee47a4e4d0904ffad26e88c5efcd1416"
 metafile = true
 
 [[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "865f6a441ecc6d625cf36ae37f0239e0a6eace89451748847ce7c1a6847782b5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lithos-font-add-on.pw.toml"
 hash = "c8003032553bf62bbf557cf3c6ce23fe31e5001c5636739581ab09abd2bb859f"
 metafile = true
