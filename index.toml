@@ -64305,8 +64305,8 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
-file = "datapacks/Towers_Of_The_Wild_Reworked_v4.2.2_Waystone.zip"
-hash = "c6f074b5d97c359692964d140b900726349059129fc2f7225fd317a3cbc1e394"
+file = "datapacks/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -64342,7 +64342,7 @@ hash = "361ce46a40f1ecc2672bf2f941149fbb03a7d2513f77b67cd73b2766caebace2"
 
 [[files]]
 file = "kubejs/server_scripts/corrections.js"
-hash = "1259adb672c9fee89fe938ce55d47f3487ce1d158fc8575243f7bb7c9770b4f0"
+hash = "bda9d778e1d5df907c36fd445b0c284e51d41ab3ed7a3c994c23e88d09dcd716"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -65456,11 +65456,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "da8854dec3941519a196de24933f8494bbce4dd682e05cbc60949057aa758b50"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gregtech-refreshed.pw.toml"
-hash = "7fa95a08aa5fed9996e9885b5e0fa7e51aa5c267ca5c760647558b97c82a97f2"
 metafile = true
 
 [[files]]

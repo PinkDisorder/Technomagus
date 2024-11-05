@@ -16,22 +16,12 @@ ServerEvents.tags("item", event => {
 
   event.add("forge:water_bucket", "#forge:buckets/water");
 
-  // Would be so nice if the let's do dev was using forge tags
-  event.add("c:sugar", "#forge:dusts/sugar");
-  event.add("c:grain/oat", "#forge:grain/oat");
-  event.add("c:bones", "#forge:bones");
-  event.add("c:fruits/strawberries", "#forge:fruits/strawberries");
-
   // Because having one set of tags that makes sense is too much to ask for humble onions
   event.add("forge:vegetables/onion", "#forge:crops/onion");
   event.add("forge:crops/onion", "#forge:vegetables/onion");
   event.add("c:crops/onion", "#forge:crops/onion");
 
   event.add("c:crops/tomato", "#forge:crops/tomato");
-  // what was wrong with #forge:tools/knives in the first place?
-  event.add("lets_do_addon_compat:tools/knives", "#forge:tools/knives");
-
-
 
   // Ingredient.of("#forge:stone").itemIds.forEach(item => event.add(item, "minecraft:stone"));
 })
