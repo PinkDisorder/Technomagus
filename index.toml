@@ -434,7 +434,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "008c34a58f0090a892b75ee1c3869fe590d95685fb1b29045d17286a9721f489"
+hash = "32a5ebaea1e1d1d173cf606f20120923961bed3ffc99b7ecb1d730effb0a64a1"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -451,18 +451,6 @@ hash = "fe9d61e0f3d0ee52069e5527b801f2f9077c5c223fe78d66d933fec246c5a91f"
 [[files]]
 file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
-
-[[files]]
-file = "config/archers/items_v2.json"
-hash = "ac70da5b54c6d99b319d793ddaf792bcd13997802ec39dfff6b50e2d3e59871a"
-
-[[files]]
-file = "config/archers/tweaks.json"
-hash = "93a5db3e06f9b65711fb67b05570b8de20dcb33005ef80da529423362552a0eb"
-
-[[files]]
-file = "config/archers/villages.json"
-hash = "3ff4111bc53c4ff5508e763257f98d82afb8aad06ccb10e243eae3b9b9587437"
 
 [[files]]
 file = "config/balm-common.toml"
@@ -509,34 +497,6 @@ file = "config/bettercombat/server.json5"
 hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
-file = "config/betterend/blocks.json"
-hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
-
-[[files]]
-file = "config/betterend/client.json"
-hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
-
-[[files]]
-file = "config/betterend/enchantments.json"
-hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
-
-[[files]]
-file = "config/betterend/entities.json"
-hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
-
-[[files]]
-file = "config/betterend/generator.json"
-hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
-
-[[files]]
-file = "config/betterend/items.json"
-hash = "5fb18af78d9d096929c49224dab452715b319de8dd433a274c54adb25ea7f005"
-
-[[files]]
-file = "config/betterend/portals.json"
-hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
-
-[[files]]
 file = "config/betterendisland-forge-1_20.toml"
 hash = "705bd38f35f830cdee96cda5e3b3e31bc2992b6b5962bb08820dc24fef5d0846"
 
@@ -551,30 +511,6 @@ hash = "1e558a006956669d6ab8dc9941eba2050365516c46f7008b3a9ee7b49764e273"
 [[files]]
 file = "config/bettermineshafts-forge-1_20.toml"
 hash = "cdec44d92cea9464b21c08d12c9718685c60106f03f7a7defb1980cbb8d0d47f"
-
-[[files]]
-file = "config/betternether/biomes.json"
-hash = "281943fcef85d5e3ff43a5e723989481455ac40d228af147097016218e911671"
-
-[[files]]
-file = "config/betternether/blocks.json"
-hash = "d5753557e4c0c3a46e0db647cde26306bf469833d8617ecd9142b165988050ea"
-
-[[files]]
-file = "config/betternether/generator.json"
-hash = "787e6999e46c43c90f3ff5f13fb3d061e78949304d7c490ce6053056b2f2e1e0"
-
-[[files]]
-file = "config/betternether/items.json"
-hash = "077b8632796c396b5d0f2c75736beaaefcb8db9aebc3990375c8866ad8d19da4"
-
-[[files]]
-file = "config/betternether/main.json"
-hash = "36fc1a899b723cda31705ba8c2c88426e3beb6ee653a8adc03d874e95128fa05"
-
-[[files]]
-file = "config/betternether/mobs.json"
-hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
 
 [[files]]
 file = "config/blockrunner-client.toml"
@@ -63657,30 +63593,6 @@ file = "config/de/mari_023/ae2wtlib.json5"
 hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
 
 [[files]]
-file = "config/death_knights/armor_sets.json"
-hash = "0d9367e0d6574845bd638c771ad7e72356efecfe9d461e4d90dab03a8c1af058"
-
-[[files]]
-file = "config/death_knights/client.json5"
-hash = "b1037b3cf99d2afb0ea85716e56761f8c03b0f596b8a9de5a7451ccfc6dca04e"
-
-[[files]]
-file = "config/death_knights/spells/frost/breath_of_agony.json5"
-hash = "32186e4773de42efb710c950a2fde29839a0a5e9abe3c4c1cef39d2d018377db"
-
-[[files]]
-file = "config/death_knights/spells/frost/obliterate.json5"
-hash = "bf85c55b098e90f0f8d944a5cdc1e416ffe0f031327093fe827428d7dd459d0a"
-
-[[files]]
-file = "config/death_knights/spells/frost/remorseless_winter.json5"
-hash = "fb06d1b0920c53a7d8d828181b41bb98cf489f8ac762950e52f2f7f92faf4d8d"
-
-[[files]]
-file = "config/doapi/recipebook.json5"
-hash = "5362c5b8cb1fb8f015d403d28dc8f979eb130473a048f7bfd80fbafab014a292"
-
-[[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
 
@@ -63857,18 +63769,6 @@ file = "config/forge-client.toml"
 hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 
 [[files]]
-file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "2718fe93b842c08fa15a2825be45358f12728c2bfba3d7e856a81859901a22d3"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/a.snbt"
-hash = "7c1f6134b8a69e060d296ebd9add04b60957b083a762bf213d9cfa4a2cf7e46c"
-
-[[files]]
-file = "config/ftbquests/quests/data.snbt"
-hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
-
-[[files]]
 file = "config/gazebo/villages.json"
 hash = "4e5e312a436b94bb9b6e117cc18dd2e9785bddb8e5cbe66d33abe6eebf2d9309"
 
@@ -63891,18 +63791,6 @@ hash = "2c62d09e465a85e8f1733c32e1a5f8b589990e0de4790a6e8d0a83c2594f3e1b"
 [[files]]
 file = "config/harvest_with_ease-common.toml"
 hash = "c307e7ba640fb6c8d7c91ea718d1af7bc54dddd866d81b64ca6b0a8f63cdb68c"
-
-[[files]]
-file = "config/heracles/groups.txt"
-hash = "97db1771a2ef9989c6540b9fe981be23afd6b1c7614a38cc0d63ba67870b55c0"
-
-[[files]]
-file = "config/heracles/quests/gettingstarted/first.json"
-hash = "f32adbe83d643504839d37ce1cb5cf100eb8829ec740ec72ade6f2b918bff50d"
-
-[[files]]
-file = "config/heracles/tutorial.html"
-hash = "3ee4fc4dea2619980a842af8e3b992a25d5aa0e3405c693d4d5def280928fa03"
 
 [[files]]
 file = "config/illagerinvasion-server.toml"
@@ -63983,14 +63871,6 @@ hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
 [[files]]
 file = "config/jeresources.toml"
 hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
-
-[[files]]
-file = "config/jewelry/items_v4.json"
-hash = "4757c769fe6e72f02f388e72ff51ebc81368f56e103be210aade44f204a59a4e"
-
-[[files]]
-file = "config/jewelry/villages.json"
-hash = "3a0ad1c6bf844e60952867bbb67ebac157ce720a9904362b4a26d6048096a5f8"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -64077,22 +63957,6 @@ file = "config/openloader/advanced_options.json"
 hash = "be058ee3e1112ca1f61df37454ecc743f522e04a1121976c95237636363597d0"
 
 [[files]]
-file = "config/paladins/items_v5.json"
-hash = "6b833d6ecc88ef954a43786ac4f1b7caba20ea169b897f7b33ef4deb4ab89808"
-
-[[files]]
-file = "config/paladins/shields.json"
-hash = "c1c4e741adc6d9c1ace94cbb5dd35a84ae8b807e82b3c1beb63379500a7a2e17"
-
-[[files]]
-file = "config/paladins/tweaks.json"
-hash = "f000fb79ee42fbe168c39d14436debf8759067cdcabe9cdc40e51475c840a02c"
-
-[[files]]
-file = "config/paladins/villages.json"
-hash = "1f055f8cdc62d4035fecc05af7a1b6398ff0f9efdacc4422c4e58d8ec0a253bb"
-
-[[files]]
 file = "config/patchouli-client.toml"
 hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 
@@ -64111,26 +63975,6 @@ hash = "7d29829a5daabb466f6a58c0ec072137e2b5092e1efc2b17d9bb803a3cfd8e5c"
 [[files]]
 file = "config/resourceful-config-web.json"
 hash = "84d6e829a0131691f27a4d0d54ae6ea69cc604170471d94e8988f3aed12619cf"
-
-[[files]]
-file = "config/rogues/items_v2.json"
-hash = "03b5ac28d76ce22b7774c6e830250c1336e76a8d424e311980cc4d843d25f17b"
-
-[[files]]
-file = "config/rogues/tweaks.json"
-hash = "59948decbed04677319d3dbb9db1e7affb3255e68b2719914bbddccb4c66df2d"
-
-[[files]]
-file = "config/rogues/villages.json"
-hash = "df238509966b714649d6c7166fa102ea68863d265e6762bafa89577943842dc6"
-
-[[files]]
-file = "config/rpg_series/loot_v2.json"
-hash = "60577cf7d8c68f47fa223d6f60aa03553ab3a89e603fe504d09168fb2275139c"
-
-[[files]]
-file = "config/rpg_series/tag_cache.json"
-hash = "8dc26f3809a213d222339dcefaa41516b61eb29bdb28633936f5cb9871ddf1a6"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -64201,30 +64045,6 @@ file = "config/sophisticatedstorage-common.toml"
 hash = "55a7b289f6d2ecb116d39b385fb8a883f8317734dd42f3be16af11380e26c0a3"
 
 [[files]]
-file = "config/spell_engine/client.json5"
-hash = "3203ea4f6833103e5e7c50727c5521b6853d2c0814335eda3476b9e2b1213e0e"
-
-[[files]]
-file = "config/spell_engine/enchantments.json"
-hash = "504170b7a22b5f6a18d1ae510b66386f0af3a9fe24ea98af2175ad9cf2b5ba8e"
-
-[[files]]
-file = "config/spell_engine/hud_config.json"
-hash = "c107be0b3efed688c7fe3228d82901564727b16e1041b438ff2a2ab3e7ab9501"
-
-[[files]]
-file = "config/spell_engine/server.json5"
-hash = "74b725d6ca4f0b3b5309a175374242331dedfca7976bbf686b002f72567d2aeb"
-
-[[files]]
-file = "config/spell_power/attributes.json"
-hash = "46b2b53aceae8a03cc0229a9a658715e3c31b66c9597b4666c31f87ade12b4ec"
-
-[[files]]
-file = "config/spell_power/enchantments.json"
-hash = "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7"
-
-[[files]]
 file = "config/theurgy-client.toml"
 hash = "853a69847741cb185dd5dc00207d8a5f9027a02970af900c1b4d40cb5e1f0172"
 
@@ -64241,28 +64061,12 @@ file = "config/twilightforest-common.toml"
 hash = "2d8051f2d41dd6ee7b9e6570e84cd18a3e2d013c0890c95c0b66e7ecce0346b8"
 
 [[files]]
-file = "config/vinery/config.json5"
-hash = "20c727c81c03303920bb1117c61727da1c71dfffc2c7d088796336c5a0793c05"
-
-[[files]]
 file = "config/warriorrage-client.toml"
 hash = "9ed75ee31d7a96e7a0848ab4a2f0044c188cf6cf6b35a4f097257d5d0e5d0658"
 
 [[files]]
 file = "config/waystones-common.toml"
 hash = "54a6dc542b35498fe3c95ff7bd9fb3375510ce9a052935116bc3ec3eff9dd4e1"
-
-[[files]]
-file = "config/wizards/items_v4.json"
-hash = "53b9a217d9db62717be676eb67c9fb8879e2494a57220219d9c309a350c7aedf"
-
-[[files]]
-file = "config/wizards/tweaks.json"
-hash = "4568418cb62da85fa6a4a88a5c332d7c786ba3f4b872d7dfc05b09619b85c9ea"
-
-[[files]]
-file = "config/wizards/villages.json"
-hash = "4f7d44cb2b2588446db0886af941fb2c4194d15bfba7d303de1ca0d2879cff31"
 
 [[files]]
 file = "config/wizards_reborn-client.toml"

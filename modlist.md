@@ -12,11 +12,13 @@
 | [Applied Botanics Addon](https://www.curseforge.com/projects/610632) |
 | [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/projects/459929) |
 | [Applied Energistics 2](https://www.curseforge.com/projects/223794) |
+| [Applied Mekanistics](https://www.curseforge.com/projects/574300) |
 | [Architectury API (Fabric/Forge/NeoForge)](https://www.curseforge.com/projects/419699) |
 | [AzureLib Armor](https://www.curseforge.com/projects/912767) |
 | [Balm (Forge Edition)](https://www.curseforge.com/projects/531761) |
 | [Better Advancements](https://www.curseforge.com/projects/272515) |
 | [Better Combat [Fabric & Forge]](https://www.curseforge.com/projects/639842) |
+| [Better Modlist [(Neo)Forge]](https://www.curseforge.com/projects/1089803) |
 | [BetterGrassify](https://www.curseforge.com/projects/1026394) |
 | [Bigger AE2](https://www.curseforge.com/projects/1013772) |
 | [Blasma Tech](https://www.curseforge.com/projects/976257) |
@@ -71,7 +73,6 @@
 | [Dynamic Trees - Alex's Mobs](https://www.curseforge.com/projects/1091039) |
 | [Dynamic Trees - Quark](https://www.curseforge.com/projects/386753) |
 | [Dynamic Trees - Terralith](https://www.curseforge.com/projects/852886) |
-| [Dynamic Trees - The Twilight Forest](https://www.curseforge.com/projects/391986) |
 | [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/projects/551736) |
 | [Dynamic Trees](https://www.curseforge.com/projects/252818) |
 | [Dynamic Trees +](https://www.curseforge.com/projects/478155) |
@@ -82,10 +83,12 @@
 | [Enderman Overhaul](https://www.curseforge.com/projects/574409) |
 | [Ender's Delight](https://www.curseforge.com/projects/827163) |
 | [EnderTanks](https://www.curseforge.com/projects/59613) |
+| [Energy Meter](https://www.curseforge.com/projects/532169) |
 | [Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons](https://www.curseforge.com/projects/438447) |
 | [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/projects/844662) |
 | [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/projects/568563) |
 | [Entity Culling Fabric/Forge](https://www.curseforge.com/projects/448233) |
+| [Excavein](https://www.curseforge.com/projects/1128365) |
 | [Extreme sound muffler - (Neo)Forge](https://www.curseforge.com/projects/363363) |
 | [Falling Leaves (NeoForge/Forge)](https://www.curseforge.com/projects/463155) |
 | [FancyMenu](https://www.curseforge.com/projects/367706) |
@@ -101,7 +104,6 @@
 | [GeckoLib](https://www.curseforge.com/projects/388172) |
 | [GlitchCore](https://www.curseforge.com/projects/955399) |
 | [GraveStone Mod](https://www.curseforge.com/projects/238551) |
-| [GregTechCEu Modern](https://www.curseforge.com/projects/890405) |
 | [Guard Villagers](https://www.curseforge.com/projects/360203) |
 | [Hang Glider [Forge & Fabric]](https://www.curseforge.com/projects/852668) |
 | [Harvest with ease](https://www.curseforge.com/projects/602171) |
@@ -118,14 +120,27 @@
 | [Jade 🔍](https://www.curseforge.com/projects/324717) |
 | [Just Enough Items (JEI)](https://www.curseforge.com/projects/238222) |
 | [Just Enough Immersive Multiblocks](https://www.curseforge.com/projects/634571) |
+| [Just Enough Mekanism Multiblocks](https://www.curseforge.com/projects/898746) |
 | [Konkrete [Forge/NeoForge]](https://www.curseforge.com/projects/410295) |
 | [KubeJS + CC: Tweaked](https://www.curseforge.com/projects/1000850) |
 | [KubeJS Create](https://www.curseforge.com/projects/429371) |
 | [KubeJS](https://www.curseforge.com/projects/238086) |
-| [LDLib](https://www.curseforge.com/projects/626676) |
 | [Let Me Despawn](https://www.curseforge.com/projects/663477) |
 | [Load My F***ing Tags](https://www.curseforge.com/projects/656346) |
 | [Lootr (Forge & NeoForge)](https://www.curseforge.com/projects/361276) |
+| [Macaw's Bridges](https://www.curseforge.com/projects/351725) |
+| [Macaw's Doors](https://www.curseforge.com/projects/378646) |
+| [Macaw's Fences and Walls](https://www.curseforge.com/projects/453925) |
+| [Macaw's Furniture](https://www.curseforge.com/projects/359540) |
+| [Macaw's Lights and Lamps](https://www.curseforge.com/projects/502372) |
+| [Macaw's Paths and Pavings](https://www.curseforge.com/projects/629153) |
+| [Macaw's Roofs](https://www.curseforge.com/projects/352039) |
+| [Macaw's Trapdoors](https://www.curseforge.com/projects/400933) |
+| [Macaw's Windows](https://www.curseforge.com/projects/363569) |
+| [Mekanism Covers](https://www.curseforge.com/projects/1119874) |
+| [Mekanism Generators](https://www.curseforge.com/projects/268566) |
+| [Mekanism Turrets & Fences](https://www.curseforge.com/projects/1031448) |
+| [Mekanism](https://www.curseforge.com/projects/268560) |
 | [Melody](https://www.curseforge.com/projects/938643) |
 | [Miner's Delight +](https://www.curseforge.com/projects/689630) |
 | [Modern AE2 Additions](https://www.curseforge.com/projects/1028068) |
@@ -144,8 +159,11 @@
 | [Open Parties and Claims](https://www.curseforge.com/projects/636608) |
 | [Patchouli](https://www.curseforge.com/projects/306770) |
 | [Pick Up Notifier [Forge & Fabric]](https://www.curseforge.com/projects/351441) |
+| [playerAnimator](https://www.curseforge.com/projects/658587) |
+| [Zigy's Player Animator API](https://www.curseforge.com/projects/958083) |
 | [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/projects/388800) |
 | [Polymorphic Energistics](https://www.curseforge.com/projects/941096) |
+| [Powah! (Rearchitected)](https://www.curseforge.com/projects/633483) |
 | [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/projects/495476) |
 | [Quark Oddities](https://www.curseforge.com/projects/301051) |
 | [Quark](https://www.curseforge.com/projects/243121) |
@@ -173,7 +191,6 @@
 | [Structure Essentials[Forge/Fabric]](https://www.curseforge.com/projects/832882) |
 | [TagTooltips](https://www.curseforge.com/projects/899941) |
 | [Terralith](https://www.curseforge.com/projects/513688) |
-| [The Twilight Forest](https://www.curseforge.com/projects/227639) |
 | [Theurgy KubeJS](https://www.curseforge.com/projects/963206) |
 | [Theurgy](https://www.curseforge.com/projects/430636) |
 | [Traveler's Titles (Forge)](https://www.curseforge.com/projects/504908) |
