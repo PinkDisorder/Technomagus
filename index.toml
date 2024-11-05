@@ -64224,6 +64224,11 @@ hash = "bb7152570f3fa1ebde808d6b17f3003ef58a067eaa2b6c0570b20ba659952ce4"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "7c59f6eeb22cc9e0c999c0e4b20e17ea595f4d98633e47619653ab4f92f92bb6"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
@@ -64469,6 +64474,11 @@ hash = "e1eb9c8386bc3ec75f1dcc14ff420b1a2e64aa2553678cb5ccfa945966280c82"
 metafile = true
 
 [[files]]
+file = "mods/deep-dark-regrowth.pw.toml"
+hash = "cb7cf046cc3edf51b45a40f38a4fd3fd6897b66b768eac8cb279580ddb7bd236"
+metafile = true
+
+[[files]]
 file = "mods/dnt-stronghold-overhaul.pw.toml"
 hash = "ae80266a71e177f1ed0bc73f4d8c7895ee9f43ba0072683c4ff48c098b48dec4"
 metafile = true
@@ -64656,6 +64666,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
+metafile = true
+
+[[files]]
+file = "mods/gigeresque.pw.toml"
+hash = "91a1f82e1ded0bfd88e01b0c3f0064bc1a5d282f03451769f46a37125fea12fd"
 metafile = true
 
 [[files]]
@@ -65051,6 +65066,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "42a5f3d87f76d41e140ce4c1a08861bda666c42a4b31c01ec2788a6fbabac48b"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
