@@ -64230,6 +64230,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "bb7152570f3fa1ebde808d6b17f3003ef58a067eaa2b6c0570b20ba659952ce4"
 metafile = true
@@ -64352,6 +64357,11 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight-forge.pw.toml"
 hash = "983166b2772e51c89dfbd99c6ee781bf2dc3097e01b8054a0ec4d6ffae385074"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "33e11adb205c864d43ad160ed94ac8ee9bb99ff438c17ae9b456b1bd52d5439e"
 metafile = true
 
 [[files]]
@@ -64637,6 +64647,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "e943d15c16c342839e0df4a21d4dc13f85478e5672200e3b3da159fb0d117a40"
 metafile = true
 
 [[files]]
