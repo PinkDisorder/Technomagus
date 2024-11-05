@@ -434,7 +434,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "32a5ebaea1e1d1d173cf606f20120923961bed3ffc99b7ecb1d730effb0a64a1"
+hash = "14e769968222f5311a0c40ce73e47bb6f0895d00bd4998d02a3c5d06a519abad"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -63706,11 +63706,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f2874636c89aeb8c1942a4b5b3b6dde515e88cd37862f0a0a463ac06ea0db505"
+hash = "2e276f6a0c0fd3b36971eeb238c66fa87076449539bd1e38eedd4f5f78b09996"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "f7ff774a6b7acbcdc0367e5b0b9a66020a69fbc1b1af37bc9585e0120f3994b4"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "278c8c6efbe4a575b7f16d6fd66cff86b007e0d8859f14fa5f5a4c5fd3e8652a"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
@@ -63730,7 +63734,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "1b49fe97be1cb7622e2f750e8100b54e31f476e43e32a295ee49f988c25e0d0c"
+hash = "d61cd734339b0f94fa5809ef7523a53b2c353edce139f75f96218753cad71f36"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -64107,6 +64111,10 @@ hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 [[files]]
 file = "datapacks/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "defaultconfigs/excavein-server.toml"
+hash = "51799c4d0c222b4267f7989cf0da58566317e3bdc0a25afde2d89d34a2b994a8"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -64647,6 +64655,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7adcc1b24ce5ee8b14899b9eccc97e81f066d0fbcc9bb832444f1015f1c3947a"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "5d20503f75ffd390fbd095e694b555ceecce83c6d98d0bf881556e4644501600"
 metafile = true
 
 [[files]]
@@ -65372,3 +65385,7 @@ metafile = true
 file = "resourcepacks/space-and-stars-gui.pw.toml"
 hash = "9c6df5de89aea8471c61e2fa0d0e01022e252010fbfba3e669f47df657a2d5f9"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.3 + EuphoriaPatches_1.4.3.txt"
+hash = "9d96f34b800fe4386c5536e755c2526f9e534c0d712be7a3c247b9fec84beb9c"
