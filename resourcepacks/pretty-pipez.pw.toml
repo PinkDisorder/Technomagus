@@ -1,0 +1,13 @@
+name = "Pretty Pipez"
+filename = "Pretty_Pipez_1_20.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a525a5b2086238127ad667c1a0363734d6702c97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4949168
+project-id = 628633

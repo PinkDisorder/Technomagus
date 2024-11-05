@@ -64959,6 +64959,11 @@ hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "de8f599eb6d2bf0461014c6d86bcfcaa40db57107e662445e99c04648756554f"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
@@ -65280,4 +65285,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/newer-age.pw.toml"
 hash = "14c94047be0920f25907ce5f9a47707453185eed9e9d16e8712381eac9167cc3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pretty-pipez.pw.toml"
+hash = "9a44edfd94eb0874c590b7568132968d45a6179ec61bf1f9da5fc22efa40fae4"
 metafile = true
