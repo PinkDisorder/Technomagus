@@ -1,0 +1,13 @@
+name = "Gigeresque"
+filename = "gigeresque-connector-1.20.1-0.5.71.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d09a813db17562e9eb60bd1f8847311b1ec477c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5275763
+project-id = 535416
