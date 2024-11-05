@@ -65334,31 +65334,6 @@ hash = "98ae36b7bff1d943f48ef907bbacbe9e95d4d8107cea74a65c87b0df5edfae92"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ashen-16x.pw.toml"
-hash = "9fa843360d3389d3ef772641fc7756f8923fae3ea4ea55f5c8ace6d9532634ee"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ashen-custom-mobs-x-fresh-animations.pw.toml"
-hash = "1fd12a5cc0ebf16265320d2a9546aac142e854625cc833dbc71915748cdbb938"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ashen-falling-leaves-support.pw.toml"
-hash = "791716fe16e9efd34c3910963ee516ad5b9e4f6a1bf1133c291fc99333e8d187"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ashen-simple-glass.pw.toml"
-hash = "5813b13ca2d3088d892cd3ced92bbf57c9c8eb86c524dde4e43f209a15de03e4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/birds-ae2-gui-pack.pw.toml"
-hash = "39ce07ee5779145aa0857a7e4da5fe50c88abfc3e46e78c77c77df747f8d71b0"
-metafile = true
-
-[[files]]
 file = "resourcepacks/computercraft-greg-flavored.pw.toml"
 hash = "da0614dc696e65593585e479d11f38286bf8ebfcde2082cf5b453f08151d18ef"
 metafile = true
@@ -65391,4 +65366,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/pretty-pipez.pw.toml"
 hash = "9a44edfd94eb0874c590b7568132968d45a6179ec61bf1f9da5fc22efa40fae4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/space-and-stars-gui.pw.toml"
+hash = "9c6df5de89aea8471c61e2fa0d0e01022e252010fbfba3e669f47df657a2d5f9"
 metafile = true

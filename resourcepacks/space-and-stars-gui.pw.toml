@@ -1,0 +1,13 @@
+name = "Space and stars GUI"
+filename = "Space and stars 2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "452cc02f74a65bc2544ae0442006250943fe44bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4959069
+project-id = 945447
