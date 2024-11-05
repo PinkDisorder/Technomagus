@@ -64710,11 +64710,6 @@ hash = "91be9094f145c6ca62ea9f2776818fcbd45ce9eac4b9e04e40823753ac9ec392"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-the-twilight-forest.pw.toml"
-hash = "e10d2a49fedc1c3a4d3229ad3df87be8959dd428cb043678efbcc2f45addfe75"
-metafile = true
-
-[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "ac6063df22cfd65677177c0b37a7021ff4a3afdcd56ff8a886ff85997ebd1416"
 metafile = true
@@ -65305,11 +65300,6 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
-metafile = true
-
-[[files]]
 file = "mods/theurgy-kubejs.pw.toml"
 hash = "8be7e7a58deecb817a6c93600b81f02ac45ff2661e69ee602734f6d55e7fb56f"
 metafile = true
@@ -65461,9 +65451,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/lithos-font-add-on.pw.toml"
 hash = "c8003032553bf62bbf557cf3c6ce23fe31e5001c5636739581ab09abd2bb859f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/twilight-forest-jappa-pack.pw.toml"
-hash = "3572f51ed92adde48d6fc6046d8e6394c8640020e516cc3b4f86d575bfd1801d"
 metafile = true
