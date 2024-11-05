@@ -65281,3 +65281,8 @@ metafile = true
 file = "resourcepacks/lithos-font-add-on.pw.toml"
 hash = "c8003032553bf62bbf557cf3c6ce23fe31e5001c5636739581ab09abd2bb859f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/newer-age.pw.toml"
+hash = "14c94047be0920f25907ce5f9a47707453185eed9e9d16e8712381eac9167cc3"
+metafile = true

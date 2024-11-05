@@ -1,0 +1,13 @@
+name = "Newer Age"
+filename = "Newer Age v0.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79a5178c23b1b57c71907d727524579b814bd632"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5662539
+project-id = 1076150
