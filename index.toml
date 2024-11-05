@@ -65248,6 +65248,11 @@ file = "options.txt"
 hash = "d2b525517693ef766633920712a8da459b3f659d5e6f24ab07a1e96508c10884"
 
 [[files]]
+file = "resourcepacks/ae2-texture-backport.pw.toml"
+hash = "98ae36b7bff1d943f48ef907bbacbe9e95d4d8107cea74a65c87b0df5edfae92"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ashen-16x.pw.toml"
 hash = "9fa843360d3389d3ef772641fc7756f8923fae3ea4ea55f5c8ace6d9532634ee"
 metafile = true
@@ -65268,6 +65273,11 @@ hash = "5813b13ca2d3088d892cd3ced92bbf57c9c8eb86c524dde4e43f209a15de03e4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/birds-ae2-gui-pack.pw.toml"
+hash = "39ce07ee5779145aa0857a7e4da5fe50c88abfc3e46e78c77c77df747f8d71b0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/computercraft-greg-flavored.pw.toml"
 hash = "da0614dc696e65593585e479d11f38286bf8ebfcde2082cf5b453f08151d18ef"
 metafile = true
@@ -65275,6 +65285,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "da8854dec3941519a196de24933f8494bbce4dd682e05cbc60949057aa758b50"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "6c4d310b63681f924e4d81c77bb7d56655fe5b4082aca3caf361e142d5d72bfd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-realistic-sky.pw.toml"
+hash = "4c813430faa94b732ddd596dfcbc0aabee47a4e4d0904ffad26e88c5efcd1416"
 metafile = true
 
 [[files]]

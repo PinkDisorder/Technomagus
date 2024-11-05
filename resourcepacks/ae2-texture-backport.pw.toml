@@ -1,0 +1,13 @@
+name = "AE2 TEXTURE BACKPORT"
+filename = "AE2 BACKPORT.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dHOwPJDP/versions/9HDxrizq/AE2%20BACKPORT.zip"
+hash-format = "sha512"
+hash = "aa6a044b075879833fe9cba583daacee8a6791bcce9bac5db224e69980860759d7c7c6a3620f4b352ad0326be2543841596217f623c50e0b5866f553bc99a9d3"
+
+[update]
+[update.modrinth]
+mod-id = "dHOwPJDP"
+version = "9HDxrizq"
