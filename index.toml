@@ -64540,6 +64540,11 @@ hash = "4a831ac28ef58cbaa173fdbcd002364b2b08dfb57b9dec5ca0289c5745608647"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-neapolitan.pw.toml"
+hash = "b5e1baadfcefce0c9a481f7f2d0ea85ae0edfc48c5eceaba5a121111f39e8ea6"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-quark.pw.toml"
 hash = "0dcda06d4bddbd8c19e894f92d9c90529a35979a4c19062dc9fa02166c223177"
 metafile = true
@@ -64922,6 +64927,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "6c8692d70b479f1220be4db321f2ce1c561a80802841ed488de0942650280458"
 metafile = true
 
 [[files]]
