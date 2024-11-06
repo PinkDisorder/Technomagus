@@ -14,7 +14,7 @@
   "skipRealmsWarning": false,
   "disableTelemetry": true,
   "removeTelemetryButton": true,
-  "demandOnServer": false,
+  "demandOnServer": true,
   "verifiedIconOffsetX": 0,
   "verifiedIconOffsetY": 0
 }
