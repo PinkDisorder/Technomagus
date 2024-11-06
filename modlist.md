@@ -29,6 +29,7 @@
 | [Blasma Tech](https://www.curseforge.com/projects/976257) |
 | [Block Runner [Forge & Fabric]](https://www.curseforge.com/projects/442842) |
 | [Block Swap](https://www.curseforge.com/projects/468893) |
+| [Blueprint](https://www.curseforge.com/projects/382216) |
 | [Bookshelf](https://www.curseforge.com/projects/228525) |
 | [Botania](https://www.curseforge.com/projects/225643) |
 | [Botany Pots](https://www.curseforge.com/projects/353928) |
@@ -89,6 +90,7 @@
 | [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/projects/551736) |
 | [Dynamic Trees](https://www.curseforge.com/projects/252818) |
 | [Dynamic Trees +](https://www.curseforge.com/projects/478155) |
+| [Eccentric Tome](https://www.curseforge.com/projects/597522) |
 | [Effortless Building](https://www.curseforge.com/projects/302113) |
 | [Embers Rekindled](https://www.curseforge.com/projects/300777) |
 | [EMI](https://www.curseforge.com/projects/580555) |
@@ -141,6 +143,7 @@
 | [Konkrete [Forge/NeoForge]](https://www.curseforge.com/projects/410295) |
 | [KubeJS + CC: Tweaked](https://www.curseforge.com/projects/1000850) |
 | [KubeJS Create](https://www.curseforge.com/projects/429371) |
+| [KubeJS Powah](https://www.curseforge.com/projects/838378) |
 | [KubeJS](https://www.curseforge.com/projects/238086) |
 | [Let Me Despawn](https://www.curseforge.com/projects/663477) |
 | [Load My F***ing Tags](https://www.curseforge.com/projects/656346) |
