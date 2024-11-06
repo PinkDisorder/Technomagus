@@ -63801,14 +63801,6 @@ file = "config/sophisticatedstorage-common.toml"
 hash = "55a7b289f6d2ecb116d39b385fb8a883f8317734dd42f3be16af11380e26c0a3"
 
 [[files]]
-file = "config/xenon++.toml"
-hash = "6381c56f566dd997423defbac312837bab0a3a656c60a3d4cbeab7f939d8bdb8"
-
-[[files]]
-file = "config/xenon-options.json"
-hash = "be264e74c43e640817de1cc66b8631d1eded492c6cdd02ce45b48164e55681f8"
-
-[[files]]
 file = "datapacks/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -64198,6 +64190,11 @@ hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
 metafile = true
 
 [[files]]
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -64300,6 +64297,11 @@ metafile = true
 [[files]]
 file = "mods/effortless-building.pw.toml"
 hash = "b6304b1347ee12280c69c312ecea9e8b15aa1b3bb9f2d089e77b0ebb2934b181"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
@@ -64615,6 +64617,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "02a961f55839346fcef6cca287a27cc1532f0761735a9ff2712a3efe0e4489fe"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "281b731cd397bc3c3c9e86277785564509047c3eeec525d42167372c5564c14e"
 metafile = true
 
 [[files]]
@@ -64955,11 +64962,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
-metafile = true
-
-[[files]]
-file = "mods/xenon.pw.toml"
-hash = "b91513c490e4a51622c7380aa84a08bc2cf8e45d714711910b653515db03cbae"
 metafile = true
 
 [[files]]
