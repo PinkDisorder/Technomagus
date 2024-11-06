@@ -64298,11 +64298,6 @@ hash = "1d093db0add8486b407b1323d2add62c1710469922722ec2531f78ef667ec259"
 metafile = true
 
 [[files]]
-file = "mods/blueprint.pw.toml"
-hash = "f7574bbc725128a0fa6a44c959c67d706d2279ed442dfedf2d135fd955e5ca6b"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -64570,11 +64565,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-trees-alexs-mobs.pw.toml"
 hash = "4a831ac28ef58cbaa173fdbcd002364b2b08dfb57b9dec5ca0289c5745608647"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-neapolitan.pw.toml"
-hash = "b5e1baadfcefce0c9a481f7f2d0ea85ae0edfc48c5eceaba5a121111f39e8ea6"
 metafile = true
 
 [[files]]
@@ -64990,11 +64980,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
-metafile = true
-
-[[files]]
-file = "mods/neapolitan.pw.toml"
-hash = "6c8692d70b479f1220be4db321f2ce1c561a80802841ed488de0942650280458"
 metafile = true
 
 [[files]]
