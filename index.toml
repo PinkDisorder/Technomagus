@@ -64778,11 +64778,6 @@ hash = "9ad6b9b7c7b20ed2acab2c74a4ed07eea820f23e751671a5840e7f4d7bb415a6"
 metafile = true
 
 [[files]]
-file = "mods/rapid-leaf-decay.pw.toml"
-hash = "5603458dcbcecd596fe4520f19bb6d9ec6b47be8d04db03caa16dbdb5bdd707d"
-metafile = true
-
-[[files]]
 file = "mods/reactive-music.pw.toml"
 hash = "497ee5ba2a65a02d175a1c8d6688c1582b441238e009eb339c692f0cc779fd03"
 metafile = true
