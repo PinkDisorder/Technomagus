@@ -64360,11 +64360,6 @@ hash = "5d20503f75ffd390fbd095e694b555ceecce83c6d98d0bf881556e4644501600"
 metafile = true
 
 [[files]]
-file = "mods/excavein.pw.toml"
-hash = "144d1d70f69e0f3c5b19034c4dd2485fc2cc115b13e47157d835b6740c95c1f7"
-metafile = true
-
-[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "8e8a539b801be098347999b416b3af738a6bf901f5b1a3b803ceb869f3c39bf9"
 metafile = true
