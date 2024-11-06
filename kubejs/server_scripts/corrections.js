@@ -23,6 +23,16 @@ ServerEvents.tags("item", event => {
 
   event.add("c:crops/tomato", "#forge:crops/tomato");
 
+  event.add("forge:nuts", "dynamictrees:dark_oak_seed")
+  event.add("forge:nuts", "dynamictrees:oak_seed")
+  event.add("forge:nuts", "dtterralith:ancient_seed")
+  event.add("forge:nuts", "dtterralith:mirage_seed")
+
+  event.add("forge:nuts/acorn", "dynamictrees:dark_oak_seed")
+  event.add("forge:nuts/acorn", "dynamictrees:oak_seed")
+  event.add("forge:nuts/acorn", "dtterralith:ancient_seed")
+  event.add("forge:nuts/acorn", "dtterralith:mirage_seed")
+
   // Ingredient.of("#forge:stone").itemIds.forEach(item => event.add(item, "minecraft:stone"));
 })
 
