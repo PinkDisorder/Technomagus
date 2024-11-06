@@ -63658,15 +63658,11 @@ hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+hash = "eae6ce99905a9dad0331fa4a5e1bc2fda5d4b625ecfc7681e5264ac2c10b5236"
 
 [[files]]
 file = "config/gravestone-client.toml"
 hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
-
-[[files]]
-file = "config/gtceu.yaml"
-hash = "ff07c974726cbb2d8d66a11097a2c9ce2118033141fbcb502c1f6986678c5ddd"
 
 [[files]]
 file = "config/harvest_with_ease-common.toml"
@@ -63682,7 +63678,7 @@ hash = "a9192ef0a7d0ba3eb05a8a7a33b1f001d55c433ee01d9c670c8f9c3fcac0640c"
 
 [[files]]
 file = "config/immersivelanterns-client.toml"
-hash = "1db214510bc5ece32e1e586ee8d585a201e6c5972c01bfb17541c44fb6c0bce3"
+hash = "5026957c23989fd641dca0ff005d761cc383ac6cecf1a89fd02d39c7407efeec"
 
 [[files]]
 file = "config/inventoryessentials-common.toml"
@@ -63738,7 +63734,7 @@ hash = "cd126a5b264ceb5738eb3604d442fe0879bca68ad2937e6f0b34da144d8aecdd"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "12871e3863b3fffe61445eb452d1dcff49d0cdf0ddc2606dd5239048a7460e50"
+hash = "1d2a18f8584bca247cba1172641f152f3af467ea6eeba01d5b78a850650f899a"
 
 [[files]]
 file = "config/modonomicon-client.toml"

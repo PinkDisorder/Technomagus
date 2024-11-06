@@ -29,7 +29,6 @@
 | [Blasma Tech](https://www.curseforge.com/projects/976257) |
 | [Block Runner [Forge & Fabric]](https://www.curseforge.com/projects/442842) |
 | [Block Swap](https://www.curseforge.com/projects/468893) |
-| [Blueprint](https://www.curseforge.com/projects/382216) |
 | [Bookshelf](https://www.curseforge.com/projects/228525) |
 | [Botania](https://www.curseforge.com/projects/225643) |
 | [Botany Pots](https://www.curseforge.com/projects/353928) |
@@ -84,7 +83,6 @@
 | [Dynamic Crosshair](https://www.curseforge.com/projects/623800) |
 | [Dynamic FPS](https://www.curseforge.com/projects/335493) |
 | [Dynamic Trees - Alex's Mobs](https://www.curseforge.com/projects/1091039) |
-| [Dynamic Trees - Neapolitan](https://www.curseforge.com/projects/508225) |
 | [Dynamic Trees - Quark](https://www.curseforge.com/projects/386753) |
 | [Dynamic Trees - Terralith](https://www.curseforge.com/projects/852886) |
 | [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/projects/551736) |
@@ -99,7 +97,6 @@
 | [Ender's Delight](https://www.curseforge.com/projects/827163) |
 | [EnderTanks](https://www.curseforge.com/projects/59613) |
 | [Energy Meter](https://www.curseforge.com/projects/532169) |
-| [Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons](https://www.curseforge.com/projects/438447) |
 | [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/projects/844662) |
 | [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/projects/568563) |
 | [Entity Culling Fabric/Forge](https://www.curseforge.com/projects/448233) |
@@ -123,13 +120,11 @@
 | [GlitchCore](https://www.curseforge.com/projects/955399) |
 | [Glodium](https://www.curseforge.com/projects/957920) |
 | [GraveStone Mod](https://www.curseforge.com/projects/238551) |
-| [Guard Villagers](https://www.curseforge.com/projects/360203) |
 | [Hang Glider [Forge & Fabric]](https://www.curseforge.com/projects/852668) |
 | [Harvest with ease](https://www.curseforge.com/projects/602171) |
 | [Held Item Tooltips [Forge & Fabric]](https://www.curseforge.com/projects/852671) |
 | [Hopo Better Mineshaft (Fabric/Forge/NeoForge)](https://www.curseforge.com/projects/623723) |
 | [Hopo Better Ruined Portals (Fabric/Forge/NeoForge)](https://www.curseforge.com/projects/632624) |
-| [Horde Moon](https://www.curseforge.com/projects/1052221) |
 | [Illager Invasion [Forge & Fabric]](https://www.curseforge.com/projects/891324) |
 | [ImmediatelyFast](https://www.curseforge.com/projects/686911) |
 | [Immersive Engineering](https://www.curseforge.com/projects/231951) |
@@ -166,9 +161,7 @@
 | [ModernFix](https://www.curseforge.com/projects/790626) |
 | [Modonomicon](https://www.curseforge.com/projects/538392) |
 | [More Mekanism Processing](https://www.curseforge.com/projects/511965) |
-| [More Overlays Updated](https://www.curseforge.com/projects/391382) |
 | [Mouse Tweaks](https://www.curseforge.com/projects/60089) |
-| [Neapolitan](https://www.curseforge.com/projects/382016) |
 | [Necronomicon API](https://www.curseforge.com/projects/586157) |
 | [Neruina - Ticking Entity Fixer](https://www.curseforge.com/projects/851046) |
 | [Nether's Delight](https://www.curseforge.com/projects/496394) |
@@ -211,7 +204,6 @@
 | [Sophisticated Core](https://www.curseforge.com/projects/618298) |
 | [Sophisticated Storage](https://www.curseforge.com/projects/619320) |
 | [Lucky's Spelunker's Charm II](https://www.curseforge.com/projects/886997) |
-| [Spider Moon](https://www.curseforge.com/projects/1057511) |
 | [Structory: Towers](https://www.curseforge.com/projects/783522) |
 | [Structory](https://www.curseforge.com/projects/636540) |
 | [Structure Essentials[Forge/Fabric]](https://www.curseforge.com/projects/832882) |
