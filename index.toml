@@ -63801,6 +63801,14 @@ file = "config/sophisticatedstorage-common.toml"
 hash = "55a7b289f6d2ecb116d39b385fb8a883f8317734dd42f3be16af11380e26c0a3"
 
 [[files]]
+file = "config/xenon++.toml"
+hash = "6381c56f566dd997423defbac312837bab0a3a656c60a3d4cbeab7f939d8bdb8"
+
+[[files]]
+file = "config/xenon-options.json"
+hash = "be264e74c43e640817de1cc66b8631d1eded492c6cdd02ce45b48164e55681f8"
+
+[[files]]
 file = "datapacks/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
