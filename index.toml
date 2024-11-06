@@ -64363,6 +64363,11 @@ hash = "144d1d70f69e0f3c5b19034c4dd2485fc2cc115b13e47157d835b6740c95c1f7"
 metafile = true
 
 [[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "8e8a539b801be098347999b416b3af738a6bf901f5b1a3b803ceb869f3c39bf9"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
 metafile = true
@@ -64683,11 +64688,6 @@ hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
-file = "mods/nuclearcraft-neoteric.pw.toml"
-hash = "5ba7f72a35c333969b88322e9a4f62647790cc25f3ab692d7c80861a3578e561"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "361f5915170fc468704db1c693cfac69431b82fdefc380d6d2d7a95242799bb9"
 metafile = true
@@ -65000,6 +65000,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "824e624db9e75492a8f461f0b2ea61251729957d6645242ae83daaece0333020"
 metafile = true
 
 [[files]]
