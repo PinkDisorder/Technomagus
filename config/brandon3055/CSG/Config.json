@@ -1,0 +1,13 @@
+{
+  "inventory": {
+    "0:1": "{Count:1b,id:\"eccentrictome:tome\",tag:{\"eccentrictome:mods\":{advancedperipherals:{0:{Count:1b,id:\"patchouli:guide_book\",tag:{\"patchouli:book\":\"advancedperipherals:manual\"}}},alexsmobs:{0:{Count:1b,id:\"alexsmobs:animal_dictionary\"}},embers:{0:{Count:1b,id:\"embers:ancient_codex\"}},modonomicon:{0:{Count:1b,id:\"modonomicon:modonomicon\",tag:{\"modonomicon:book_id\":\"theurgy:the_hermetica\"}}}}}}",
+    "0:6": "{Count:1b,id:\"minecraft:leather_leggings\",tag:{Damage:0}}",
+    "0:2": "{Count:1b,id:\"rpgsmw:class_choose_orb\"}",
+    "0:0": "{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:0}}",
+    "0:7": "{Count:1b,id:\"minecraft:leather_boots\",tag:{Damage:0}}",
+    "0:5": "{Count:1b,id:\"minecraft:leather_chestplate\",tag:{Damage:0}}",
+    "0:3": "{Count:64b,id:\"minecraft:bread\"}",
+    "0:4": "{Count:1b,id:\"spelunkers_charm:candle_helmet\",tag:{Damage:0}}"
+  },
+  "wipeBlacklist": []
+}
