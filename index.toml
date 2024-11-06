@@ -497,10 +497,6 @@ file = "config/bettercombat/server.json5"
 hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
-file = "config/betterendisland-forge-1_20.toml"
-hash = "705bd38f35f830cdee96cda5e3b3e31bc2992b6b5962bb08820dc24fef5d0846"
-
-[[files]]
 file = "config/bettergrass.json5"
 hash = "3961f58a1fd50f7ab9a096a03febc85e2638ee233ca84390f5e2c0e417f300d1"
 
@@ -63653,14 +63649,6 @@ file = "config/enchdesc.json"
 hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
 
 [[files]]
-file = "config/endermanoverhaul-client.jsonc"
-hash = "5d9315a8ce308b193ca880f5a782879c0f117861b08ccb38baed6d049e29b26a"
-
-[[files]]
-file = "config/endermanoverhaul.jsonc"
-hash = "604df779419644ba6c1afd3fd27b0fafb43a3c40bd6ecbe29c86d9fecd01a320"
-
-[[files]]
 file = "config/endertanks-client.toml"
 hash = "dd685b6f8552fab49713916bea17506512789554cb909bf25e2161875a24094f"
 
@@ -63683,10 +63671,6 @@ hash = "81b6afd82e5ab2ca45b5fc0f025ef5638b3d2df534dbc05bb7e399042706c961"
 [[files]]
 file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
-
-[[files]]
-file = "config/euphonium.toml"
-hash = "3ba9c42e4961301a484909011d3ab82bd09d9988a5f7a346b88632e9097345e0"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -63779,14 +63763,6 @@ hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
 [[files]]
 file = "config/gtceu.yaml"
 hash = "ff07c974726cbb2d8d66a11097a2c9ce2118033141fbcb502c1f6986678c5ddd"
-
-[[files]]
-file = "config/guardvillagers-client.toml"
-hash = "0ea610c7e94452b89315e117551af0cc98f7718bfc52dbfb19260f19953a81ba"
-
-[[files]]
-file = "config/guardvillagers-common.toml"
-hash = "2c62d09e465a85e8f1733c32e1a5f8b589990e0de4790a6e8d0a83c2594f3e1b"
 
 [[files]]
 file = "config/harvest_with_ease-common.toml"
@@ -63917,28 +63893,8 @@ file = "config/molten_vents_custom_blocks.json"
 hash = "1c4b2f085de10ae681570669250bfcf06a1f04c1e53ae70e3de49300ed0d8498"
 
 [[files]]
-file = "config/mowziesmobs-client.toml"
-hash = "f1ac5e4261522330176a25eee7888b06ba2476d1708bac24a215cec33279f1f2"
-
-[[files]]
-file = "config/mowziesmobs-common.toml"
-hash = "b0a7e9733b9660d7af4b77d76f356a5975349d84e0da42c08176156475264b7e"
-
-[[files]]
-file = "config/mutantmonsters-common.toml"
-hash = "64e2393805ee3a8c893cbf24cdab23f9c2151de0f55fc8bceb28e42170cbccc4"
-
-[[files]]
-file = "config/mutantmonsters-server.toml"
-hash = "017b3f5f1eeed31f83813f5f4c72880973e0daf91c6b19be705eced8f0653214"
-
-[[files]]
 file = "config/necronomicon.json5"
 hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
-
-[[files]]
-file = "config/nerb.yaml"
-hash = "297c899fead9c3e358d9fc45edcc241f4ffbc25b71a8c1c2c84609d8110b8eca"
 
 [[files]]
 file = "config/neruina.json"
@@ -63977,14 +63933,6 @@ file = "config/resourceful-config-web.json"
 hash = "84d6e829a0131691f27a4d0d54ae6ea69cc604170471d94e8988f3aed12619cf"
 
 [[files]]
-file = "config/sereneseasons/fertility.toml"
-hash = "2d2d244c696678957a2077b87a80fcd0132e3e4e39c44313248748e0758702a3"
-
-[[files]]
-file = "config/sereneseasons/seasons.toml"
-hash = "e70091ae55ec54c4920d50095eec571de9bf7da22747e3385f35a7e13afd1f4b"
-
-[[files]]
 file = "config/shetiphiancore-client.toml"
 hash = "d94be400344a5216de111fd93a2caa2af9c7d09849a195170c780ff1d9439008"
 
@@ -64003,10 +63951,6 @@ hash = "caaadf79e9456d06839974cfc9863579bc06f738bb7e128192bf866eb2f7d907"
 [[files]]
 file = "config/shield_overhaul/shield_overhaul_client.json"
 hash = "1bd77e1a3155775e3d10338a40fa127b236846a82ffb02b520bddb4fb20159cd"
-
-[[files]]
-file = "config/sidebar_buttons.json"
-hash = "33c7071e289295153b0457303c2d903f24d538ab9d10fdcf959e2a1cccd819ed"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -64051,14 +63995,6 @@ hash = "853a69847741cb185dd5dc00207d8a5f9027a02970af900c1b4d40cb5e1f0172"
 [[files]]
 file = "config/travelerstitles-forge-1_20.toml"
 hash = "c339ffec047e7faa8471f9c36ab83434db0262476194da70f4691575a6a1cea5"
-
-[[files]]
-file = "config/twilightforest-client.toml"
-hash = "7df74722394aa6f9b662317ad4840fc9b0a2e11c394ef6da2b3d9eabb62808d3"
-
-[[files]]
-file = "config/twilightforest-common.toml"
-hash = "2d8051f2d41dd6ee7b9e6570e84cd18a3e2d013c0890c95c0b66e7ecce0346b8"
 
 [[files]]
 file = "config/warriorrage-client.toml"
@@ -64638,11 +64574,6 @@ hash = "96c83f92d038524c36df54aadad8a3d8ba4a3f3643b998a1a5a228a9f35e2abc"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "7da34e928c36859509aee8e84d083f6936d92cefd44ab30ecc3abcb8b5da0018"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4008044d6dbd1f1955f835c0df98673851a788731861cdd65676d86350f88531"
 metafile = true
@@ -64689,7 +64620,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+hash = "c540a4a52b722f14ac4eb62d936d3d8cdc84e24c9d6d9250ae5776b3be04dece"
 metafile = true
 
 [[files]]
@@ -64758,11 +64689,6 @@ hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers.pw.toml"
-hash = "1d77aca40b37d5a4a4b98318a700a8bbab4123e3fa51c0c07ad7693145ac80d4"
-metafile = true
-
-[[files]]
 file = "mods/hang-glider.pw.toml"
 hash = "39d13de3388a0546d3116bb4ae1f6c86f068d051688cb0c3505ba1c4eb0e05e4"
 metafile = true
@@ -64785,11 +64711,6 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "c627312829eccf7651b294130f38db03e42e4ed447b19c04889f35cafa8865ba"
-metafile = true
-
-[[files]]
-file = "mods/horde-moon.pw.toml"
-hash = "bd4a3007e9db3b4ab4840cb6a56ddd5bbb709655b9692b96d8db29ea359e850d"
 metafile = true
 
 [[files]]
@@ -64970,11 +64891,6 @@ metafile = true
 [[files]]
 file = "mods/more-mekanism-processing.pw.toml"
 hash = "f87018e22424d41151ff02a8ee1e65633fcca1da3eae0b0f9a29b6749da14c01"
-metafile = true
-
-[[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "2e96ff6625fa5844c2969fd49918310c789aa9d4bfbcffc69c997ba83de41bd6"
 metafile = true
 
 [[files]]
@@ -65159,7 +65075,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "42a5f3d87f76d41e140ce4c1a08861bda666c42a4b31c01ec2788a6fbabac48b"
+hash = "bd2f4f024deede60d8797b546993fdd0fbe3c0c2747e9a2af07b21d369d40187"
 metafile = true
 
 [[files]]
@@ -65190,11 +65106,6 @@ metafile = true
 [[files]]
 file = "mods/spelunkers-charm-ii.pw.toml"
 hash = "da1318e1310fda40e403de8d8283d745bbb1ccca32fd1770d46594da8e7bc017"
-metafile = true
-
-[[files]]
-file = "mods/spider-moon.pw.toml"
-hash = "468123698637936434c5ce6a20ad1c6288ad9b261d79c6f4bd28c533c7c5a44f"
 metafile = true
 
 [[files]]
