@@ -63857,6 +63857,10 @@ file = "kubejs/server_scripts/corrections.js"
 hash = "37a6129ceed8275f0a215f118e9d416d7790be9c76c80e0b76809303a6491b94"
 
 [[files]]
+file = "kubejs/server_scripts/dt_wizards_reborn_sapling_compat.js"
+hash = "38e0f032e9a316b0fe1daa11a87cb8a723e3182c7602575955d970647281cd88"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "b0c61413cc2dd7fca52014fa070c40aa478dc9007dc7a94330b97f1be7827bd5"
 metafile = true
