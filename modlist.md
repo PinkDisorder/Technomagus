@@ -69,6 +69,7 @@
 | [Create](https://www.curseforge.com/projects/328085) |
 | [CreativeCore](https://www.curseforge.com/projects/257814) |
 | [Creeper Overhaul](https://www.curseforge.com/projects/561625) |
+| [CullLessLeaves Reforged (Unofficial)](https://www.curseforge.com/projects/840788) |
 | [Cupboard](https://www.curseforge.com/projects/326652) |
 | [Curios API (Forge/NeoForge)](https://www.curseforge.com/projects/309927) |
 | [Curious Lanterns](https://www.curseforge.com/projects/621377) |
@@ -90,6 +91,7 @@
 | [Dynamic Trees +](https://www.curseforge.com/projects/478155) |
 | [Eccentric Tome](https://www.curseforge.com/projects/597522) |
 | [Effortless Building](https://www.curseforge.com/projects/302113) |
+| [Embeddium](https://www.curseforge.com/projects/908741) |
 | [Embers Rekindled](https://www.curseforge.com/projects/300777) |
 | [EMI](https://www.curseforge.com/projects/580555) |
 | [Enchantment Descriptions](https://www.curseforge.com/projects/250419) |
@@ -101,7 +103,7 @@
 | [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/projects/568563) |
 | [Entity Culling Fabric/Forge](https://www.curseforge.com/projects/448233) |
 | [Euphoria Patches](https://www.curseforge.com/projects/915902) |
-| [Excavein](https://www.curseforge.com/projects/1128365) |
+| [Extreme Reactors](https://www.curseforge.com/projects/250277) |
 | [Extreme sound muffler - (Neo)Forge](https://www.curseforge.com/projects/363363) |
 | [Factory Blocks [Forge/Fabric/NeoForge]](https://www.curseforge.com/projects/640001) |
 | [Falling Leaves (NeoForge/Forge)](https://www.curseforge.com/projects/463155) |
@@ -152,6 +154,7 @@
 | [Macaw's Roofs](https://www.curseforge.com/projects/352039) |
 | [Macaw's Trapdoors](https://www.curseforge.com/projects/400933) |
 | [Macaw's Windows](https://www.curseforge.com/projects/363569) |
+| [Sodium/Embeddium Extras](https://www.curseforge.com/projects/558905) |
 | [Mekanism Generators](https://www.curseforge.com/projects/268566) |
 | [Mekanism Turrets & Fences](https://www.curseforge.com/projects/1031448) |
 | [Mekanism](https://www.curseforge.com/projects/268560) |
@@ -166,7 +169,6 @@
 | [Neruina - Ticking Entity Fixer](https://www.curseforge.com/projects/851046) |
 | [Nether's Delight](https://www.curseforge.com/projects/496394) |
 | [No Chat Reports](https://www.curseforge.com/projects/634062) |
-| [NuclearCraft: Neoteric](https://www.curseforge.com/projects/840010) |
 | [Nyf's Spiders](https://www.curseforge.com/projects/686058) |
 | [Ocean's Delight](https://www.curseforge.com/projects/841262) |
 | [OctoLib](https://www.curseforge.com/projects/916747) |
@@ -185,7 +187,6 @@
 | [Quark Oddities](https://www.curseforge.com/projects/301051) |
 | [Quark](https://www.curseforge.com/projects/243121) |
 | [Radiant Gear (Fabric/Forge/Quilt)](https://www.curseforge.com/projects/602199) |
-| [Rapid Leaf Decay](https://www.curseforge.com/projects/396847) |
 | [Reactive Music](https://www.curseforge.com/projects/960382) |
 | [Resourceful Config](https://www.curseforge.com/projects/714059) |
 | [Resourceful Lib](https://www.curseforge.com/projects/570073) |
@@ -215,6 +216,7 @@
 | [TxniLib](https://www.curseforge.com/projects/1104882) |
 | [Underground Bunkers](https://www.curseforge.com/projects/961418) |
 | [Vegan Delight](https://www.curseforge.com/projects/928290) |
+| [Vein Mining (Fabric/Forge/Quilt)](https://www.curseforge.com/projects/431611) |
 | [Village Nullifier](https://www.curseforge.com/projects/902233) |
 | [Warrior Rage (Forge/Fabric)](https://www.curseforge.com/projects/631764) |
 | [Waystones](https://www.curseforge.com/projects/245755) |
@@ -222,7 +224,6 @@
 | [Wizard's Reborn](https://www.curseforge.com/projects/913994) |
 | [Xaero's Minimap](https://www.curseforge.com/projects/263420) |
 | [Xaero's World Map](https://www.curseforge.com/projects/317780) |
-| [Xenon](https://www.curseforge.com/projects/564239) |
 | [YetAnotherConfigLib](https://www.curseforge.com/projects/667299) |
 | [Yeetus Experimentus](https://www.curseforge.com/projects/635427) |
 | [YUNG's API (Forge)](https://www.curseforge.com/projects/421850) |
@@ -231,4 +232,5 @@
 | [YUNG's Better Mineshafts (Forge)](https://www.curseforge.com/projects/389665) |
 | [YUNG's Bridges (Forge)](https://www.curseforge.com/projects/536660) |
 | [YUNG's Extras (Forge)](https://www.curseforge.com/projects/480006) |
+| [ZeroCore 2](https://www.curseforge.com/projects/247921) |
 | [Zeta](https://www.curseforge.com/projects/968868) |
