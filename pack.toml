@@ -1,11 +1,11 @@
 name = "Vestiges of Tomorrow"
-version = "0.24.0"
+version = "0.24.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "97fb6a1d376be23ba479238865492037e024e228f5e81150ec2efbafad81a9f4"
+hash = "f81ecc3250de02fc69d29cd69a848af18aee00cb9777342b463a47995797908f"
 
 [versions]
 forge = "47.3.11"

@@ -63601,11 +63601,11 @@ file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "f7ff774a6b7acbcdc0367e5b0b9a66020a69fbc1b1af37bc9585e0120f3994b4"
 
 [[files]]
-file = "config/fancymenu/customization/options_screen_layout.txt"
+file = "config/fancymenu/customization/options_screen_layout.txt.unused"
 hash = "278c8c6efbe4a575b7f16d6fd66cff86b007e0d8859f14fa5f5a4c5fd3e8652a"
 
 [[files]]
-file = "config/fancymenu/customization/pause_screen_layout.txt"
+file = "config/fancymenu/customization/pause_screen_layout.txt.unused"
 hash = "ff5c64eb00ba0f02a19567b185fc81e841240a827eb70c23be484a6f1d3a3b83"
 
 [[files]]
