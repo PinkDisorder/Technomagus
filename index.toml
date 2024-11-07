@@ -63494,7 +63494,7 @@ hash = "570f362ea2b9d90d070e436f4cef78ce3b90ab49f5c09dab7c2a3b6b9495d7f3"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "509a7639fd0bae962775ad8d3ad6b160d0b0e8b3efd9787c3e8bfb1ecbfd47c1"
+hash = "b00c2d28ba303d03c610c8665b963b5ea41ca7f1926c76b00c4835af9c8369fc"
 
 [[files]]
 file = "config/create_central_kitchen-common.toml"
@@ -63799,6 +63799,18 @@ hash = "86630c911ef13831fe61e44e88dcc2a38c3ed7d2cf198da405fcd5e8bec6bafa"
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
 hash = "55a7b289f6d2ecb116d39b385fb8a883f8317734dd42f3be16af11380e26c0a3"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "751e218122c98263d9de3965fde756ef502d46f582e955f290873923ace2a3d5"
+
+[[files]]
+file = "config/veinmining-common.toml"
+hash = "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "5820dd4b0b465966712e8ef4c11be899db11c2a8891970a17b2676aa8c55d657"
 
 [[files]]
 file = "datapacks/.gitkeep"
@@ -64922,6 +64934,11 @@ metafile = true
 [[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "65f02723b756b3cd81a4b1e9216f95ad97bcac3dae22a0f7da4b5990a84ea321"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "0d1a0a24a2d759c48bb1daa4b1bf27df514c91a4ff9a2c87df20ed5ce9ae809a"
 metafile = true
 
 [[files]]
