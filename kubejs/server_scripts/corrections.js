@@ -36,6 +36,10 @@ ServerEvents.tags("item", event => {
   // Ingredient.of("#forge:stone").itemIds.forEach(item => event.add(item, "minecraft:stone"));
 })
 
+ServerEvents.tags("block", event => {
+  event.add("create_new_age:thorium_ore", "#forge:ores")
+  event.add("create_new_age:thorium_ore", "#forge:ores/thorium")
+})
 // ServerEvents.tags('fluid', event => {
 //   const fluids = [
 //     "iron", "gold", "copper", "lead", "silver", "nickel", "tin", "zinc",

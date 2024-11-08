@@ -63810,7 +63810,7 @@ hash = "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "5820dd4b0b465966712e8ef4c11be899db11c2a8891970a17b2676aa8c55d657"
+hash = "5e6a61765f99af994d1e354f8c5af623d11e6a0c5ca99406da159d36f4670d6a"
 
 [[files]]
 file = "datapacks/.gitkeep"
@@ -63854,7 +63854,7 @@ hash = "88e9449a0ffdf285bffbcbc214ee1033effa8ef2f84b65c5293ff3b0ae584415"
 
 [[files]]
 file = "kubejs/server_scripts/corrections.js"
-hash = "37a6129ceed8275f0a215f118e9d416d7790be9c76c80e0b76809303a6491b94"
+hash = "76cd0b5a9e254aee3e0431c76b35300401bd9bd711a1406fbe7197ee96a3a073"
 
 [[files]]
 file = "kubejs/server_scripts/dt_wizards_reborn_sapling_compat.js"

@@ -37,12 +37,10 @@ blocksList = [
   "#forge:sand",
   "#forge:clay",
   "#forge:stone",
-  "create_new_age:thorium_ore",
 ]
 #Determines if blocksList contains allowed blocks or denied blocks.
 #Allowed Values: ALLOW, DENY
 blocksListType = "ALLOW"
-#The groups of blocks or block tags that are vein mined together.
 groupsList = [
   "#forge:obsidian",
   "#forge:ores/coal",
@@ -70,8 +68,8 @@ groupsList = [
   "#forge:ores/ruby",
   "#forge:ores/sapphire",
   "#forge:ores/sulfur",
+  "#forge:ores/thorium",
   "#forge:clay",
   "#forge:sand",
   "#forge:stone",
-  "create_new_age:thorium_ore",
-]
+] #The groups of blocks or block tags that are vein mined together.
