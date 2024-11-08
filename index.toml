@@ -63849,6 +63849,10 @@ file = "kubejs/data/kubejs/recipes/rotten_flesh_to_leather.json"
 hash = "2b4ffe4fe917abce25fb4f39920427ab5f3091edfd73d2099cbe20d0f7491992"
 
 [[files]]
+file = "kubejs/data/kubejs/recipes/rotten_flesh_to_leather_smoking.json"
+hash = "c3f26b7f8ac3fc44e4d7c091a8cf9d97bd5c0332d4fd9d44206b4df6d638d047"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/book.json"
 hash = "88e9449a0ffdf285bffbcbc214ee1033effa8ef2f84b65c5293ff3b0ae584415"
 
