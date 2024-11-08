@@ -37,11 +37,11 @@ ServerEvents.tags("block", event => {
   event.add("forge:ores", "create_new_age:thorium_ore");
   event.add("forge:ores/thorium", "create_new_age:thorium_ore");
 
-  event.add("#forge:ores", "rpgsmw:mineral_ore")
-  event.add("#forge:ores/arpegium", "rpgsmw:mineral_ore")
+  event.add("forge:ores", "rpgsmw:mineral_ore")
+  event.add("forge:ores/arpegium", "rpgsmw:mineral_ore")
 
-  event.add("#forge:ores", "rpgsmw:miphrildeepslateore")
-  event.add("#forge:ores/miphril", "rpgsmw:miphrildeepslateore")
+  event.add("forge:ores", "rpgsmw:miphrildeepslateore")
+  event.add("forge:ores/miphril", "rpgsmw:miphrildeepslateore")
 })
 
 // ServerEvents.tags('fluid', event => {});
