@@ -64025,11 +64025,6 @@ hash = "fa01e90eda345ff53f4f6d721e43a0738473f8a610ef33c6a5978cd47c570e6a"
 metafile = true
 
 [[files]]
-file = "mods/botarium.pw.toml"
-hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
-metafile = true
-
-[[files]]
 file = "mods/canary.pw.toml"
 hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
@@ -64182,11 +64177,6 @@ metafile = true
 [[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "23e8c7e184ffe881bbe08afb51f0d86e27644232eca37219e08684885be85852"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "011d35087c3d81b17000ba7604a73fef600a868021eed8c14df2dc2b77ca7ddc"
 metafile = true
 
 [[files]]
