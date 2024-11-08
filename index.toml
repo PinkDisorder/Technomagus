@@ -63845,12 +63845,8 @@ file = "kubejs/config/probe-settings.json"
 hash = "7306c539a31a484960e792b3bed8e109f39e0ae19a9546e2e42c4b3cadcbbe4c"
 
 [[files]]
-file = "kubejs/data/embers/worldgen/placed_feature/ore_lead_placer.json"
-hash = "4da391c15f364ab994fdc498e3808c9c0beb60c5c78b766c6e10fb2d1acef8a2"
-
-[[files]]
-file = "kubejs/data/embers/worldgen/placed_feature/ore_silver_placer.json"
-hash = "361ce46a40f1ecc2672bf2f941149fbb03a7d2513f77b67cd73b2766caebace2"
+file = "kubejs/data/minecraft/recipes/book.json"
+hash = "88e9449a0ffdf285bffbcbc214ee1033effa8ef2f84b65c5293ff3b0ae584415"
 
 [[files]]
 file = "kubejs/server_scripts/corrections.js"
