@@ -63845,6 +63845,10 @@ file = "kubejs/config/probe-settings.json"
 hash = "7306c539a31a484960e792b3bed8e109f39e0ae19a9546e2e42c4b3cadcbbe4c"
 
 [[files]]
+file = "kubejs/data/kubejs/recipes/rotten_flesh_to_leather.json"
+hash = "2b4ffe4fe917abce25fb4f39920427ab5f3091edfd73d2099cbe20d0f7491992"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/book.json"
 hash = "88e9449a0ffdf285bffbcbc214ee1033effa8ef2f84b65c5293ff3b0ae584415"
 
