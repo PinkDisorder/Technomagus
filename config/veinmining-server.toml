@@ -72,6 +72,8 @@ groupsList = [
   "#forge:ores/sulfur",
   "#forge:ores/thorium",
   "#forge:ores/arcanum",
+  "#forge:ores/arpegium",
+  "#forge:ores/miphril",
   "#forge:clay",
   "#forge:sand",
   "#forge:stone",

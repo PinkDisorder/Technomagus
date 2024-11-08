@@ -63810,7 +63810,7 @@ hash = "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "61e32a5fd77781b8f0b47c861443b6d3fcb2e95dee9d7cfd8cc8b19b7423bff8"
+hash = "c4cc1cd7a69e2546e775e7fa91c6d20b3aa14f9c237a52566caed6c4cd98cf8a"
 
 [[files]]
 file = "datapacks/.gitkeep"
@@ -63862,7 +63862,7 @@ hash = "38e0f032e9a316b0fe1daa11a87cb8a723e3182c7602575955d970647281cd88"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "e50ab0c391222abc40b45054697032a55721156059701339876982a9301cac82"
+hash = "bd8f2c6477f6ad9e9c6bed92883f643c19be32c9da371d52d728106744504ef3"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"

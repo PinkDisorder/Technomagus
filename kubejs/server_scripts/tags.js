@@ -5,7 +5,7 @@ ServerEvents.tags("item", event => {
   event.add("minecraft:stone", "#forge:stone");
   event.add("wizards_reborn:arcane_wood_slabs", "wizards_reborn:arcane_wood_slab");
 
-  event.add("forge:raw_pasta",      "#forge:pasta/raw_pasta");
+  event.add("forge:raw_pasta", "#forge:pasta/raw_pasta");
 
   event.add("forge:food/raw_pasta", "#forge:pasta/raw_pasta");
   event.add("forge:food/raw_pasta", "#forge:raw_pasta");
@@ -16,7 +16,6 @@ ServerEvents.tags("item", event => {
 
   event.add("forge:water_bucket", "#forge:buckets/water");
 
-  // Because having one set of tags that makes sense is too much to ask for humble onions
   event.add("forge:vegetables/onion", "#forge:crops/onion");
   event.add("forge:crops/onion", "#forge:vegetables/onion");
   event.add("c:crops/onion", "#forge:crops/onion");
@@ -32,26 +31,17 @@ ServerEvents.tags("item", event => {
   event.add("forge:nuts/acorn", "dynamictrees:oak_seed")
   event.add("forge:nuts/acorn", "dtterralith:ancient_seed")
   event.add("forge:nuts/acorn", "dtterralith:mirage_seed")
-
-  // Ingredient.of("#forge:stone").itemIds.forEach(item => event.add(item, "minecraft:stone"));
 })
 
 ServerEvents.tags("block", event => {
-  event.add("forge:ores", "create_new_age:thorium_ore")
-  event.add("forge:ores/thorium", "create_new_age:thorium_ore")
+  event.add("forge:ores", "create_new_age:thorium_ore");
+  event.add("forge:ores/thorium", "create_new_age:thorium_ore");
+
+  event.add("#forge:ores", "rpgsmw:mineral_ore")
+  event.add("#forge:ores/arpegium", "rpgsmw:mineral_ore")
+
+  event.add("#forge:ores", "rpgsmw:miphrildeepslateore")
+  event.add("#forge:ores/miphril", "rpgsmw:miphrildeepslateore")
 })
-// ServerEvents.tags('fluid', event => {
-//   const fluids = [
-//     "iron", "gold", "copper", "lead", "silver", "nickel", "tin", "zinc",
-//     "platinum", "bronze", "electrum", "brass", "invar", "steel"
-//   ]
 
-//   event.add("gtceu:aluminium", "#forge:molten_aluminum");
-//   event.add("forge:molten_aluminum", "gtceu:aluminium");
-
-//   fluids.forEach(f => {
-//     event.add(`gtceu:${f}`, `#forge:molten_${f}`);
-//     event.add(`forge:molten_${f}`, `#gtceu:${f}`);
-//   });
-
-// });
+// ServerEvents.tags('fluid', event => {});
