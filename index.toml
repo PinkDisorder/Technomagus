@@ -64671,11 +64671,6 @@ hash = "a2aa83a2702bf9d02a5b6f48ccabb1cbce2708c7e9de40e75a06b673494d8f46"
 metafile = true
 
 [[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "d3a4e2a13a72c8ebe492df7601b431dd5bf7c5d141124eaab7c41399cde3f632"
-metafile = true
-
-[[files]]
 file = "mods/more-mekanism-processing.pw.toml"
 hash = "f87018e22424d41151ff02a8ee1e65633fcca1da3eae0b0f9a29b6749da14c01"
 metafile = true
@@ -64908,16 +64903,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
-metafile = true
-
-[[files]]
-file = "mods/theurgy-kubejs.pw.toml"
-hash = "8be7e7a58deecb817a6c93600b81f02ac45ff2661e69ee602734f6d55e7fb56f"
-metafile = true
-
-[[files]]
-file = "mods/theurgy.pw.toml"
-hash = "7498077a55406b70cfcb7fa321019f3720da5f7f83820d099d3e004c441a3a07"
 metafile = true
 
 [[files]]
