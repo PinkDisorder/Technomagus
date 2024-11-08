@@ -37,8 +37,8 @@ ServerEvents.tags("item", event => {
 })
 
 ServerEvents.tags("block", event => {
-  event.add("create_new_age:thorium_ore", "#forge:ores")
-  event.add("create_new_age:thorium_ore", "#forge:ores/thorium")
+  event.add("forge:ores", "create_new_age:thorium_ore")
+  event.add("forge:ores/thorium", "create_new_age:thorium_ore")
 })
 // ServerEvents.tags('fluid', event => {
 //   const fluids = [
