@@ -63810,7 +63810,7 @@ hash = "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "c55225370ff7b90d89d1d489342598d09d86da3cb70cd0ddbb58147eb284d40f"
+hash = "61e32a5fd77781b8f0b47c861443b6d3fcb2e95dee9d7cfd8cc8b19b7423bff8"
 
 [[files]]
 file = "datapacks/.gitkeep"

@@ -37,6 +37,7 @@ blocksList = [
   "#forge:sand",
   "#forge:clay",
   "#forge:stone",
+  "#forge:gravel",
   "#minecraft:dirt",
 ]
 #Determines if blocksList contains allowed blocks or denied blocks.
@@ -74,5 +75,6 @@ groupsList = [
   "#forge:clay",
   "#forge:sand",
   "#forge:stone",
+  "#forge:gravel",
   "#minecraft:dirt",
 ] #The groups of blocks or block tags that are vein mined together.
