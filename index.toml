@@ -63853,12 +63853,12 @@ file = "kubejs/data/minecraft/recipes/book.json"
 hash = "88e9449a0ffdf285bffbcbc214ee1033effa8ef2f84b65c5293ff3b0ae584415"
 
 [[files]]
-file = "kubejs/server_scripts/corrections.js"
-hash = "76cd0b5a9e254aee3e0431c76b35300401bd9bd711a1406fbe7197ee96a3a073"
-
-[[files]]
 file = "kubejs/server_scripts/dt_wizards_reborn_sapling_compat.js"
 hash = "38e0f032e9a316b0fe1daa11a87cb8a723e3182c7602575955d970647281cd88"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "76cd0b5a9e254aee3e0431c76b35300401bd9bd711a1406fbe7197ee96a3a073"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
