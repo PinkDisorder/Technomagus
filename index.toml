@@ -63970,6 +63970,11 @@ hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
 
 [[files]]
+file = "mods/bens-sharks.pw.toml"
+hash = "b771e35a353f56012c31eafa313540ef2a5822e5536bbdbdd24627e44a543438"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
@@ -64410,6 +64415,11 @@ hash = "c540a4a52b722f14ac4eb62d936d3d8cdc84e24c9d6d9250ae5776b3be04dece"
 metafile = true
 
 [[files]]
+file = "mods/faunify.pw.toml"
+hash = "387830bfa8675c2d5dd1cdec9aa4a6fd43398afc43d12f7ad9e9032ed8ac5b6d"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
@@ -64472,6 +64482,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
+metafile = true
+
+[[files]]
+file = "mods/hamsters.pw.toml"
+hash = "87ee798202183b64997cc36e88d5fb70330ce71da6797a0efaf537839eea78a2"
 metafile = true
 
 [[files]]

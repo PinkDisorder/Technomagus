@@ -1,0 +1,13 @@
+name = "Ben's Sharks"
+filename = "benssharks-1.2.4.9-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5901fb6fcc64a787c9260f4e35d5442bfae62544"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5589911
+project-id = 987388
