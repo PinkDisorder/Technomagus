@@ -34,7 +34,7 @@ hash = "5a8ecae0292541666f6c3c68964f3fcf8bd0fe97c62208ae122dfc2042984f8b"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "46d87839892f6f9a5396181adfd6c18264c7952089afd6cd8685b3a32741d071"
+hash = "61b9806fe229d6e357522048e75c82fc8ce431987a895c3aa5563a14dc0bd220"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
