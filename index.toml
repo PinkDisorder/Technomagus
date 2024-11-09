@@ -410,7 +410,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "14e769968222f5311a0c40ce73e47bb6f0895d00bd4998d02a3c5d06a519abad"
+hash = "57682efb5902ae62be8e05aee9ee41ce29b15a892c58f78791e72f920c12d03f"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -63446,7 +63446,7 @@ hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
 
 [[files]]
 file = "config/cavedust.toml"
-hash = "952262858f7d533371fa56618ed49c7f01ea6a079c60068bafd28b03716c8984"
+hash = "a5e6f04b4e1dd0f08ef835199fdc8ffe9cfbed40707b628603734eb8942ddc72"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -64305,13 +64305,13 @@ hash = "66a33b2b8b0554be94fd4bc562ef84956b94ea0fb7edc2d6b6571e2ea0827fda"
 metafile = true
 
 [[files]]
-file = "mods/eccentric-tome.pw.toml"
-hash = "cae1dba77a14bdc6857c29406920d9cc704561e7b6f21b4688800b77a062a4f2"
+file = "mods/eb-patched.pw.toml"
+hash = "98932e010f04c02c6f952c70c29157e9fda252d9cc92a44dc93e6fa28c77a627"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "b6304b1347ee12280c69c312ecea9e8b15aa1b3bb9f2d089e77b0ebb2934b181"
+file = "mods/eccentric-tome.pw.toml"
+hash = "cae1dba77a14bdc6857c29406920d9cc704561e7b6f21b4688800b77a062a4f2"
 metafile = true
 
 [[files]]
