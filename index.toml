@@ -64225,11 +64225,6 @@ hash = "750841548ae0990fca6a11691760b394623d3316bc1eaad47ad7ee0ec5a906c9"
 metafile = true
 
 [[files]]
-file = "mods/curious-lanterns.pw.toml"
-hash = "95f30f99ccaf5ad23cfba28a55db24a0149e54ba79ae4c8653c5e76376d4ea53"
-metafile = true
-
-[[files]]
 file = "mods/custom-starter-gear.pw.toml"
 hash = "0769f6c97785ad495c2b0e88b1d50060d1ff635b5648f3bb915eb46977591208"
 metafile = true
@@ -64807,11 +64802,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
-metafile = true
-
-[[files]]
-file = "mods/radiant-gear.pw.toml"
-hash = "9ad6b9b7c7b20ed2acab2c74a4ed07eea820f23e751671a5840e7f4d7bb415a6"
 metafile = true
 
 [[files]]
